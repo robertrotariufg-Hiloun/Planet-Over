@@ -1,0 +1,3757 @@
+fileFormatVersion: 2
+guid: 5741e7d37689cb84ca748a72843a42c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3165143493554099725
+    second: KesharSpriteSheelt_0
+  - first:
+      213: -2320318837619640319
+    second: KesharSpriteSheelt_1
+  - first:
+      213: 172752930972141779
+    second: KesharSpriteSheelt_2
+  - first:
+      213: 8203554763411003209
+    second: KesharSpriteSheelt_3
+  - first:
+      213: 5801525526100586857
+    second: KesharSpriteSheelt_4
+  - first:
+      213: -5889936477265370311
+    second: KesharSpriteSheelt_5
+  - first:
+      213: -408754192443489371
+    second: KesharSpriteSheelt_6
+  - first:
+      213: 7111193887907150769
+    second: KesharSpriteSheelt_7
+  - first:
+      213: -3185516631101195882
+    second: KesharSpriteSheelt_8
+  - first:
+      213: -6282865006202207728
+    second: KesharSpriteSheelt_9
+  - first:
+      213: 8892360456665997344
+    second: KesharSpriteSheelt_10
+  - first:
+      213: -8072834560195406972
+    second: KesharSpriteSheelt_11
+  - first:
+      213: 7737916407121857455
+    second: KesharSpriteSheelt_12
+  - first:
+      213: 9217104430409289840
+    second: KesharSpriteSheelt_13
+  - first:
+      213: -7273439732465449256
+    second: KesharSpriteSheelt_14
+  - first:
+      213: -6109895321888845755
+    second: KesharSpriteSheelt_15
+  - first:
+      213: -509186027321029858
+    second: KesharSpriteSheelt_16
+  - first:
+      213: -8791197999310880576
+    second: KesharSpriteSheelt_17
+  - first:
+      213: 1502767464184234201
+    second: KesharSpriteSheelt_18
+  - first:
+      213: 6375442970236534867
+    second: KesharSpriteSheelt_19
+  - first:
+      213: -5767544114219767102
+    second: KesharSpriteSheelt_20
+  - first:
+      213: 8776639387260734072
+    second: KesharSpriteSheelt_21
+  - first:
+      213: 7617777052069063650
+    second: KesharSpriteSheelt_22
+  - first:
+      213: 8654118762516808745
+    second: KesharSpriteSheelt_23
+  - first:
+      213: -6652786508177906604
+    second: KesharSpriteSheelt_24
+  - first:
+      213: -750061044398309848
+    second: KesharSpriteSheelt_25
+  - first:
+      213: 7473835766383770572
+    second: KesharSpriteSheelt_26
+  - first:
+      213: 3166161362002647990
+    second: KesharSpriteSheelt_27
+  - first:
+      213: 7947491089960194962
+    second: KesharSpriteSheelt_28
+  - first:
+      213: 2046585423487092643
+    second: KesharSpriteSheelt_29
+  - first:
+      213: 8444868611350119433
+    second: KesharSpriteSheelt_30
+  - first:
+      213: -6118996457051606582
+    second: KesharSpriteSheelt_31
+  - first:
+      213: 8026606878391960977
+    second: KesharSpriteSheelt_32
+  - first:
+      213: -7862308085276417401
+    second: KesharSpriteSheelt_33
+  - first:
+      213: 1462113649640467790
+    second: KesharSpriteSheelt_34
+  - first:
+      213: -834311463747218332
+    second: KesharSpriteSheelt_35
+  - first:
+      213: 8710051854035476164
+    second: KesharSpriteSheelt_36
+  - first:
+      213: -8987831663937778698
+    second: KesharSpriteSheelt_37
+  - first:
+      213: 1733739185852911740
+    second: KesharSpriteSheelt_38
+  - first:
+      213: 968514023413715286
+    second: KesharSpriteSheelt_39
+  - first:
+      213: -1349626698935891899
+    second: KesharSpriteSheelt_40
+  - first:
+      213: 5033333153995096915
+    second: KesharSpriteSheelt_41
+  - first:
+      213: -1939325796973883164
+    second: KesharSpriteSheelt_42
+  - first:
+      213: -4897385445685918136
+    second: KesharSpriteSheelt_43
+  - first:
+      213: -7248144213622907825
+    second: KesharSpriteSheelt_44
+  - first:
+      213: -1080162033575822432
+    second: KesharSpriteSheelt_45
+  - first:
+      213: -1427898065651166817
+    second: KesharSpriteSheelt_46
+  - first:
+      213: 1491536761505055615
+    second: KesharSpriteSheelt_47
+  - first:
+      213: -2082564590187029332
+    second: KesharSpriteSheelt_48
+  - first:
+      213: -7034310180850042860
+    second: KesharSpriteSheelt_49
+  - first:
+      213: -7928769842121161177
+    second: KesharSpriteSheelt_50
+  - first:
+      213: 3894068763328805835
+    second: KesharSpriteSheelt_51
+  - first:
+      213: -3179830703752846610
+    second: KesharSpriteSheelt_52
+  - first:
+      213: -5968864107862697191
+    second: KesharSpriteSheelt_53
+  - first:
+      213: 2373046793143548822
+    second: KesharSpriteSheelt_54
+  - first:
+      213: -3733750335943159027
+    second: KesharSpriteSheelt_55
+  - first:
+      213: -6095349625657045175
+    second: KesharSpriteSheelt_56
+  - first:
+      213: 3280760812072256815
+    second: KesharSpriteSheelt_57
+  - first:
+      213: -849298474294900186
+    second: KesharSpriteSheelt_58
+  - first:
+      213: -471917683678142267
+    second: KesharSpriteSheelt_59
+  - first:
+      213: -5205268559356210189
+    second: KesharSpriteSheelt_60
+  - first:
+      213: -8657649819980129825
+    second: KesharSpriteSheelt_61
+  - first:
+      213: 5216595618983826859
+    second: KesharSpriteSheelt_62
+  - first:
+      213: -4736097037102515776
+    second: KesharSpriteSheelt_63
+  - first:
+      213: -8699979801008742204
+    second: KesharSpriteSheelt_64
+  - first:
+      213: -3207673848477932970
+    second: KesharSpriteSheelt_65
+  - first:
+      213: -6153518216936110930
+    second: KesharSpriteSheelt_66
+  - first:
+      213: 7747792980011191198
+    second: KesharSpriteSheelt_67
+  - first:
+      213: -6602709784021511842
+    second: KesharSpriteSheelt_68
+  - first:
+      213: 537463996245299702
+    second: KesharSpriteSheelt_69
+  - first:
+      213: 6698742242646296072
+    second: KesharSpriteSheelt_70
+  - first:
+      213: 8063872510431107834
+    second: KesharSpriteSheelt_71
+  - first:
+      213: -1408620891538024448
+    second: KesharSpriteSheelt_72
+  - first:
+      213: -119054236087322088
+    second: KesharSpriteSheelt_73
+  - first:
+      213: -3604826044670839627
+    second: KesharSpriteSheelt_74
+  - first:
+      213: 2524690480760159744
+    second: KesharSpriteSheelt_75
+  - first:
+      213: -8205194063322683836
+    second: KesharSpriteSheelt_76
+  - first:
+      213: -8105712353996974343
+    second: KesharSpriteSheelt_77
+  - first:
+      213: -2289819491788598559
+    second: KesharSpriteSheelt_78
+  - first:
+      213: 3260767009661281634
+    second: KesharSpriteSheelt_79
+  - first:
+      213: -7765794856472073552
+    second: KesharSpriteSheelt_80
+  - first:
+      213: 2514591624801655266
+    second: KesharSpriteSheelt_81
+  - first:
+      213: 948570321732525290
+    second: KesharSpriteSheelt_82
+  - first:
+      213: -3858551416226262110
+    second: KesharSpriteSheelt_83
+  - first:
+      213: 4694835429842747369
+    second: KesharSpriteSheelt_84
+  - first:
+      213: 8062504742663761115
+    second: KesharSpriteSheelt_85
+  - first:
+      213: -7110163429924932159
+    second: KesharSpriteSheelt_86
+  - first:
+      213: -5023745683535004252
+    second: KesharSpriteSheelt_87
+  - first:
+      213: 2049990803697232052
+    second: KesharSpriteSheelt_88
+  - first:
+      213: 6975927021208964102
+    second: KesharSpriteSheelt_89
+  - first:
+      213: 3606510593615357881
+    second: KesharSpriteSheelt_90
+  - first:
+      213: 332135665087556987
+    second: KesharSpriteSheelt_91
+  - first:
+      213: -6654130203765850728
+    second: KesharSpriteSheelt_92
+  - first:
+      213: 4111852053382798472
+    second: KesharSpriteSheelt_93
+  - first:
+      213: 6229796135219163830
+    second: KesharSpriteSheelt_94
+  - first:
+      213: -4525483660617792057
+    second: KesharSpriteSheelt_95
+  - first:
+      213: -5335619465200921600
+    second: KesharSpriteSheelt_96
+  - first:
+      213: -6908033074891328992
+    second: KesharSpriteSheelt_97
+  - first:
+      213: -1817090260947063210
+    second: KesharSpriteSheelt_98
+  - first:
+      213: -5401059304237568263
+    second: KesharSpriteSheelt_99
+  - first:
+      213: -7414637776670173897
+    second: KesharSpriteSheelt_100
+  - first:
+      213: -3486302795403475108
+    second: KesharSpriteSheelt_101
+  - first:
+      213: -5790789478540497060
+    second: KesharSpriteSheelt_102
+  - first:
+      213: -3364548594427174395
+    second: KesharSpriteSheelt_103
+  - first:
+      213: -242773535513613245
+    second: KesharSpriteSheelt_104
+  - first:
+      213: -5549822279832513803
+    second: KesharSpriteSheelt_105
+  - first:
+      213: 4726738125449064188
+    second: KesharSpriteSheelt_106
+  - first:
+      213: -1277648284527954824
+    second: KesharSpriteSheelt_107
+  - first:
+      213: 7406371002935193836
+    second: KesharSpriteSheelt_108
+  - first:
+      213: -4924848423663879539
+    second: KesharSpriteSheelt_109
+  - first:
+      213: -7803475748449187663
+    second: KesharSpriteSheelt_110
+  - first:
+      213: -8767891242387286061
+    second: KesharSpriteSheelt_111
+  - first:
+      213: -4083295660621231872
+    second: KesharSpriteSheelt_112
+  - first:
+      213: 4238265862836025620
+    second: KesharSpriteSheelt_113
+  - first:
+      213: -8576161918420114232
+    second: KesharSpriteSheelt_114
+  - first:
+      213: 7977166767225373623
+    second: KesharSpriteSheelt_115
+  - first:
+      213: -2187133088746633072
+    second: KesharSpriteSheelt_116
+  - first:
+      213: 7585736152098937851
+    second: KesharSpriteSheelt_117
+  - first:
+      213: -7830042051965672791
+    second: KesharSpriteSheelt_118
+  - first:
+      213: 8061559588826548550
+    second: KesharSpriteSheelt_119
+  - first:
+      213: -1866332687385442439
+    second: KesharSpriteSheelt_120
+  - first:
+      213: -3144820867259358610
+    second: KesharSpriteSheelt_121
+  - first:
+      213: 6562966736873512417
+    second: KesharSpriteSheelt_122
+  - first:
+      213: 6664825282974631600
+    second: KesharSpriteSheelt_123
+  - first:
+      213: 8196171586775356196
+    second: KesharSpriteSheelt_124
+  - first:
+      213: 4716975961432416553
+    second: KesharSpriteSheelt_125
+  - first:
+      213: -2814435031815246706
+    second: KesharSpriteSheelt_126
+  - first:
+      213: -6988962753091046166
+    second: KesharSpriteSheelt_127
+  - first:
+      213: -7431059107016359837
+    second: KesharSpriteSheelt_128
+  - first:
+      213: 2336598583261702321
+    second: KesharSpriteSheelt_129
+  - first:
+      213: -8974589786586496004
+    second: KesharSpriteSheelt_130
+  - first:
+      213: 3509540536707985622
+    second: KesharSpriteSheelt_131
+  - first:
+      213: -8184412016245392981
+    second: KesharSpriteSheelt_132
+  - first:
+      213: 8084349185379730286
+    second: KesharSpriteSheelt_133
+  - first:
+      213: 1508142112838452860
+    second: KesharSpriteSheelt_134
+  - first:
+      213: 1114327351800363321
+    second: KesharSpriteSheelt_135
+  - first:
+      213: 2814952438551828981
+    second: KesharSpriteSheelt_136
+  - first:
+      213: 4128347875176785691
+    second: KesharSpriteSheelt_137
+  - first:
+      213: 6983508367788105622
+    second: KesharSpriteSheelt_138
+  - first:
+      213: -1171639907893655834
+    second: KesharSpriteSheelt_139
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d065e6cdc39dceb20800000000000000
+      internalID: 3165143493554099725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108b80e8f429ccfd0800000000000000
+      internalID: -2320318837619640319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8808c10edb56200800000000000000
+      internalID: 172752930972141779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9479390d791e8d170800000000000000
+      internalID: 8203554763411003209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961369a6ab8238050800000000000000
+      internalID: 5801525526100586857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9336bfaeafdb24ea0800000000000000
+      internalID: -5889936477265370311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a344f64a30d35af0800000000000000
+      internalID: -408754192443489371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb72a11a2900b260800000000000000
+      internalID: 7111193887907150769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6993d196085cac3d0800000000000000
+      internalID: -3185516631101195882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012c59d9097cec8a0800000000000000
+      internalID: -6282865006202207728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020ae4ab8b2086b70800000000000000
+      internalID: 8892360456665997344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4835e0d3db787ff80800000000000000
+      internalID: -8072834560195406972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab4a2c99f9926b60800000000000000
+      internalID: 7737916407121857455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070993825abb9ef70800000000000000
+      internalID: 9217104430409289840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d64f23891d8f0b90800000000000000
+      internalID: -7273439732465449256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5409efb839a453ba0800000000000000
+      internalID: -6109895321888845755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b00f481020fe8f0800000000000000
+      internalID: -509186027321029858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c043f45ff36ff580800000000000000
+      internalID: -8791197999310880576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d047b2fb07ead410800000000000000
+      internalID: 1502767464184234201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350c5b65a9f1a7850800000000000000
+      internalID: 6375442970236534867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca29859f2195ffa0800000000000000
+      internalID: -5767544114219767102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ac067a503ecc970800000000000000
+      internalID: 8776639387260734072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebe2be3ed7c7b960800000000000000
+      internalID: 7617777052069063650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9248bdbb92b991870800000000000000
+      internalID: 8654118762516808745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4546b853bed8ca3a0800000000000000
+      internalID: -6652786508177906604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eb7c0447f3795f0800000000000000
+      internalID: -750061044398309848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbf9ec080668b760800000000000000
+      internalID: 7473835766383770572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb1cb3dbf670fb20800000000000000
+      internalID: 3166161362002647990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293d8a8e9092b4e60800000000000000
+      internalID: 7947491089960194962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7c071799ee66c10800000000000000
+      internalID: 2046585423487092643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904ce5a5243323570800000000000000
+      internalID: 8444868611350119433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1b0936425f41ba0800000000000000
+      internalID: -6118996457051606582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195824add6c346f60800000000000000
+      internalID: 8026606878391960977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_33
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782ea66e37873e290800000000000000
+      internalID: -7862308085276417401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_34
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4de1142e987a4410800000000000000
+      internalID: 1462113649640467790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_35
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4649f43e42eeb64f0800000000000000
+      internalID: -834311463747218332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_36
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce540f630250e870800000000000000
+      internalID: 8710051854035476164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_37
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb0bf1a8bec44380800000000000000
+      internalID: -8987831663937778698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_38
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7010f19a9a7f0810800000000000000
+      internalID: 1733739185852911740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_39
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6511f857f5ad07d00800000000000000
+      internalID: 968514023413715286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5480b8efaa9254de0800000000000000
+      internalID: -1349626698935891899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_41
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3530318f5ddf9d540800000000000000
+      internalID: 5033333153995096915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_42
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0de9f66712615e0800000000000000
+      internalID: -1939325796973883164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_43
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84609b572edf80cb0800000000000000
+      internalID: -4897385445685918136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_44
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c14327d3b696b90800000000000000
+      internalID: -7248144213622907825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_45
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab79d87a5e7201f0800000000000000
+      internalID: -1080162033575822432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_46
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91156d46461f2ce0800000000000000
+      internalID: -1427898065651166817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_47
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7302f638c003b410800000000000000
+      internalID: 1491536761505055615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac58140a8e3913e0800000000000000
+      internalID: -2082564590187029332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_49
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418f48ee82c116e90800000000000000
+      internalID: -7034310180850042860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_50
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726c98646d957f190800000000000000
+      internalID: -7928769842121161177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_51
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb782998e28a0630800000000000000
+      internalID: 3894068763328805835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_52
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee26ee882d8fed3d0800000000000000
+      internalID: -3179830703752846610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_53
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bd342e7b55a2da0800000000000000
+      internalID: -5968864107862697191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_54
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b73b44c71cee020800000000000000
+      internalID: 2373046793143548822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_55
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03dc1a0add0f2cc0800000000000000
+      internalID: -3733750335943159027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_56
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fc6ec5fc7f86ba0800000000000000
+      internalID: -6095349625657045175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_57
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25c69c839a978d20800000000000000
+      internalID: 3280760812072256815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_58
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a0f53998fa634f0800000000000000
+      internalID: -849298474294900186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_59
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0a325fd596379f0800000000000000
+      internalID: -471917683678142267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_60
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3501fe2db23c7b0800000000000000
+      internalID: -5205268559356210189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_61
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd91c52eb59d9d780800000000000000
+      internalID: -8657649819980129825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_62
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5d366a312156840800000000000000
+      internalID: 5216595618983826859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_63
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c979b176d0064eb0800000000000000
+      internalID: -4736097037102515776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_64
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0ecc72776734780800000000000000
+      internalID: -8699979801008742204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_65
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652a92a31ad0c73d0800000000000000
+      internalID: -3207673848477932970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_66
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c0a0d8cf4a9aa0800000000000000
+      internalID: -6153518216936110930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_67
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b05de6aa0b58b60800000000000000
+      internalID: 7747792980011191198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_68
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d6602f667e54a0800000000000000
+      internalID: -6602709784021511842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_69
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f153cf28a4757700800000000000000
+      internalID: 537463996245299702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_70
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80606d60496b6fc50800000000000000
+      internalID: 6698742242646296072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_71
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa9842f251a8ef60800000000000000
+      internalID: 8063872510431107834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_72
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0089ea823c2937ce0800000000000000
+      internalID: -1408620891538024448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_73
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a72059dc8095ef0800000000000000
+      internalID: -119054236087322088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_74
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b47152cfc519fdc0800000000000000
+      internalID: -3604826044670839627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_75
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ef489ad90890320800000000000000
+      internalID: 2524690480760159744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_76
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446e18ee87b412e80800000000000000
+      internalID: -8205194063322683836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_77
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6d3885f89b28f80800000000000000
+      internalID: -8105712353996974343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_78
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2dc20ed4de830e0800000000000000
+      internalID: -2289819491788598559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_79
+      rect:
+        serializedVersion: 2
+        x: 5056
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2656c2aa152904d20800000000000000
+      internalID: 3260767009661281634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_80
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba2d6519ba5a3490800000000000000
+      internalID: -7765794856472073552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_81
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9997782cf95e220800000000000000
+      internalID: 2514591624801655266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_82
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec585f8eaff92d00800000000000000
+      internalID: 948570321732525290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_83
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d0403eeba37ac0800000000000000
+      internalID: -3858551416226262110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_84
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff1baf2f7672140800000000000000
+      internalID: 4694835429842747369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_85
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc2062b855c3ef60800000000000000
+      internalID: 8062504742663761115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_86
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5f9502800a35d90800000000000000
+      internalID: -7110163429924932159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_87
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad7ef2fae1184ab0800000000000000
+      internalID: -5023745683535004252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_88
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8e03f46c7037c10800000000000000
+      internalID: 2049990803697232052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_89
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c853e6aa87fc060800000000000000
+      internalID: 6975927021208964102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_90
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7602bd646ec0230800000000000000
+      internalID: 3606510593615357881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_91
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d28cea0abfb9400800000000000000
+      internalID: 332135665087556987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_92
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89db653b5d7c7a3a0800000000000000
+      internalID: -6654130203765850728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_93
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c97d238ab301930800000000000000
+      internalID: 4111852053382798472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_94
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2f6def39ea47650800000000000000
+      internalID: 6229796135219163830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_95
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5ca0476904231c0800000000000000
+      internalID: -4525483660617792057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_96
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0041a00ad5214f5b0800000000000000
+      internalID: -5335619465200921600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_97
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022f37ac48cb120a0800000000000000
+      internalID: -6908033074891328992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_98
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ead67f80668c6e0800000000000000
+      internalID: -1817090260947063210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_99
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fee918cd259b05b0800000000000000
+      internalID: -5401059304237568263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_100
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735d16ff93ae91990800000000000000
+      internalID: -7414637776670173897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_101
+      rect:
+        serializedVersion: 2
+        x: 6464
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57468c241a2e9fc0800000000000000
+      internalID: -3486302795403475108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_102
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f268276abf2afa0800000000000000
+      internalID: -5790789478540497060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_103
+      rect:
+        serializedVersion: 2
+        x: 6592
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e0a721e8be41d0800000000000000
+      internalID: -3364548594427174395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_104
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c68d671ce71acf0800000000000000
+      internalID: -242773535513613245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_105
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d80c6a021bf2b0800000000000000
+      internalID: -5549822279832513803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_106
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeefa1284fb89140800000000000000
+      internalID: 4726738125449064188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_107
+      rect:
+        serializedVersion: 2
+        x: 6848
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874f2dc87a1e44ee0800000000000000
+      internalID: -1277648284527954824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_108
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b4b0cf27b8c660800000000000000
+      internalID: 7406371002935193836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_109
+      rect:
+        serializedVersion: 2
+        x: 6976
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a3fde937c67abb0800000000000000
+      internalID: -4924848423663879539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_110
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b88f40c62c74b390800000000000000
+      internalID: -7803475748449187663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_111
+      rect:
+        serializedVersion: 2
+        x: 7104
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d75f3c8e51325680800000000000000
+      internalID: -8767891242387286061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_112
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00907cb1b383557c0800000000000000
+      internalID: -4083295660621231872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_113
+      rect:
+        serializedVersion: 2
+        x: 7232
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4197102d85851da30800000000000000
+      internalID: 4238265862836025620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_114
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c426547c2a5bf880800000000000000
+      internalID: -8576161918420114232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_115
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b30582f8e694be60800000000000000
+      internalID: 7977166767225373623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_116
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09801c03b0eb5a1e0800000000000000
+      internalID: -2187133088746633072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_117
+      rect:
+        serializedVersion: 2
+        x: 7488
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb12b1e6d2f54960800000000000000
+      internalID: 7585736152098937851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_118
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a227343d3a165390800000000000000
+      internalID: -7830042051965672791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_119
+      rect:
+        serializedVersion: 2
+        x: 7616
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64986abebb960ef60800000000000000
+      internalID: 8061559588826548550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_120
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977c0bf1f447916e0800000000000000
+      internalID: -1866332687385442439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_121
+      rect:
+        serializedVersion: 2
+        x: 7744
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6225cc451a5b54d0800000000000000
+      internalID: -3144820867259358610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_122
+      rect:
+        serializedVersion: 2
+        x: 7808
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eddc00a977541b50800000000000000
+      internalID: 6562966736873512417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_123
+      rect:
+        serializedVersion: 2
+        x: 7872
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6ceb978473e7c50800000000000000
+      internalID: 6664825282974631600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_124
+      rect:
+        serializedVersion: 2
+        x: 7936
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42315eb02a6aeb170800000000000000
+      internalID: 8196171586775356196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_125
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9216c3335a0167140800000000000000
+      internalID: 4716975961432416553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_126
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cac35004e11f8d0800000000000000
+      internalID: -2814435031815246706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_127
+      rect:
+        serializedVersion: 2
+        x: 8128
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae47299b767320f90800000000000000
+      internalID: -6988962753091046166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_128
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360cb551d139fd890800000000000000
+      internalID: -7431059107016359837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_129
+      rect:
+        serializedVersion: 2
+        x: 8256
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8aef918044d6020800000000000000
+      internalID: 2336598583261702321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_130
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c9a5732ad37380800000000000000
+      internalID: -8974589786586496004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_131
+      rect:
+        serializedVersion: 2
+        x: 8384
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d03057168464b030800000000000000
+      internalID: 3509540536707985622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_132
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9314452a02b6e80800000000000000
+      internalID: -8184412016245392981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_133
+      rect:
+        serializedVersion: 2
+        x: 8512
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6307ca50c0613070800000000000000
+      internalID: 8084349185379730286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_134
+      rect:
+        serializedVersion: 2
+        x: 8576
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c760b8ad24ffde410800000000000000
+      internalID: 1508142112838452860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_135
+      rect:
+        serializedVersion: 2
+        x: 8640
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939ff8f82d2e67f00800000000000000
+      internalID: 1114327351800363321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_136
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9508f1458b01720800000000000000
+      internalID: 2814952438551828981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_137
+      rect:
+        serializedVersion: 2
+        x: 8768
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17a6210586da4930800000000000000
+      internalID: 4128347875176785691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_138
+      rect:
+        serializedVersion: 2
+        x: 8832
+        y: 0
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f5afb3cd76ae060800000000000000
+      internalID: 6983508367788105622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KesharSpriteSheelt_139
+      rect:
+        serializedVersion: 2
+        x: 8896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c35d16bf7dbfe0800000000000000
+      internalID: -1171639907893655834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KesharSpriteSheelt_0: 3165143493554099725
+      KesharSpriteSheelt_1: -2320318837619640319
+      KesharSpriteSheelt_10: 8892360456665997344
+      KesharSpriteSheelt_100: -7414637776670173897
+      KesharSpriteSheelt_101: -3486302795403475108
+      KesharSpriteSheelt_102: -5790789478540497060
+      KesharSpriteSheelt_103: -3364548594427174395
+      KesharSpriteSheelt_104: -242773535513613245
+      KesharSpriteSheelt_105: -5549822279832513803
+      KesharSpriteSheelt_106: 4726738125449064188
+      KesharSpriteSheelt_107: -1277648284527954824
+      KesharSpriteSheelt_108: 7406371002935193836
+      KesharSpriteSheelt_109: -4924848423663879539
+      KesharSpriteSheelt_11: -8072834560195406972
+      KesharSpriteSheelt_110: -7803475748449187663
+      KesharSpriteSheelt_111: -8767891242387286061
+      KesharSpriteSheelt_112: -4083295660621231872
+      KesharSpriteSheelt_113: 4238265862836025620
+      KesharSpriteSheelt_114: -8576161918420114232
+      KesharSpriteSheelt_115: 7977166767225373623
+      KesharSpriteSheelt_116: -2187133088746633072
+      KesharSpriteSheelt_117: 7585736152098937851
+      KesharSpriteSheelt_118: -7830042051965672791
+      KesharSpriteSheelt_119: 8061559588826548550
+      KesharSpriteSheelt_12: 7737916407121857455
+      KesharSpriteSheelt_120: -1866332687385442439
+      KesharSpriteSheelt_121: -3144820867259358610
+      KesharSpriteSheelt_122: 6562966736873512417
+      KesharSpriteSheelt_123: 6664825282974631600
+      KesharSpriteSheelt_124: 8196171586775356196
+      KesharSpriteSheelt_125: 4716975961432416553
+      KesharSpriteSheelt_126: -2814435031815246706
+      KesharSpriteSheelt_127: -6988962753091046166
+      KesharSpriteSheelt_128: -7431059107016359837
+      KesharSpriteSheelt_129: 2336598583261702321
+      KesharSpriteSheelt_13: 9217104430409289840
+      KesharSpriteSheelt_130: -8974589786586496004
+      KesharSpriteSheelt_131: 3509540536707985622
+      KesharSpriteSheelt_132: -8184412016245392981
+      KesharSpriteSheelt_133: 8084349185379730286
+      KesharSpriteSheelt_134: 1508142112838452860
+      KesharSpriteSheelt_135: 1114327351800363321
+      KesharSpriteSheelt_136: 2814952438551828981
+      KesharSpriteSheelt_137: 4128347875176785691
+      KesharSpriteSheelt_138: 6983508367788105622
+      KesharSpriteSheelt_139: -1171639907893655834
+      KesharSpriteSheelt_14: -7273439732465449256
+      KesharSpriteSheelt_15: -6109895321888845755
+      KesharSpriteSheelt_16: -509186027321029858
+      KesharSpriteSheelt_17: -8791197999310880576
+      KesharSpriteSheelt_18: 1502767464184234201
+      KesharSpriteSheelt_19: 6375442970236534867
+      KesharSpriteSheelt_2: 172752930972141779
+      KesharSpriteSheelt_20: -5767544114219767102
+      KesharSpriteSheelt_21: 8776639387260734072
+      KesharSpriteSheelt_22: 7617777052069063650
+      KesharSpriteSheelt_23: 8654118762516808745
+      KesharSpriteSheelt_24: -6652786508177906604
+      KesharSpriteSheelt_25: -750061044398309848
+      KesharSpriteSheelt_26: 7473835766383770572
+      KesharSpriteSheelt_27: 3166161362002647990
+      KesharSpriteSheelt_28: 7947491089960194962
+      KesharSpriteSheelt_29: 2046585423487092643
+      KesharSpriteSheelt_3: 8203554763411003209
+      KesharSpriteSheelt_30: 8444868611350119433
+      KesharSpriteSheelt_31: -6118996457051606582
+      KesharSpriteSheelt_32: 8026606878391960977
+      KesharSpriteSheelt_33: -7862308085276417401
+      KesharSpriteSheelt_34: 1462113649640467790
+      KesharSpriteSheelt_35: -834311463747218332
+      KesharSpriteSheelt_36: 8710051854035476164
+      KesharSpriteSheelt_37: -8987831663937778698
+      KesharSpriteSheelt_38: 1733739185852911740
+      KesharSpriteSheelt_39: 968514023413715286
+      KesharSpriteSheelt_4: 5801525526100586857
+      KesharSpriteSheelt_40: -1349626698935891899
+      KesharSpriteSheelt_41: 5033333153995096915
+      KesharSpriteSheelt_42: -1939325796973883164
+      KesharSpriteSheelt_43: -4897385445685918136
+      KesharSpriteSheelt_44: -7248144213622907825
+      KesharSpriteSheelt_45: -1080162033575822432
+      KesharSpriteSheelt_46: -1427898065651166817
+      KesharSpriteSheelt_47: 1491536761505055615
+      KesharSpriteSheelt_48: -2082564590187029332
+      KesharSpriteSheelt_49: -7034310180850042860
+      KesharSpriteSheelt_5: -5889936477265370311
+      KesharSpriteSheelt_50: -7928769842121161177
+      KesharSpriteSheelt_51: 3894068763328805835
+      KesharSpriteSheelt_52: -3179830703752846610
+      KesharSpriteSheelt_53: -5968864107862697191
+      KesharSpriteSheelt_54: 2373046793143548822
+      KesharSpriteSheelt_55: -3733750335943159027
+      KesharSpriteSheelt_56: -6095349625657045175
+      KesharSpriteSheelt_57: 3280760812072256815
+      KesharSpriteSheelt_58: -849298474294900186
+      KesharSpriteSheelt_59: -471917683678142267
+      KesharSpriteSheelt_6: -408754192443489371
+      KesharSpriteSheelt_60: -5205268559356210189
+      KesharSpriteSheelt_61: -8657649819980129825
+      KesharSpriteSheelt_62: 5216595618983826859
+      KesharSpriteSheelt_63: -4736097037102515776
+      KesharSpriteSheelt_64: -8699979801008742204
+      KesharSpriteSheelt_65: -3207673848477932970
+      KesharSpriteSheelt_66: -6153518216936110930
+      KesharSpriteSheelt_67: 7747792980011191198
+      KesharSpriteSheelt_68: -6602709784021511842
+      KesharSpriteSheelt_69: 537463996245299702
+      KesharSpriteSheelt_7: 7111193887907150769
+      KesharSpriteSheelt_70: 6698742242646296072
+      KesharSpriteSheelt_71: 8063872510431107834
+      KesharSpriteSheelt_72: -1408620891538024448
+      KesharSpriteSheelt_73: -119054236087322088
+      KesharSpriteSheelt_74: -3604826044670839627
+      KesharSpriteSheelt_75: 2524690480760159744
+      KesharSpriteSheelt_76: -8205194063322683836
+      KesharSpriteSheelt_77: -8105712353996974343
+      KesharSpriteSheelt_78: -2289819491788598559
+      KesharSpriteSheelt_79: 3260767009661281634
+      KesharSpriteSheelt_8: -3185516631101195882
+      KesharSpriteSheelt_80: -7765794856472073552
+      KesharSpriteSheelt_81: 2514591624801655266
+      KesharSpriteSheelt_82: 948570321732525290
+      KesharSpriteSheelt_83: -3858551416226262110
+      KesharSpriteSheelt_84: 4694835429842747369
+      KesharSpriteSheelt_85: 8062504742663761115
+      KesharSpriteSheelt_86: -7110163429924932159
+      KesharSpriteSheelt_87: -5023745683535004252
+      KesharSpriteSheelt_88: 2049990803697232052
+      KesharSpriteSheelt_89: 6975927021208964102
+      KesharSpriteSheelt_9: -6282865006202207728
+      KesharSpriteSheelt_90: 3606510593615357881
+      KesharSpriteSheelt_91: 332135665087556987
+      KesharSpriteSheelt_92: -6654130203765850728
+      KesharSpriteSheelt_93: 4111852053382798472
+      KesharSpriteSheelt_94: 6229796135219163830
+      KesharSpriteSheelt_95: -4525483660617792057
+      KesharSpriteSheelt_96: -5335619465200921600
+      KesharSpriteSheelt_97: -6908033074891328992
+      KesharSpriteSheelt_98: -1817090260947063210
+      KesharSpriteSheelt_99: -5401059304237568263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

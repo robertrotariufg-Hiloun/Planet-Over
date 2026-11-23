@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: ec7901c079faef2459f7f487fded4955
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5884699165246397584
+    second: PlanetGasSpriteSheelt_0
+  - first:
+      213: 1531914869777066531
+    second: PlanetGasSpriteSheelt_1
+  - first:
+      213: -6586177491130668240
+    second: PlanetGasSpriteSheelt_2
+  - first:
+      213: -574734345616096855
+    second: PlanetGasSpriteSheelt_3
+  - first:
+      213: -6301149825533706224
+    second: PlanetGasSpriteSheelt_4
+  - first:
+      213: 3381719369246717634
+    second: PlanetGasSpriteSheelt_5
+  - first:
+      213: 2326978787986404811
+    second: PlanetGasSpriteSheelt_6
+  - first:
+      213: 3759451798724694743
+    second: PlanetGasSpriteSheelt_7
+  - first:
+      213: -6246531275036467586
+    second: PlanetGasSpriteSheelt_8
+  - first:
+      213: -1170458517879841435
+    second: PlanetGasSpriteSheelt_9
+  - first:
+      213: 6649277826560366814
+    second: PlanetGasSpriteSheelt_10
+  - first:
+      213: -1136130405474023485
+    second: PlanetGasSpriteSheelt_11
+  - first:
+      213: 1829996590243285788
+    second: PlanetGasSpriteSheelt_12
+  - first:
+      213: 2204510308256680819
+    second: PlanetGasSpriteSheelt_13
+  - first:
+      213: -1576041624336405697
+    second: PlanetGasSpriteSheelt_14
+  - first:
+      213: 6825786320266741727
+    second: PlanetGasSpriteSheelt_15
+  - first:
+      213: 5886192805301184989
+    second: PlanetGasSpriteSheelt_16
+  - first:
+      213: 3584963374245404000
+    second: PlanetGasSpriteSheelt_17
+  - first:
+      213: -7397598837084968431
+    second: PlanetGasSpriteSheelt_18
+  - first:
+      213: 7215823103166011314
+    second: PlanetGasSpriteSheelt_19
+  - first:
+      213: 7076729872570479004
+    second: PlanetGasSpriteSheelt_20
+  - first:
+      213: -1033373273971529031
+    second: PlanetGasSpriteSheelt_21
+  - first:
+      213: -3745951094450943622
+    second: PlanetGasSpriteSheelt_22
+  - first:
+      213: 4415961001945152588
+    second: PlanetGasSpriteSheelt_23
+  - first:
+      213: 6494146478042851096
+    second: PlanetGasSpriteSheelt_24
+  - first:
+      213: -5774914805033155227
+    second: PlanetGasSpriteSheelt_25
+  - first:
+      213: -5615427747127703366
+    second: PlanetGasSpriteSheelt_26
+  - first:
+      213: -1782091756269138733
+    second: PlanetGasSpriteSheelt_27
+  - first:
+      213: -6853737181760199036
+    second: PlanetGasSpriteSheelt_28
+  - first:
+      213: -3782123784251992268
+    second: PlanetGasSpriteSheelt_29
+  - first:
+      213: -3784987649118853119
+    second: PlanetGasSpriteSheelt_30
+  - first:
+      213: 4276861880878755142
+    second: PlanetGasSpriteSheelt_31
+  - first:
+      213: -5182950612251759540
+    second: PlanetGasSpriteSheelt_32
+  - first:
+      213: 3804506255075723378
+    second: PlanetGasSpriteSheelt_33
+  - first:
+      213: -7267962928108656162
+    second: PlanetGasSpriteSheelt_34
+  - first:
+      213: 4166278788629252529
+    second: PlanetGasSpriteSheelt_35
+  - first:
+      213: -1475275030416636948
+    second: PlanetGasSpriteSheelt_36
+  - first:
+      213: -7355016760003089403
+    second: PlanetGasSpriteSheelt_37
+  - first:
+      213: -3356237511805013400
+    second: PlanetGasSpriteSheelt_38
+  - first:
+      213: 5571139159031180596
+    second: PlanetGasSpriteSheelt_39
+  - first:
+      213: 6505190322100686693
+    second: PlanetGasSpriteSheelt_40
+  - first:
+      213: -6116827683738479497
+    second: PlanetGasSpriteSheelt_41
+  - first:
+      213: -3568106805678480893
+    second: PlanetGasSpriteSheelt_42
+  - first:
+      213: -4093563602468474200
+    second: PlanetGasSpriteSheelt_43
+  - first:
+      213: -6232793945571943839
+    second: PlanetGasSpriteSheelt_44
+  - first:
+      213: -1691910503823991772
+    second: PlanetGasSpriteSheelt_45
+  - first:
+      213: -8340738974256103517
+    second: PlanetGasSpriteSheelt_46
+  - first:
+      213: 2869872415940231518
+    second: PlanetGasSpriteSheelt_47
+  - first:
+      213: 1278524861981562897
+    second: PlanetGasSpriteSheelt_48
+  - first:
+      213: -2481424182167977830
+    second: PlanetGasSpriteSheelt_49
+  - first:
+      213: -547311331668760146
+    second: PlanetGasSpriteSheelt_50
+  - first:
+      213: 2405250389824678940
+    second: PlanetGasSpriteSheelt_51
+  - first:
+      213: 2427430075357499666
+    second: PlanetGasSpriteSheelt_52
+  - first:
+      213: -3644868978130863642
+    second: PlanetGasSpriteSheelt_53
+  - first:
+      213: -181647446050982123
+    second: PlanetGasSpriteSheelt_54
+  - first:
+      213: -4280384835182835814
+    second: PlanetGasSpriteSheelt_55
+  - first:
+      213: 9065553595959364810
+    second: PlanetGasSpriteSheelt_56
+  - first:
+      213: 8774493057446547035
+    second: PlanetGasSpriteSheelt_57
+  - first:
+      213: -261662709687642827
+    second: PlanetGasSpriteSheelt_58
+  - first:
+      213: 4383108800201984557
+    second: PlanetGasSpriteSheelt_59
+  - first:
+      213: -1264599566223523579
+    second: PlanetGasSpriteSheelt_60
+  - first:
+      213: 2724660082135535656
+    second: PlanetGasSpriteSheelt_61
+  - first:
+      213: 2994420665329336035
+    second: PlanetGasSpriteSheelt_62
+  - first:
+      213: -2407475818586066951
+    second: PlanetGasSpriteSheelt_63
+  - first:
+      213: 4631984598276380797
+    second: PlanetGasSpriteSheelt_64
+  - first:
+      213: -8739727965043837758
+    second: PlanetGasSpriteSheelt_65
+  - first:
+      213: 8670120707685353296
+    second: PlanetGasSpriteSheelt_66
+  - first:
+      213: -4600235339566286705
+    second: PlanetGasSpriteSheelt_67
+  - first:
+      213: 3341433862375844680
+    second: PlanetGasSpriteSheelt_68
+  - first:
+      213: -7309949565665763748
+    second: PlanetGasSpriteSheelt_69
+  - first:
+      213: 5113025212454647354
+    second: PlanetGasSpriteSheelt_70
+  - first:
+      213: 2044452649106511714
+    second: PlanetGasSpriteSheelt_71
+  - first:
+      213: 772937891106382077
+    second: PlanetGasSpriteSheelt_72
+  - first:
+      213: -1662106954955259415
+    second: PlanetGasSpriteSheelt_73
+  - first:
+      213: 8052960129991823994
+    second: PlanetGasSpriteSheelt_74
+  - first:
+      213: 8364837309017555585
+    second: PlanetGasSpriteSheelt_75
+  - first:
+      213: -4592442863902569762
+    second: PlanetGasSpriteSheelt_76
+  - first:
+      213: -582529055346363963
+    second: PlanetGasSpriteSheelt_77
+  - first:
+      213: -4548774475741691552
+    second: PlanetGasSpriteSheelt_78
+  - first:
+      213: 3216754851334790511
+    second: PlanetGasSpriteSheelt_79
+  - first:
+      213: 5018723556862766582
+    second: PlanetGasSpriteSheelt_80
+  - first:
+      213: 6310426913334301562
+    second: PlanetGasSpriteSheelt_81
+  - first:
+      213: 570153062609520098
+    second: PlanetGasSpriteSheelt_82
+  - first:
+      213: -6919881696338239394
+    second: PlanetGasSpriteSheelt_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0736375a949555ea0800000000000000
+      internalID: -5884699165246397584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 37
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a63372574724510800000000000000
+      internalID: 1531914869777066531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 36
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bab7587723994a0800000000000000
+      internalID: -6586177491130668240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 37
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1065168222608f0800000000000000
+      internalID: -574734345616096855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 37
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0108c8c5e91dd88a0800000000000000
+      internalID: -6301149825533706224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_5
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 37
+        width: 141
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6320669d74eee20800000000000000
+      internalID: 3381719369246717634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_6
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 36
+        width: 141
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc57cc9f0e61b4020800000000000000
+      internalID: 2326978787986404811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_7
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 36
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d250351e714c2430800000000000000
+      internalID: 3759451798724694743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_8
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e5511a6ecdf49a0800000000000000
+      internalID: -6246531275036467586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_9
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 37
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1179ed22b1cfe0800000000000000
+      internalID: -1170458517879841435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_10
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 37
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8130134faf64c50800000000000000
+      internalID: 6649277826560366814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_11
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 38
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7433b6a67ab30f0800000000000000
+      internalID: -1136130405474023485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_12
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 39
+        width: 139
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b80adf334756910800000000000000
+      internalID: 1829996590243285788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_13
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 38
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b8353027ef79e10800000000000000
+      internalID: 2204510308256680819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_14
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 38
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3be23e2e76c02ae0800000000000000
+      internalID: -1576041624336405697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_15
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 37
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd748346e701abe50800000000000000
+      internalID: 6825786320266741727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_16
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 36
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9ef678b25ffa150800000000000000
+      internalID: 5886192805301184989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_17
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 36
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ddea6e13950c130800000000000000
+      internalID: 3584963374245404000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_18
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 36
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a25b44d03765990800000000000000
+      internalID: -7397598837084968431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_19
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7544a91e0c32460800000000000000
+      internalID: 7215823103166011314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_20
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 37
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9175f13358953260800000000000000
+      internalID: 7076729872570479004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_21
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 37
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba6b8c7b78b8a1f0800000000000000
+      internalID: -1033373273971529031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_22
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 37
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7904459355b30cc0800000000000000
+      internalID: -3745951094450943622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_23
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 37
+        width: 138
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c3bee6225a84d30800000000000000
+      internalID: 4415961001945152588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_24
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817291770d7df1a50800000000000000
+      internalID: 6494146478042851096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_25
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 37
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565cad5e4916bdfa0800000000000000
+      internalID: -5774914805033155227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_26
+      rect:
+        serializedVersion: 2
+        x: 5046
+        y: 37
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c49e373ef112b0800000000000000
+      internalID: -5615427747127703366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_27
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 38
+        width: 141
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0d665dfcb447e0800000000000000
+      internalID: -1782091756269138733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_28
+      rect:
+        serializedVersion: 2
+        x: 5432
+        y: 38
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486eb498852a2e0a0800000000000000
+      internalID: -6853737181760199036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_29
+      rect:
+        serializedVersion: 2
+        x: 5624
+        y: 37
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4379a1fe472338bc0800000000000000
+      internalID: -3782123784251992268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_30
+      rect:
+        serializedVersion: 2
+        x: 5817
+        y: 37
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108a70f69c5097bc0800000000000000
+      internalID: -3784987649118853119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_31
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 37
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64def2b88377a5b30800000000000000
+      internalID: 4276861880878755142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_32
+      rect:
+        serializedVersion: 2
+        x: 6203
+        y: 37
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c275ce0e57218b0800000000000000
+      internalID: -5182950612251759540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_33
+      rect:
+        serializedVersion: 2
+        x: 6396
+        y: 37
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2784a8728425cc430800000000000000
+      internalID: 3804506255075723378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_34
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 37
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed920656932032b90800000000000000
+      internalID: -7267962928108656162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_35
+      rect:
+        serializedVersion: 2
+        x: 6783
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9cd7ffb7891d930800000000000000
+      internalID: 4166278788629252529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_36
+      rect:
+        serializedVersion: 2
+        x: 6976
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3430a1d25c68be0800000000000000
+      internalID: -1475275030416636948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_37
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 36
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ca8fea93bbde990800000000000000
+      internalID: -7355016760003089403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_38
+      rect:
+        serializedVersion: 2
+        x: 7360
+        y: 36
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862750fd3cf3c61d0800000000000000
+      internalID: -3356237511805013400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_39
+      rect:
+        serializedVersion: 2
+        x: 7554
+        y: 37
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d62584c89a05d40800000000000000
+      internalID: 5571139159031180596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_40
+      rect:
+        serializedVersion: 2
+        x: 7746
+        y: 37
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fce19c124174a50800000000000000
+      internalID: 6505190322100686693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_41
+      rect:
+        serializedVersion: 2
+        x: 7940
+        y: 36
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7741e7641a9ac1ba0800000000000000
+      internalID: -6116827683738479497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_42
+      rect:
+        serializedVersion: 2
+        x: 8134
+        y: 36
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30261eec3c98b7ec0800000000000000
+      internalID: -3568106805678480893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_43
+      rect:
+        serializedVersion: 2
+        x: 8329
+        y: 36
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2f569979db037c0800000000000000
+      internalID: -4093563602468474200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_44
+      rect:
+        serializedVersion: 2
+        x: 8521
+        y: 36
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a9af3edeaa089a0800000000000000
+      internalID: -6232793945571943839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_45
+      rect:
+        serializedVersion: 2
+        x: 8714
+        y: 36
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c91d36c502588e0800000000000000
+      internalID: -1691910503823991772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_46
+      rect:
+        serializedVersion: 2
+        x: 8906
+        y: 37
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af7533181ebf3c80800000000000000
+      internalID: -8340738974256103517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_47
+      rect:
+        serializedVersion: 2
+        x: 9098
+        y: 38
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e514fcec1c5d3d720800000000000000
+      internalID: 2869872415940231518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_48
+      rect:
+        serializedVersion: 2
+        x: 9290
+        y: 39
+        width: 141
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1189aea869b3eb110800000000000000
+      internalID: 1278524861981562897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_49
+      rect:
+        serializedVersion: 2
+        x: 9483
+        y: 38
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9040dc7ad5309dd0800000000000000
+      internalID: -2481424182167977830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_50
+      rect:
+        serializedVersion: 2
+        x: 9676
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9665e5e3f8768f0800000000000000
+      internalID: -547311331668760146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_51
+      rect:
+        serializedVersion: 2
+        x: 9870
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cae596c7a216120800000000000000
+      internalID: 2405250389824678940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_52
+      rect:
+        serializedVersion: 2
+        x: 10064
+        y: 36
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21198cedac6ffa120800000000000000
+      internalID: 2427430075357499666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_53
+      rect:
+        serializedVersion: 2
+        x: 10257
+        y: 36
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e93ba9c9f2da6dc0800000000000000
+      internalID: -3644868978130863642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_54
+      rect:
+        serializedVersion: 2
+        x: 10450
+        y: 36
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51736c73c98aa7df0800000000000000
+      internalID: -181647446050982123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_55
+      rect:
+        serializedVersion: 2
+        x: 10643
+        y: 36
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9745fcbba40994c0800000000000000
+      internalID: -4280384835182835814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_56
+      rect:
+        serializedVersion: 2
+        x: 10836
+        y: 36
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc4c63d6f05fcd70800000000000000
+      internalID: 9065553595959364810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_57
+      rect:
+        serializedVersion: 2
+        x: 11028
+        y: 37
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e8b3d42f245c970800000000000000
+      internalID: 8774493057446547035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_58
+      rect:
+        serializedVersion: 2
+        x: 11221
+        y: 37
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5351a12e6236e5cf0800000000000000
+      internalID: -261662709687642827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_59
+      rect:
+        serializedVersion: 2
+        x: 11414
+        y: 38
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a8de72b3ee3dc30800000000000000
+      internalID: 4383108800201984557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_60
+      rect:
+        serializedVersion: 2
+        x: 11607
+        y: 37
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5014228056d337ee0800000000000000
+      internalID: -1264599566223523579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_61
+      rect:
+        serializedVersion: 2
+        x: 11800
+        y: 37
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8201069a8efefc520800000000000000
+      internalID: 2724660082135535656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_62
+      rect:
+        serializedVersion: 2
+        x: 11994
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee3b01eab15e8920800000000000000
+      internalID: 2994420665329336035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_63
+      rect:
+        serializedVersion: 2
+        x: 12187
+        y: 36
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffa5d39f7de69ed0800000000000000
+      internalID: -2407475818586066951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_64
+      rect:
+        serializedVersion: 2
+        x: 12380
+        y: 36
+        width: 139
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d781859637d184040800000000000000
+      internalID: 4631984598276380797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_65
+      rect:
+        serializedVersion: 2
+        x: 12574
+        y: 37
+        width: 138
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4b30a88bf36b680800000000000000
+      internalID: -8739727965043837758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_66
+      rect:
+        serializedVersion: 2
+        x: 12766
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057085de8d4725870800000000000000
+      internalID: 8670120707685353296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_67
+      rect:
+        serializedVersion: 2
+        x: 12958
+        y: 37
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88f3fde45ea820c0800000000000000
+      internalID: -4600235339566286705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_68
+      rect:
+        serializedVersion: 2
+        x: 13151
+        y: 37
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84baf57e4682f5e20800000000000000
+      internalID: 3341433862375844680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_69
+      rect:
+        serializedVersion: 2
+        x: 13344
+        y: 38
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e987c8997dd8a90800000000000000
+      internalID: -7309949565665763748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_70
+      rect:
+        serializedVersion: 2
+        x: 13537
+        y: 38
+        width: 140
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36b9fb375d15f640800000000000000
+      internalID: 5113025212454647354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_71
+      rect:
+        serializedVersion: 2
+        x: 13730
+        y: 37
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26799163ada5f5c10800000000000000
+      internalID: 2044452649106511714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_72
+      rect:
+        serializedVersion: 2
+        x: 13923
+        y: 37
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0e5d0bae60aba00800000000000000
+      internalID: 772937891106382077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_73
+      rect:
+        serializedVersion: 2
+        x: 14116
+        y: 36
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e18f2bd7820fe8e0800000000000000
+      internalID: -1662106954955259415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_74
+      rect:
+        serializedVersion: 2
+        x: 14309
+        y: 36
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72db82629cd1cf60800000000000000
+      internalID: 8052960129991823994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_75
+      rect:
+        serializedVersion: 2
+        x: 14502
+        y: 36
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1820de7b63fd51470800000000000000
+      internalID: 8364837309017555585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_76
+      rect:
+        serializedVersion: 2
+        x: 14695
+        y: 36
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda4fcd0c8d5440c0800000000000000
+      internalID: -4592442863902569762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_77
+      rect:
+        serializedVersion: 2
+        x: 14889
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c17cb819e07ae7f0800000000000000
+      internalID: -582529055346363963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_78
+      rect:
+        serializedVersion: 2
+        x: 15082
+        y: 37
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618d0af6b18fd0c0800000000000000
+      internalID: -4548774475741691552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_79
+      rect:
+        serializedVersion: 2
+        x: 15275
+        y: 36
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d13538e7534ac20800000000000000
+      internalID: 3216754851334790511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_80
+      rect:
+        serializedVersion: 2
+        x: 15468
+        y: 37
+        width: 140
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fda0b01c7616a540800000000000000
+      internalID: 5018723556862766582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_81
+      rect:
+        serializedVersion: 2
+        x: 15660
+        y: 37
+        width: 142
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a731b56f7d3239750800000000000000
+      internalID: 6310426913334301562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_82
+      rect:
+        serializedVersion: 2
+        x: 15853
+        y: 37
+        width: 141
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5017c803799e700800000000000000
+      internalID: 570153062609520098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlanetGasSpriteSheelt_83
+      rect:
+        serializedVersion: 2
+        x: 16047
+        y: 37
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e502802a244a7ff90800000000000000
+      internalID: -6919881696338239394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlanetGasSpriteSheelt_0: -5884699165246397584
+      PlanetGasSpriteSheelt_1: 1531914869777066531
+      PlanetGasSpriteSheelt_10: 6649277826560366814
+      PlanetGasSpriteSheelt_11: -1136130405474023485
+      PlanetGasSpriteSheelt_12: 1829996590243285788
+      PlanetGasSpriteSheelt_13: 2204510308256680819
+      PlanetGasSpriteSheelt_14: -1576041624336405697
+      PlanetGasSpriteSheelt_15: 6825786320266741727
+      PlanetGasSpriteSheelt_16: 5886192805301184989
+      PlanetGasSpriteSheelt_17: 3584963374245404000
+      PlanetGasSpriteSheelt_18: -7397598837084968431
+      PlanetGasSpriteSheelt_19: 7215823103166011314
+      PlanetGasSpriteSheelt_2: -6586177491130668240
+      PlanetGasSpriteSheelt_20: 7076729872570479004
+      PlanetGasSpriteSheelt_21: -1033373273971529031
+      PlanetGasSpriteSheelt_22: -3745951094450943622
+      PlanetGasSpriteSheelt_23: 4415961001945152588
+      PlanetGasSpriteSheelt_24: 6494146478042851096
+      PlanetGasSpriteSheelt_25: -5774914805033155227
+      PlanetGasSpriteSheelt_26: -5615427747127703366
+      PlanetGasSpriteSheelt_27: -1782091756269138733
+      PlanetGasSpriteSheelt_28: -6853737181760199036
+      PlanetGasSpriteSheelt_29: -3782123784251992268
+      PlanetGasSpriteSheelt_3: -574734345616096855
+      PlanetGasSpriteSheelt_30: -3784987649118853119
+      PlanetGasSpriteSheelt_31: 4276861880878755142
+      PlanetGasSpriteSheelt_32: -5182950612251759540
+      PlanetGasSpriteSheelt_33: 3804506255075723378
+      PlanetGasSpriteSheelt_34: -7267962928108656162
+      PlanetGasSpriteSheelt_35: 4166278788629252529
+      PlanetGasSpriteSheelt_36: -1475275030416636948
+      PlanetGasSpriteSheelt_37: -7355016760003089403
+      PlanetGasSpriteSheelt_38: -3356237511805013400
+      PlanetGasSpriteSheelt_39: 5571139159031180596
+      PlanetGasSpriteSheelt_4: -6301149825533706224
+      PlanetGasSpriteSheelt_40: 6505190322100686693
+      PlanetGasSpriteSheelt_41: -6116827683738479497
+      PlanetGasSpriteSheelt_42: -3568106805678480893
+      PlanetGasSpriteSheelt_43: -4093563602468474200
+      PlanetGasSpriteSheelt_44: -6232793945571943839
+      PlanetGasSpriteSheelt_45: -1691910503823991772
+      PlanetGasSpriteSheelt_46: -8340738974256103517
+      PlanetGasSpriteSheelt_47: 2869872415940231518
+      PlanetGasSpriteSheelt_48: 1278524861981562897
+      PlanetGasSpriteSheelt_49: -2481424182167977830
+      PlanetGasSpriteSheelt_5: 3381719369246717634
+      PlanetGasSpriteSheelt_50: -547311331668760146
+      PlanetGasSpriteSheelt_51: 2405250389824678940
+      PlanetGasSpriteSheelt_52: 2427430075357499666
+      PlanetGasSpriteSheelt_53: -3644868978130863642
+      PlanetGasSpriteSheelt_54: -181647446050982123
+      PlanetGasSpriteSheelt_55: -4280384835182835814
+      PlanetGasSpriteSheelt_56: 9065553595959364810
+      PlanetGasSpriteSheelt_57: 8774493057446547035
+      PlanetGasSpriteSheelt_58: -261662709687642827
+      PlanetGasSpriteSheelt_59: 4383108800201984557
+      PlanetGasSpriteSheelt_6: 2326978787986404811
+      PlanetGasSpriteSheelt_60: -1264599566223523579
+      PlanetGasSpriteSheelt_61: 2724660082135535656
+      PlanetGasSpriteSheelt_62: 2994420665329336035
+      PlanetGasSpriteSheelt_63: -2407475818586066951
+      PlanetGasSpriteSheelt_64: 4631984598276380797
+      PlanetGasSpriteSheelt_65: -8739727965043837758
+      PlanetGasSpriteSheelt_66: 8670120707685353296
+      PlanetGasSpriteSheelt_67: -4600235339566286705
+      PlanetGasSpriteSheelt_68: 3341433862375844680
+      PlanetGasSpriteSheelt_69: -7309949565665763748
+      PlanetGasSpriteSheelt_7: 3759451798724694743
+      PlanetGasSpriteSheelt_70: 5113025212454647354
+      PlanetGasSpriteSheelt_71: 2044452649106511714
+      PlanetGasSpriteSheelt_72: 772937891106382077
+      PlanetGasSpriteSheelt_73: -1662106954955259415
+      PlanetGasSpriteSheelt_74: 8052960129991823994
+      PlanetGasSpriteSheelt_75: 8364837309017555585
+      PlanetGasSpriteSheelt_76: -4592442863902569762
+      PlanetGasSpriteSheelt_77: -582529055346363963
+      PlanetGasSpriteSheelt_78: -4548774475741691552
+      PlanetGasSpriteSheelt_79: 3216754851334790511
+      PlanetGasSpriteSheelt_8: -6246531275036467586
+      PlanetGasSpriteSheelt_80: 5018723556862766582
+      PlanetGasSpriteSheelt_81: 6310426913334301562
+      PlanetGasSpriteSheelt_82: 570153062609520098
+      PlanetGasSpriteSheelt_83: -6919881696338239394
+      PlanetGasSpriteSheelt_9: -1170458517879841435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

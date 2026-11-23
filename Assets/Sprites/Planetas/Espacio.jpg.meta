@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cfbcbcf5cb5f6410db7a685e485ef19d
+guid: 07bc57e5fa16378439204cbb791661f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4544510451301735194
-    second: KesharPng_0
+      213: -6416855157749277883
+    second: Espacio_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KesharPng_0
+      name: Espacio_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 512
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e42c1882d7aee0c0800000000000000
-      internalID: -4544510451301735194
+      spriteID: 54b98336b30c2f6a0800000000000000
+      internalID: -6416855157749277883
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      KesharPng_0: -4544510451301735194
+      Espacio_0: -6416855157749277883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

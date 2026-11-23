@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: f6417dc5b3dc2574f827f27f8fc2b57e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3485509038571271885
+    second: HoldSpriteSheelt_0
+  - first:
+      213: 2612332190552883094
+    second: HoldSpriteSheelt_1
+  - first:
+      213: 4604371720873826171
+    second: HoldSpriteSheelt_2
+  - first:
+      213: 5080511807025842525
+    second: HoldSpriteSheelt_3
+  - first:
+      213: -9217814135145092783
+    second: HoldSpriteSheelt_4
+  - first:
+      213: -1244552457760794560
+    second: HoldSpriteSheelt_5
+  - first:
+      213: 8681284058817723610
+    second: HoldSpriteSheelt_6
+  - first:
+      213: -3022474174879980094
+    second: HoldSpriteSheelt_7
+  - first:
+      213: 1136833061652126299
+    second: HoldSpriteSheelt_8
+  - first:
+      213: 6527818337246794038
+    second: HoldSpriteSheelt_9
+  - first:
+      213: -2034360719783800867
+    second: HoldSpriteSheelt_10
+  - first:
+      213: -481424662498682427
+    second: HoldSpriteSheelt_11
+  - first:
+      213: -4748078977291298729
+    second: HoldSpriteSheelt_12
+  - first:
+      213: 4167202017027905682
+    second: HoldSpriteSheelt_13
+  - first:
+      213: 1588714349628827927
+    second: HoldSpriteSheelt_14
+  - first:
+      213: -6367941146015201236
+    second: HoldSpriteSheelt_15
+  - first:
+      213: 6744540350823576775
+    second: HoldSpriteSheelt_16
+  - first:
+      213: 7631433479661471060
+    second: HoldSpriteSheelt_17
+  - first:
+      213: 973017941045260105
+    second: HoldSpriteSheelt_18
+  - first:
+      213: -6387623927413035591
+    second: HoldSpriteSheelt_19
+  - first:
+      213: 6454042302544072511
+    second: HoldSpriteSheelt_20
+  - first:
+      213: 9194603274809953053
+    second: HoldSpriteSheelt_21
+  - first:
+      213: -4299122892379400506
+    second: HoldSpriteSheelt_22
+  - first:
+      213: -8590984625310245226
+    second: HoldSpriteSheelt_23
+  - first:
+      213: -3766611105380430931
+    second: HoldSpriteSheelt_24
+  - first:
+      213: 5014657473399856724
+    second: HoldSpriteSheelt_25
+  - first:
+      213: -7465319476103624299
+    second: HoldSpriteSheelt_26
+  - first:
+      213: -5153869273089929836
+    second: HoldSpriteSheelt_27
+  - first:
+      213: 646644235239372075
+    second: HoldSpriteSheelt_28
+  - first:
+      213: 6247252494339892644
+    second: HoldSpriteSheelt_29
+  - first:
+      213: -2024508432297099076
+    second: HoldSpriteSheelt_30
+  - first:
+      213: 4047760880296883570
+    second: HoldSpriteSheelt_31
+  - first:
+      213: 7699600253512847382
+    second: HoldSpriteSheelt_32
+  - first:
+      213: 8725420534475510064
+    second: HoldSpriteSheelt_33
+  - first:
+      213: -3138414212088888731
+    second: HoldSpriteSheelt_34
+  - first:
+      213: 7005519657551661400
+    second: HoldSpriteSheelt_35
+  - first:
+      213: -1779727138079968951
+    second: HoldSpriteSheelt_36
+  - first:
+      213: 633949807133685040
+    second: HoldSpriteSheelt_37
+  - first:
+      213: 164008708286901855
+    second: HoldSpriteSheelt_38
+  - first:
+      213: -7846257344352641678
+    second: HoldSpriteSheelt_39
+  - first:
+      213: 8986146781197021280
+    second: HoldSpriteSheelt_40
+  - first:
+      213: -6032053751496861322
+    second: HoldSpriteSheelt_41
+  - first:
+      213: 1158036295134373289
+    second: HoldSpriteSheelt_42
+  - first:
+      213: 2616966157679738466
+    second: HoldSpriteSheelt_43
+  - first:
+      213: -1308947665277049620
+    second: HoldSpriteSheelt_44
+  - first:
+      213: 136947886985969890
+    second: HoldSpriteSheelt_45
+  - first:
+      213: 838690550272735514
+    second: HoldSpriteSheelt_46
+  - first:
+      213: 7056037098047861159
+    second: HoldSpriteSheelt_47
+  - first:
+      213: -1561298766505507170
+    second: HoldSpriteSheelt_48
+  - first:
+      213: -1183134809968204305
+    second: HoldSpriteSheelt_49
+  - first:
+      213: 25672376651428891
+    second: HoldSpriteSheelt_50
+  - first:
+      213: 1519258149592339468
+    second: HoldSpriteSheelt_51
+  - first:
+      213: 5903640308557479094
+    second: HoldSpriteSheelt_52
+  - first:
+      213: 1751145288309760200
+    second: HoldSpriteSheelt_53
+  - first:
+      213: 1283984060708011550
+    second: HoldSpriteSheelt_54
+  - first:
+      213: 7878702438463311495
+    second: HoldSpriteSheelt_55
+  - first:
+      213: -1094529215532607669
+    second: HoldSpriteSheelt_56
+  - first:
+      213: -2916371449043011636
+    second: HoldSpriteSheelt_57
+  - first:
+      213: -2392308349889507596
+    second: HoldSpriteSheelt_58
+  - first:
+      213: 1498494309199007713
+    second: HoldSpriteSheelt_59
+  - first:
+      213: 502925869738278499
+    second: HoldSpriteSheelt_60
+  - first:
+      213: -2234083567936778665
+    second: HoldSpriteSheelt_61
+  - first:
+      213: -7337010477951961742
+    second: HoldSpriteSheelt_62
+  - first:
+      213: 2608820600714198939
+    second: HoldSpriteSheelt_63
+  - first:
+      213: 5930249751518525460
+    second: HoldSpriteSheelt_64
+  - first:
+      213: 7377361379649848582
+    second: HoldSpriteSheelt_65
+  - first:
+      213: -7296069030608659287
+    second: HoldSpriteSheelt_66
+  - first:
+      213: 6655840350018038330
+    second: HoldSpriteSheelt_67
+  - first:
+      213: -6382799868589269178
+    second: HoldSpriteSheelt_68
+  - first:
+      213: 1568072960917413325
+    second: HoldSpriteSheelt_69
+  - first:
+      213: -7605758854015965144
+    second: HoldSpriteSheelt_70
+  - first:
+      213: -6714268495894759169
+    second: HoldSpriteSheelt_71
+  - first:
+      213: -2445221132237873503
+    second: HoldSpriteSheelt_72
+  - first:
+      213: -5242058030297021884
+    second: HoldSpriteSheelt_73
+  - first:
+      213: -7051881214080879120
+    second: HoldSpriteSheelt_74
+  - first:
+      213: -6323329017398405493
+    second: HoldSpriteSheelt_75
+  - first:
+      213: -124967808059986717
+    second: HoldSpriteSheelt_76
+  - first:
+      213: 3285196713518968898
+    second: HoldSpriteSheelt_77
+  - first:
+      213: 8119047858343327961
+    second: HoldSpriteSheelt_78
+  - first:
+      213: -7635852296279948345
+    second: HoldSpriteSheelt_79
+  - first:
+      213: 9059613402817025461
+    second: HoldSpriteSheelt_80
+  - first:
+      213: -4473424813605566810
+    second: HoldSpriteSheelt_81
+  - first:
+      213: -2258163636234826515
+    second: HoldSpriteSheelt_82
+  - first:
+      213: 909060049019235627
+    second: HoldSpriteSheelt_83
+  - first:
+      213: -6052812898951824292
+    second: HoldSpriteSheelt_84
+  - first:
+      213: -2955868483531494523
+    second: HoldSpriteSheelt_85
+  - first:
+      213: 1880554473479450155
+    second: HoldSpriteSheelt_86
+  - first:
+      213: -640043768172852164
+    second: HoldSpriteSheelt_87
+  - first:
+      213: 5045656563470955511
+    second: HoldSpriteSheelt_88
+  - first:
+      213: 8235790660122900095
+    second: HoldSpriteSheelt_89
+  - first:
+      213: -8929873238430576267
+    second: HoldSpriteSheelt_90
+  - first:
+      213: -3558981708477038880
+    second: HoldSpriteSheelt_91
+  - first:
+      213: 5553056102238956632
+    second: HoldSpriteSheelt_92
+  - first:
+      213: 5856192214661248742
+    second: HoldSpriteSheelt_93
+  - first:
+      213: 3797300970629798368
+    second: HoldSpriteSheelt_94
+  - first:
+      213: -6695542500655840265
+    second: HoldSpriteSheelt_95
+  - first:
+      213: -8732631767652425633
+    second: HoldSpriteSheelt_96
+  - first:
+      213: -655989578408019288
+    second: HoldSpriteSheelt_97
+  - first:
+      213: 7190800221266672229
+    second: HoldSpriteSheelt_98
+  - first:
+      213: -8913668689179173692
+    second: HoldSpriteSheelt_99
+  - first:
+      213: 4374443421790953026
+    second: HoldSpriteSheelt_100
+  - first:
+      213: -865203567394327380
+    second: HoldSpriteSheelt_101
+  - first:
+      213: 5073232632241492056
+    second: HoldSpriteSheelt_102
+  - first:
+      213: 3344638704653064256
+    second: HoldSpriteSheelt_103
+  - first:
+      213: 4077146714353089999
+    second: HoldSpriteSheelt_104
+  - first:
+      213: -8150846014050103571
+    second: HoldSpriteSheelt_105
+  - first:
+      213: 3059671978206666317
+    second: HoldSpriteSheelt_106
+  - first:
+      213: 8308759422626429387
+    second: HoldSpriteSheelt_107
+  - first:
+      213: -5117275349246666958
+    second: HoldSpriteSheelt_108
+  - first:
+      213: 8915528691985392054
+    second: HoldSpriteSheelt_109
+  - first:
+      213: 6697065664744597376
+    second: HoldSpriteSheelt_110
+  - first:
+      213: 6556259243968545653
+    second: HoldSpriteSheelt_111
+  - first:
+      213: -64943062782288170
+    second: HoldSpriteSheelt_112
+  - first:
+      213: 8573329488315791469
+    second: HoldSpriteSheelt_113
+  - first:
+      213: -2658308614323460646
+    second: HoldSpriteSheelt_114
+  - first:
+      213: -546294319253496739
+    second: HoldSpriteSheelt_115
+  - first:
+      213: -8950737374226831134
+    second: HoldSpriteSheelt_116
+  - first:
+      213: -7174380215163905869
+    second: HoldSpriteSheelt_117
+  - first:
+      213: 5170388771354255954
+    second: HoldSpriteSheelt_118
+  - first:
+      213: 6659557762017616510
+    second: HoldSpriteSheelt_119
+  - first:
+      213: 2851420076686794124
+    second: HoldSpriteSheelt_120
+  - first:
+      213: -1094179896550788614
+    second: HoldSpriteSheelt_121
+  - first:
+      213: 7280753738407583757
+    second: HoldSpriteSheelt_122
+  - first:
+      213: -2048155883275685542
+    second: HoldSpriteSheelt_123
+  - first:
+      213: -6232916685814110637
+    second: HoldSpriteSheelt_124
+  - first:
+      213: -6574835939640564294
+    second: HoldSpriteSheelt_125
+  - first:
+      213: -2655049547954527996
+    second: HoldSpriteSheelt_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339cb861ffbf0afc0800000000000000
+      internalID: -3485509038571271885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ff83d594ed04420800000000000000
+      internalID: 2612332190552883094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77d9846fa306ef30800000000000000
+      internalID: 4604371720873826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5904fe129a918640800000000000000
+      internalID: 5080511807025842525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1592a15d1eeb31080800000000000000
+      internalID: -9217814135145092783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 18
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04814d232267abee0800000000000000
+      internalID: -1244552457760794560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_6
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc77182bdd1a7870800000000000000
+      internalID: 8681284058817723610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5ac7f60c30e06d0800000000000000
+      internalID: -3022474174879980094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_8
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ad1b875a7d6cf00800000000000000
+      internalID: 1136833061652126299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_9
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63150ed1138779a50800000000000000
+      internalID: 6527818337246794038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_10
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf474034bf74c3e0800000000000000
+      internalID: -2034360719783800867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_11
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c957a5f1d2a159f0800000000000000
+      internalID: -481424662498682427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_12
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7585d09935f6b1eb0800000000000000
+      internalID: -4748078977291298729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_13
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2985d3cd720e4d930800000000000000
+      internalID: 4167202017027905682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_14
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719213b984f3c0610800000000000000
+      internalID: 1588714349628827927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_15
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c288b29344780a7a0800000000000000
+      internalID: -6367941146015201236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_16
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4b02807bb699d50800000000000000
+      internalID: 6744540350823576775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_17
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455ce32115c48e960800000000000000
+      internalID: 7631433479661471060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_18
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fa51089aad08d00800000000000000
+      internalID: 973017941045260105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_19
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bda2cf81e99a57a0800000000000000
+      internalID: -6387623927413035591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_20
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fcb78774d519950800000000000000
+      internalID: 6454042302544072511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_21
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bc0bd96fac99f70800000000000000
+      internalID: 9194603274809953053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_22
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6d9f1d1827654c0800000000000000
+      internalID: -4299122892379400506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_23
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e5a811001b6c880800000000000000
+      internalID: -8590984625310245226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_24
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 17
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab02c0f72f4abbc0800000000000000
+      internalID: -3766611105380430931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_25
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e914c3764a79540800000000000000
+      internalID: 5014657473399856724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_26
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599c90c4d7bd56890800000000000000
+      internalID: -7465319476103624299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_27
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d8ca6d337c978b0800000000000000
+      internalID: -5153869273089929836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_28
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 18
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b253f71818759f800800000000000000
+      internalID: 646644235239372075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_29
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a56d435b03b2b650800000000000000
+      internalID: 6247252494339892644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_30
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb00620ae4087e3e0800000000000000
+      internalID: -2024508432297099076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_31
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27571dd13198c2830800000000000000
+      internalID: 4047760880296883570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_32
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6101427e2a97ada60800000000000000
+      internalID: 7699600253512847382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_33
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031df413fbbe61970800000000000000
+      internalID: 8725420534475510064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_34
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628762f6ec1274d0800000000000000
+      internalID: -3138414212088888731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_35
+      rect:
+        serializedVersion: 2
+        x: 4532
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859026ff20b983160800000000000000
+      internalID: 7005519657551661400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_36
+      rect:
+        serializedVersion: 2
+        x: 4661
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941fe99e8932d47e0800000000000000
+      internalID: -1779727138079968951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_37
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 18
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03571a3adfd3cc800800000000000000
+      internalID: 633949807133685040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_38
+      rect:
+        serializedVersion: 2
+        x: 4919
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee28d1d0da64200800000000000000
+      internalID: 164008708286901855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_39
+      rect:
+        serializedVersion: 2
+        x: 5048
+        y: 18
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d9f8d348e7c1390800000000000000
+      internalID: -7846257344352641678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_40
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060b4c803e435bc70800000000000000
+      internalID: 8986146781197021280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_41
+      rect:
+        serializedVersion: 2
+        x: 5305
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67997fb7217d94ca0800000000000000
+      internalID: -6032053751496861322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_42
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a56e78ffdb221010800000000000000
+      internalID: 1158036295134373289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_43
+      rect:
+        serializedVersion: 2
+        x: 5563
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e38b9ead4515420800000000000000
+      internalID: 2616966157679738466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_44
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 18
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4a595980fa5dde0800000000000000
+      internalID: -1308947665277049620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_45
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e00a8ca06986e100800000000000000
+      internalID: 136947886985969890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_46
+      rect:
+        serializedVersion: 2
+        x: 5951
+        y: 18
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19bb75ac90a3ab00800000000000000
+      internalID: 838690550272735514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_47
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 19
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1fe1f2b541ce160800000000000000
+      internalID: 7056037098047861159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_48
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e960f224b07255ae0800000000000000
+      internalID: -1561298766505507170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_49
+      rect:
+        serializedVersion: 2
+        x: 6337
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5227aa829a49fe0800000000000000
+      internalID: -1183134809968204305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_50
+      rect:
+        serializedVersion: 2
+        x: 6466
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1439daf3e43b5000800000000000000
+      internalID: 25672376651428891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_51
+      rect:
+        serializedVersion: 2
+        x: 6595
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c049198dc3d751510800000000000000
+      internalID: 1519258149592339468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_52
+      rect:
+        serializedVersion: 2
+        x: 6724
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfe31f491fde150800000000000000
+      internalID: 5903640308557479094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_53
+      rect:
+        serializedVersion: 2
+        x: 6853
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c06dcb9c515d4810800000000000000
+      internalID: 1751145288309760200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_54
+      rect:
+        serializedVersion: 2
+        x: 6982
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb3cb43b0a1d110800000000000000
+      internalID: 1283984060708011550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_55
+      rect:
+        serializedVersion: 2
+        x: 7111
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e0c97ef16c65d60800000000000000
+      internalID: 7878702438463311495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_56
+      rect:
+        serializedVersion: 2
+        x: 7240
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4754ef3a737fc0f0800000000000000
+      internalID: -1094529215532607669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_57
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc733b26e97f687d0800000000000000
+      internalID: -2916371449043011636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_58
+      rect:
+        serializedVersion: 2
+        x: 7499
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe82a31b30dcced0800000000000000
+      internalID: -2392308349889507596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_59
+      rect:
+        serializedVersion: 2
+        x: 7628
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef40c582a8bbc410800000000000000
+      internalID: 1498494309199007713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_60
+      rect:
+        serializedVersion: 2
+        x: 7757
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36eba16f960caf600800000000000000
+      internalID: 502925869738278499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_61
+      rect:
+        serializedVersion: 2
+        x: 7886
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e4796e4d0fef0e0800000000000000
+      internalID: -2234083567936778665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_62
+      rect:
+        serializedVersion: 2
+        x: 8015
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275ba5ce7d3bd2a90800000000000000
+      internalID: -7337010477951961742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_63
+      rect:
+        serializedVersion: 2
+        x: 8144
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f7a44a384643420800000000000000
+      internalID: 2608820600714198939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_64
+      rect:
+        serializedVersion: 2
+        x: 8273
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4183c9caaba7c4250800000000000000
+      internalID: 5930249751518525460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_65
+      rect:
+        serializedVersion: 2
+        x: 8402
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60507bd7617a16660800000000000000
+      internalID: 7377361379649848582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_66
+      rect:
+        serializedVersion: 2
+        x: 8531
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac97d57fd72fba90800000000000000
+      internalID: -7296069030608659287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_67
+      rect:
+        serializedVersion: 2
+        x: 8660
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a6980c88b4e5c50800000000000000
+      internalID: 6655840350018038330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_68
+      rect:
+        serializedVersion: 2
+        x: 8789
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f9358465dbb67a0800000000000000
+      internalID: -6382799868589269178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_69
+      rect:
+        serializedVersion: 2
+        x: 8918
+        y: 17
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd9069cc0ae2c510800000000000000
+      internalID: 1568072960917413325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_70
+      rect:
+        serializedVersion: 2
+        x: 9047
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828a81b8e9ae27690800000000000000
+      internalID: -7605758854015965144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_71
+      rect:
+        serializedVersion: 2
+        x: 9176
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8b89f606022d2a0800000000000000
+      internalID: -6714268495894759169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_72
+      rect:
+        serializedVersion: 2
+        x: 9305
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aedea7e554d01ed0800000000000000
+      internalID: -2445221132237873503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_73
+      rect:
+        serializedVersion: 2
+        x: 9434
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442892cbef77047b0800000000000000
+      internalID: -5242058030297021884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_74
+      rect:
+        serializedVersion: 2
+        x: 9563
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f57574f56fa22e90800000000000000
+      internalID: -7051881214080879120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_75
+      rect:
+        serializedVersion: 2
+        x: 9692
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b865c08d2c50f38a0800000000000000
+      internalID: -6323329017398405493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_76
+      rect:
+        serializedVersion: 2
+        x: 9821
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eca930d076044ef0800000000000000
+      internalID: -124967808059986717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_77
+      rect:
+        serializedVersion: 2
+        x: 9950
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2403496510d579d20800000000000000
+      internalID: 3285196713518968898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_78
+      rect:
+        serializedVersion: 2
+        x: 10079
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d833f6b207aca070800000000000000
+      internalID: 8119047858343327961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_79
+      rect:
+        serializedVersion: 2
+        x: 10208
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c302e20bc0080690800000000000000
+      internalID: -7635852296279948345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_80
+      rect:
+        serializedVersion: 2
+        x: 10337
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5d645d3663abd70800000000000000
+      internalID: 9059613402817025461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_81
+      rect:
+        serializedVersion: 2
+        x: 10467
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a64f9f45d33be1c0800000000000000
+      internalID: -4473424813605566810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_82
+      rect:
+        serializedVersion: 2
+        x: 10596
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decc489132469a0e0800000000000000
+      internalID: -2258163636234826515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_83
+      rect:
+        serializedVersion: 2
+        x: 10724
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d6a455c41ad9c00800000000000000
+      internalID: 909060049019235627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_84
+      rect:
+        serializedVersion: 2
+        x: 10853
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cf212dcb6100ca0800000000000000
+      internalID: -6052812898951824292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_85
+      rect:
+        serializedVersion: 2
+        x: 10982
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b255c6645aaf6d0800000000000000
+      internalID: -2955868483531494523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_86
+      rect:
+        serializedVersion: 2
+        x: 11111
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ea38c7452191a10800000000000000
+      internalID: 1880554473479450155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_87
+      rect:
+        serializedVersion: 2
+        x: 11240
+        y: 17
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cca5d759b1e17f0800000000000000
+      internalID: -640043768172852164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_88
+      rect:
+        serializedVersion: 2
+        x: 11370
+        y: 17
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3fd4459e5c50640800000000000000
+      internalID: 5045656563470955511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_89
+      rect:
+        serializedVersion: 2
+        x: 11498
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76fa1568f76b4270800000000000000
+      internalID: 8235790660122900095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_90
+      rect:
+        serializedVersion: 2
+        x: 11627
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57114162a97b21480800000000000000
+      internalID: -8929873238430576267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_91
+      rect:
+        serializedVersion: 2
+        x: 11756
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eefc101ef4fb9ec0800000000000000
+      internalID: -3558981708477038880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_92
+      rect:
+        serializedVersion: 2
+        x: 11885
+        y: 17
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca4c78a1b601d40800000000000000
+      internalID: 5553056102238956632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_93
+      rect:
+        serializedVersion: 2
+        x: 12014
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6ba43bacf554150800000000000000
+      internalID: 5856192214661248742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_94
+      rect:
+        serializedVersion: 2
+        x: 12143
+        y: 17
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e992a32d19b2b430800000000000000
+      internalID: 3797300970629798368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_95
+      rect:
+        serializedVersion: 2
+        x: 12272
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3c0e5f197a413a0800000000000000
+      internalID: -6695542500655840265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_96
+      rect:
+        serializedVersion: 2
+        x: 12401
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5029cebca57fc680800000000000000
+      internalID: -8732631767652425633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_97
+      rect:
+        serializedVersion: 2
+        x: 12530
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aab1aa34f475e6f0800000000000000
+      internalID: -655989578408019288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_98
+      rect:
+        serializedVersion: 2
+        x: 12659
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a7667e3badac360800000000000000
+      internalID: 7190800221266672229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_99
+      rect:
+        serializedVersion: 2
+        x: 12788
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc14f7cd894c4480800000000000000
+      internalID: -8913668689179173692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_100
+      rect:
+        serializedVersion: 2
+        x: 12917
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ed4e58d1525bc30800000000000000
+      internalID: 4374443421790953026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_101
+      rect:
+        serializedVersion: 2
+        x: 13046
+        y: 18
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47f0380fd2ef3f0800000000000000
+      internalID: -865203567394327380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_102
+      rect:
+        serializedVersion: 2
+        x: 13175
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8509cab233eb76640800000000000000
+      internalID: 5073232632241492056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_103
+      rect:
+        serializedVersion: 2
+        x: 13303
+        y: 18
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0485ed46e2b8a6e20800000000000000
+      internalID: 3344638704653064256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_104
+      rect:
+        serializedVersion: 2
+        x: 13432
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdba26c55fe49830800000000000000
+      internalID: 4077146714353089999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_105
+      rect:
+        serializedVersion: 2
+        x: 13561
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee82a93cb062ee80800000000000000
+      internalID: -8150846014050103571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_106
+      rect:
+        serializedVersion: 2
+        x: 13690
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e993e0473267a20800000000000000
+      internalID: 3059671978206666317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_107
+      rect:
+        serializedVersion: 2
+        x: 13819
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9f3d55ca4ae4370800000000000000
+      internalID: 8308759422626429387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_108
+      rect:
+        serializedVersion: 2
+        x: 13948
+        y: 18
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2371a4eae29cbf8b0800000000000000
+      internalID: -5117275349246666958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_109
+      rect:
+        serializedVersion: 2
+        x: 14078
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a79edb125abb70800000000000000
+      internalID: 8915528691985392054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_110
+      rect:
+        serializedVersion: 2
+        x: 14206
+        y: 18
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08721905db1c0fc50800000000000000
+      internalID: 6697065664744597376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_111
+      rect:
+        serializedVersion: 2
+        x: 14335
+        y: 19
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573cd1cbb038cfa50800000000000000
+      internalID: 6556259243968545653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_112
+      rect:
+        serializedVersion: 2
+        x: 14464
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de5c34e0a6491ff0800000000000000
+      internalID: -64943062782288170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_113
+      rect:
+        serializedVersion: 2
+        x: 14593
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68b1750fb59af670800000000000000
+      internalID: 8573329488315791469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_114
+      rect:
+        serializedVersion: 2
+        x: 14722
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5a3eb466acb1bd0800000000000000
+      internalID: -2658308614323460646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_115
+      rect:
+        serializedVersion: 2
+        x: 14851
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cd416063c2b68f0800000000000000
+      internalID: -546294319253496739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_116
+      rect:
+        serializedVersion: 2
+        x: 14980
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8a56bf7c798c380800000000000000
+      internalID: -8950737374226831134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_117
+      rect:
+        serializedVersion: 2
+        x: 15109
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8909fa43b7f6c90800000000000000
+      internalID: -7174380215163905869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_118
+      rect:
+        serializedVersion: 2
+        x: 15238
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2522d339139e0c740800000000000000
+      internalID: 5170388771354255954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_119
+      rect:
+        serializedVersion: 2
+        x: 15367
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72614e20808b6c50800000000000000
+      internalID: 6659557762017616510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_120
+      rect:
+        serializedVersion: 2
+        x: 15496
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d5558c377429720800000000000000
+      internalID: 2851420076686794124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_121
+      rect:
+        serializedVersion: 2
+        x: 15625
+        y: 18
+        width: 99
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af177b96e21b0d0f0800000000000000
+      internalID: -1094179896550788614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_122
+      rect:
+        serializedVersion: 2
+        x: 15755
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00a1e233fe6a0560800000000000000
+      internalID: 7280753738407583757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_123
+      rect:
+        serializedVersion: 2
+        x: 15884
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f9b4631d7393e0800000000000000
+      internalID: -2048155883275685542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_124
+      rect:
+        serializedVersion: 2
+        x: 16013
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356e1733c4b3089a0800000000000000
+      internalID: -6232916685814110637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_125
+      rect:
+        serializedVersion: 2
+        x: 16142
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5a0414c8d71c4a0800000000000000
+      internalID: -6574835939640564294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HoldSpriteSheelt_126
+      rect:
+        serializedVersion: 2
+        x: 16271
+        y: 18
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401eb11d08e572bd0800000000000000
+      internalID: -2655049547954527996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HoldSpriteSheelt_0: -3485509038571271885
+      HoldSpriteSheelt_1: 2612332190552883094
+      HoldSpriteSheelt_10: -2034360719783800867
+      HoldSpriteSheelt_100: 4374443421790953026
+      HoldSpriteSheelt_101: -865203567394327380
+      HoldSpriteSheelt_102: 5073232632241492056
+      HoldSpriteSheelt_103: 3344638704653064256
+      HoldSpriteSheelt_104: 4077146714353089999
+      HoldSpriteSheelt_105: -8150846014050103571
+      HoldSpriteSheelt_106: 3059671978206666317
+      HoldSpriteSheelt_107: 8308759422626429387
+      HoldSpriteSheelt_108: -5117275349246666958
+      HoldSpriteSheelt_109: 8915528691985392054
+      HoldSpriteSheelt_11: -481424662498682427
+      HoldSpriteSheelt_110: 6697065664744597376
+      HoldSpriteSheelt_111: 6556259243968545653
+      HoldSpriteSheelt_112: -64943062782288170
+      HoldSpriteSheelt_113: 8573329488315791469
+      HoldSpriteSheelt_114: -2658308614323460646
+      HoldSpriteSheelt_115: -546294319253496739
+      HoldSpriteSheelt_116: -8950737374226831134
+      HoldSpriteSheelt_117: -7174380215163905869
+      HoldSpriteSheelt_118: 5170388771354255954
+      HoldSpriteSheelt_119: 6659557762017616510
+      HoldSpriteSheelt_12: -4748078977291298729
+      HoldSpriteSheelt_120: 2851420076686794124
+      HoldSpriteSheelt_121: -1094179896550788614
+      HoldSpriteSheelt_122: 7280753738407583757
+      HoldSpriteSheelt_123: -2048155883275685542
+      HoldSpriteSheelt_124: -6232916685814110637
+      HoldSpriteSheelt_125: -6574835939640564294
+      HoldSpriteSheelt_126: -2655049547954527996
+      HoldSpriteSheelt_13: 4167202017027905682
+      HoldSpriteSheelt_14: 1588714349628827927
+      HoldSpriteSheelt_15: -6367941146015201236
+      HoldSpriteSheelt_16: 6744540350823576775
+      HoldSpriteSheelt_17: 7631433479661471060
+      HoldSpriteSheelt_18: 973017941045260105
+      HoldSpriteSheelt_19: -6387623927413035591
+      HoldSpriteSheelt_2: 4604371720873826171
+      HoldSpriteSheelt_20: 6454042302544072511
+      HoldSpriteSheelt_21: 9194603274809953053
+      HoldSpriteSheelt_22: -4299122892379400506
+      HoldSpriteSheelt_23: -8590984625310245226
+      HoldSpriteSheelt_24: -3766611105380430931
+      HoldSpriteSheelt_25: 5014657473399856724
+      HoldSpriteSheelt_26: -7465319476103624299
+      HoldSpriteSheelt_27: -5153869273089929836
+      HoldSpriteSheelt_28: 646644235239372075
+      HoldSpriteSheelt_29: 6247252494339892644
+      HoldSpriteSheelt_3: 5080511807025842525
+      HoldSpriteSheelt_30: -2024508432297099076
+      HoldSpriteSheelt_31: 4047760880296883570
+      HoldSpriteSheelt_32: 7699600253512847382
+      HoldSpriteSheelt_33: 8725420534475510064
+      HoldSpriteSheelt_34: -3138414212088888731
+      HoldSpriteSheelt_35: 7005519657551661400
+      HoldSpriteSheelt_36: -1779727138079968951
+      HoldSpriteSheelt_37: 633949807133685040
+      HoldSpriteSheelt_38: 164008708286901855
+      HoldSpriteSheelt_39: -7846257344352641678
+      HoldSpriteSheelt_4: -9217814135145092783
+      HoldSpriteSheelt_40: 8986146781197021280
+      HoldSpriteSheelt_41: -6032053751496861322
+      HoldSpriteSheelt_42: 1158036295134373289
+      HoldSpriteSheelt_43: 2616966157679738466
+      HoldSpriteSheelt_44: -1308947665277049620
+      HoldSpriteSheelt_45: 136947886985969890
+      HoldSpriteSheelt_46: 838690550272735514
+      HoldSpriteSheelt_47: 7056037098047861159
+      HoldSpriteSheelt_48: -1561298766505507170
+      HoldSpriteSheelt_49: -1183134809968204305
+      HoldSpriteSheelt_5: -1244552457760794560
+      HoldSpriteSheelt_50: 25672376651428891
+      HoldSpriteSheelt_51: 1519258149592339468
+      HoldSpriteSheelt_52: 5903640308557479094
+      HoldSpriteSheelt_53: 1751145288309760200
+      HoldSpriteSheelt_54: 1283984060708011550
+      HoldSpriteSheelt_55: 7878702438463311495
+      HoldSpriteSheelt_56: -1094529215532607669
+      HoldSpriteSheelt_57: -2916371449043011636
+      HoldSpriteSheelt_58: -2392308349889507596
+      HoldSpriteSheelt_59: 1498494309199007713
+      HoldSpriteSheelt_6: 8681284058817723610
+      HoldSpriteSheelt_60: 502925869738278499
+      HoldSpriteSheelt_61: -2234083567936778665
+      HoldSpriteSheelt_62: -7337010477951961742
+      HoldSpriteSheelt_63: 2608820600714198939
+      HoldSpriteSheelt_64: 5930249751518525460
+      HoldSpriteSheelt_65: 7377361379649848582
+      HoldSpriteSheelt_66: -7296069030608659287
+      HoldSpriteSheelt_67: 6655840350018038330
+      HoldSpriteSheelt_68: -6382799868589269178
+      HoldSpriteSheelt_69: 1568072960917413325
+      HoldSpriteSheelt_7: -3022474174879980094
+      HoldSpriteSheelt_70: -7605758854015965144
+      HoldSpriteSheelt_71: -6714268495894759169
+      HoldSpriteSheelt_72: -2445221132237873503
+      HoldSpriteSheelt_73: -5242058030297021884
+      HoldSpriteSheelt_74: -7051881214080879120
+      HoldSpriteSheelt_75: -6323329017398405493
+      HoldSpriteSheelt_76: -124967808059986717
+      HoldSpriteSheelt_77: 3285196713518968898
+      HoldSpriteSheelt_78: 8119047858343327961
+      HoldSpriteSheelt_79: -7635852296279948345
+      HoldSpriteSheelt_8: 1136833061652126299
+      HoldSpriteSheelt_80: 9059613402817025461
+      HoldSpriteSheelt_81: -4473424813605566810
+      HoldSpriteSheelt_82: -2258163636234826515
+      HoldSpriteSheelt_83: 909060049019235627
+      HoldSpriteSheelt_84: -6052812898951824292
+      HoldSpriteSheelt_85: -2955868483531494523
+      HoldSpriteSheelt_86: 1880554473479450155
+      HoldSpriteSheelt_87: -640043768172852164
+      HoldSpriteSheelt_88: 5045656563470955511
+      HoldSpriteSheelt_89: 8235790660122900095
+      HoldSpriteSheelt_9: 6527818337246794038
+      HoldSpriteSheelt_90: -8929873238430576267
+      HoldSpriteSheelt_91: -3558981708477038880
+      HoldSpriteSheelt_92: 5553056102238956632
+      HoldSpriteSheelt_93: 5856192214661248742
+      HoldSpriteSheelt_94: 3797300970629798368
+      HoldSpriteSheelt_95: -6695542500655840265
+      HoldSpriteSheelt_96: -8732631767652425633
+      HoldSpriteSheelt_97: -655989578408019288
+      HoldSpriteSheelt_98: 7190800221266672229
+      HoldSpriteSheelt_99: -8913668689179173692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

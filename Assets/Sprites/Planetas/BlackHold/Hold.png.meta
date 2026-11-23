@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: af65d8d6daaa748faa911cbe4a287a93
+guid: c7e3632e6fd78d747a8e8dbd7ea4e628
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1397092585396734177
-    second: KesharSelect_0
+      213: 2698284144278995298
+    second: Hold_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: KesharSelect_0
+      name: Hold_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 67
-        height: 67
+        x: 16
+        y: 17
+        width: 98
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f17781912b78c9ce0800000000000000
-      internalID: -1397092585396734177
+      spriteID: 26181d2122b327520800000000000000
+      internalID: 2698284144278995298
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      KesharSelect_0: -1397092585396734177
+      Hold_0: 2698284144278995298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

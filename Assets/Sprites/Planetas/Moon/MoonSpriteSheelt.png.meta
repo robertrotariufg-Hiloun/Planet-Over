@@ -1,0 +1,3419 @@
+fileFormatVersion: 2
+guid: 87f55d2ecda857b4185d9613159918c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6545537141371878439
+    second: MoonSpriteSheelt_0
+  - first:
+      213: -6722286981092860372
+    second: MoonSpriteSheelt_1
+  - first:
+      213: 1412674098081290364
+    second: MoonSpriteSheelt_2
+  - first:
+      213: 3312796797932615375
+    second: MoonSpriteSheelt_3
+  - first:
+      213: 5993765928766954041
+    second: MoonSpriteSheelt_4
+  - first:
+      213: -8699063512629809767
+    second: MoonSpriteSheelt_5
+  - first:
+      213: -2620999194623777233
+    second: MoonSpriteSheelt_6
+  - first:
+      213: -2439703377143044729
+    second: MoonSpriteSheelt_7
+  - first:
+      213: 6725343444283835305
+    second: MoonSpriteSheelt_8
+  - first:
+      213: -8110276919696727096
+    second: MoonSpriteSheelt_9
+  - first:
+      213: -3865469342204386758
+    second: MoonSpriteSheelt_10
+  - first:
+      213: 1322896865706523500
+    second: MoonSpriteSheelt_11
+  - first:
+      213: -3845190170768568310
+    second: MoonSpriteSheelt_12
+  - first:
+      213: 5431184013791873571
+    second: MoonSpriteSheelt_13
+  - first:
+      213: -8415690319007450659
+    second: MoonSpriteSheelt_14
+  - first:
+      213: -150474873018240247
+    second: MoonSpriteSheelt_15
+  - first:
+      213: -6133518677207741252
+    second: MoonSpriteSheelt_16
+  - first:
+      213: -6981778985700003526
+    second: MoonSpriteSheelt_17
+  - first:
+      213: -8246565734817706999
+    second: MoonSpriteSheelt_18
+  - first:
+      213: -4638192439977946490
+    second: MoonSpriteSheelt_19
+  - first:
+      213: -6518816551244867237
+    second: MoonSpriteSheelt_20
+  - first:
+      213: 5633738975779967346
+    second: MoonSpriteSheelt_21
+  - first:
+      213: 4910398712400760782
+    second: MoonSpriteSheelt_22
+  - first:
+      213: -7554486388315220343
+    second: MoonSpriteSheelt_23
+  - first:
+      213: -7640443646505348926
+    second: MoonSpriteSheelt_24
+  - first:
+      213: 6449393823466307796
+    second: MoonSpriteSheelt_25
+  - first:
+      213: -3967644647717325432
+    second: MoonSpriteSheelt_26
+  - first:
+      213: 6762496809939802053
+    second: MoonSpriteSheelt_27
+  - first:
+      213: 7528181724100729986
+    second: MoonSpriteSheelt_28
+  - first:
+      213: 6584222037547632542
+    second: MoonSpriteSheelt_29
+  - first:
+      213: -7810966254031419205
+    second: MoonSpriteSheelt_30
+  - first:
+      213: -5418959638610278196
+    second: MoonSpriteSheelt_31
+  - first:
+      213: 961813136360293904
+    second: MoonSpriteSheelt_32
+  - first:
+      213: 8844312353653640141
+    second: MoonSpriteSheelt_33
+  - first:
+      213: 5092166139796536882
+    second: MoonSpriteSheelt_34
+  - first:
+      213: 4598273932936505244
+    second: MoonSpriteSheelt_35
+  - first:
+      213: -4952391394086879583
+    second: MoonSpriteSheelt_36
+  - first:
+      213: 2542915797896768411
+    second: MoonSpriteSheelt_37
+  - first:
+      213: 1473857520173092221
+    second: MoonSpriteSheelt_38
+  - first:
+      213: 5271213208869388428
+    second: MoonSpriteSheelt_39
+  - first:
+      213: 2020283121613939105
+    second: MoonSpriteSheelt_40
+  - first:
+      213: -6567907351640581860
+    second: MoonSpriteSheelt_41
+  - first:
+      213: 4794436001380298719
+    second: MoonSpriteSheelt_42
+  - first:
+      213: -5381596648349098707
+    second: MoonSpriteSheelt_43
+  - first:
+      213: -1534189457842746296
+    second: MoonSpriteSheelt_44
+  - first:
+      213: -8259270618869960415
+    second: MoonSpriteSheelt_45
+  - first:
+      213: 1497552257028405229
+    second: MoonSpriteSheelt_46
+  - first:
+      213: 3043418461572744351
+    second: MoonSpriteSheelt_47
+  - first:
+      213: -3353488495711144179
+    second: MoonSpriteSheelt_48
+  - first:
+      213: 1505582955675589210
+    second: MoonSpriteSheelt_49
+  - first:
+      213: -100411825980546355
+    second: MoonSpriteSheelt_50
+  - first:
+      213: 116728147924162643
+    second: MoonSpriteSheelt_51
+  - first:
+      213: -2171116113371960208
+    second: MoonSpriteSheelt_52
+  - first:
+      213: 1645194543657083952
+    second: MoonSpriteSheelt_53
+  - first:
+      213: 3075050656664671912
+    second: MoonSpriteSheelt_54
+  - first:
+      213: -5956432463668250179
+    second: MoonSpriteSheelt_55
+  - first:
+      213: 4530244496810519664
+    second: MoonSpriteSheelt_56
+  - first:
+      213: -1743203343151949831
+    second: MoonSpriteSheelt_57
+  - first:
+      213: 3821518117147191718
+    second: MoonSpriteSheelt_58
+  - first:
+      213: 5001981867720711207
+    second: MoonSpriteSheelt_59
+  - first:
+      213: 3643823429139310392
+    second: MoonSpriteSheelt_60
+  - first:
+      213: 1975976169953359398
+    second: MoonSpriteSheelt_61
+  - first:
+      213: -42395278679005178
+    second: MoonSpriteSheelt_62
+  - first:
+      213: -2690945943324754005
+    second: MoonSpriteSheelt_63
+  - first:
+      213: -2193970568594994459
+    second: MoonSpriteSheelt_64
+  - first:
+      213: 5922696209722150151
+    second: MoonSpriteSheelt_65
+  - first:
+      213: 4701362053416371894
+    second: MoonSpriteSheelt_66
+  - first:
+      213: 3712906109312433655
+    second: MoonSpriteSheelt_67
+  - first:
+      213: 5362446574867429478
+    second: MoonSpriteSheelt_68
+  - first:
+      213: 264580858450439007
+    second: MoonSpriteSheelt_69
+  - first:
+      213: 1151902869447470691
+    second: MoonSpriteSheelt_70
+  - first:
+      213: 349402311174046610
+    second: MoonSpriteSheelt_71
+  - first:
+      213: 1756653976630416719
+    second: MoonSpriteSheelt_72
+  - first:
+      213: -1150586500673601088
+    second: MoonSpriteSheelt_73
+  - first:
+      213: -5556332517416708388
+    second: MoonSpriteSheelt_74
+  - first:
+      213: 7234865343344300568
+    second: MoonSpriteSheelt_75
+  - first:
+      213: 4279607351903560671
+    second: MoonSpriteSheelt_76
+  - first:
+      213: 6581223339217262740
+    second: MoonSpriteSheelt_77
+  - first:
+      213: 7381013805547443251
+    second: MoonSpriteSheelt_78
+  - first:
+      213: 504646199633814657
+    second: MoonSpriteSheelt_79
+  - first:
+      213: -3879257423000968863
+    second: MoonSpriteSheelt_80
+  - first:
+      213: 367957712446330692
+    second: MoonSpriteSheelt_81
+  - first:
+      213: 621676836111961516
+    second: MoonSpriteSheelt_82
+  - first:
+      213: 6899805293445278126
+    second: MoonSpriteSheelt_83
+  - first:
+      213: -1012419957275851730
+    second: MoonSpriteSheelt_84
+  - first:
+      213: 5169970539468081892
+    second: MoonSpriteSheelt_85
+  - first:
+      213: -7527886767950047492
+    second: MoonSpriteSheelt_86
+  - first:
+      213: -4640796211298861471
+    second: MoonSpriteSheelt_87
+  - first:
+      213: 5349723178176961719
+    second: MoonSpriteSheelt_88
+  - first:
+      213: -7570120336806200002
+    second: MoonSpriteSheelt_89
+  - first:
+      213: 9049836461626103676
+    second: MoonSpriteSheelt_90
+  - first:
+      213: -7834628932219236548
+    second: MoonSpriteSheelt_91
+  - first:
+      213: 4184465718645701091
+    second: MoonSpriteSheelt_92
+  - first:
+      213: 5457123665765285773
+    second: MoonSpriteSheelt_93
+  - first:
+      213: -3827808477386868535
+    second: MoonSpriteSheelt_94
+  - first:
+      213: -2358312024606302280
+    second: MoonSpriteSheelt_95
+  - first:
+      213: -663461213790463847
+    second: MoonSpriteSheelt_96
+  - first:
+      213: -8762436011407830403
+    second: MoonSpriteSheelt_97
+  - first:
+      213: 5331919240886708274
+    second: MoonSpriteSheelt_98
+  - first:
+      213: -776395783016360034
+    second: MoonSpriteSheelt_99
+  - first:
+      213: -7158091052070999124
+    second: MoonSpriteSheelt_100
+  - first:
+      213: -109517171788512722
+    second: MoonSpriteSheelt_101
+  - first:
+      213: -3201025365134450850
+    second: MoonSpriteSheelt_102
+  - first:
+      213: 3587542918748621200
+    second: MoonSpriteSheelt_103
+  - first:
+      213: 8916452634660446644
+    second: MoonSpriteSheelt_104
+  - first:
+      213: -5667408460049504319
+    second: MoonSpriteSheelt_105
+  - first:
+      213: 63803783944517877
+    second: MoonSpriteSheelt_106
+  - first:
+      213: 8521208847863422986
+    second: MoonSpriteSheelt_107
+  - first:
+      213: -2557584048108227744
+    second: MoonSpriteSheelt_108
+  - first:
+      213: -3288856609916236635
+    second: MoonSpriteSheelt_109
+  - first:
+      213: 99669295775116301
+    second: MoonSpriteSheelt_110
+  - first:
+      213: -3572978974771027328
+    second: MoonSpriteSheelt_111
+  - first:
+      213: -7684280460431582697
+    second: MoonSpriteSheelt_112
+  - first:
+      213: -7790007210464165566
+    second: MoonSpriteSheelt_113
+  - first:
+      213: -3128205577147074671
+    second: MoonSpriteSheelt_114
+  - first:
+      213: -7133742761839127488
+    second: MoonSpriteSheelt_115
+  - first:
+      213: -2959102114768258647
+    second: MoonSpriteSheelt_116
+  - first:
+      213: -6913623192232116197
+    second: MoonSpriteSheelt_117
+  - first:
+      213: 5388259203534790139
+    second: MoonSpriteSheelt_118
+  - first:
+      213: -126687099970096571
+    second: MoonSpriteSheelt_119
+  - first:
+      213: -7589962541737112462
+    second: MoonSpriteSheelt_120
+  - first:
+      213: 168243006240321266
+    second: MoonSpriteSheelt_121
+  - first:
+      213: 5717961837496364123
+    second: MoonSpriteSheelt_122
+  - first:
+      213: -7433030006342743495
+    second: MoonSpriteSheelt_123
+  - first:
+      213: 3356216784803267690
+    second: MoonSpriteSheelt_124
+  - first:
+      213: 3809670866702470297
+    second: MoonSpriteSheelt_125
+  - first:
+      213: -2132745906887989925
+    second: MoonSpriteSheelt_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cb89fa95b66da50800000000000000
+      internalID: 6545537141371878439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e1abd5b93a5b2a0800000000000000
+      internalID: -6722286981092860372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78d7878b93da9310800000000000000
+      internalID: 1412674098081290364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc633d1c22b69fd20800000000000000
+      internalID: 3312796797932615375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a5efa1b522e2350800000000000000
+      internalID: 5993765928766954041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_5
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d632b23d7b64780800000000000000
+      internalID: -8699063512629809767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f266ddf7e1750abd0800000000000000
+      internalID: -2620999194623777233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_7
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785611064be642ed0800000000000000
+      internalID: -2439703377143044729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_8
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a34a0dea38355d50800000000000000
+      internalID: 6725343444283835305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_9
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36d639c12827f80800000000000000
+      internalID: -8110276919696727096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_10
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32aeb70d181b5ac0800000000000000
+      internalID: -3865469342204386758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_11
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b3aeab0bfdb5210800000000000000
+      internalID: 1322896865706523500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_12
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00148199e323aac0800000000000000
+      internalID: -3845190170768568310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_13
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a48dbb5117f5b40800000000000000
+      internalID: 5431184013791873571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_14
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9fddb3e36753b80800000000000000
+      internalID: -8415690319007450659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_15
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903302676e769edf0800000000000000
+      internalID: -150474873018240247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_16
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc0fc5824d51eaa0800000000000000
+      internalID: -6133518677207741252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_17
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a317019e00dbb1f90800000000000000
+      internalID: -6981778985700003526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_18
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c484708205e8d80800000000000000
+      internalID: -8246565734817706999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_19
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682563fcc84d1afb0800000000000000
+      internalID: -4638192439977946490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_20
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59dc1382e28885a0800000000000000
+      internalID: -6518816551244867237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_21
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27153a8efbf0f2e40800000000000000
+      internalID: 5633738975779967346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_22
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfce2ecc9d352440800000000000000
+      internalID: 4910398712400760782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_23
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98692fbb7a2192790800000000000000
+      internalID: -7554486388315220343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_24
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c098abfbf0b7f590800000000000000
+      internalID: -7640443646505348926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_25
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0ce481389d08950800000000000000
+      internalID: 6449393823466307796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_26
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88534d1e63810f8c0800000000000000
+      internalID: -3967644647717325432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_27
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79c27f40739dd50800000000000000
+      internalID: 6762496809939802053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_28
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9c9d5469797860800000000000000
+      internalID: 7528181724100729986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_29
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e974356fe0bdf5b50800000000000000
+      internalID: 6584222037547632542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_30
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8c4e3839fd99390800000000000000
+      internalID: -7810966254031419205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_31
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc884786becfbc4b0800000000000000
+      internalID: -5418959638610278196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_32
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0164f0d93fb095d00800000000000000
+      internalID: 961813136360293904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_33
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbcf1af93f4dba70800000000000000
+      internalID: 8844312353653640141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_34
+      rect:
+        serializedVersion: 2
+        x: 4387
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e38dbef120ba640800000000000000
+      internalID: 5092166139796536882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_35
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c976e9087c950df30800000000000000
+      internalID: 4598273932936505244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_36
+      rect:
+        serializedVersion: 2
+        x: 4645
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeffb61442954bb0800000000000000
+      internalID: -4952391394086879583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_37
+      rect:
+        serializedVersion: 2
+        x: 4774
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bad5bf1704a4320800000000000000
+      internalID: 2542915797896768411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_38
+      rect:
+        serializedVersion: 2
+        x: 4903
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d84731b91347410800000000000000
+      internalID: 1473857520173092221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_39
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80c1024c7c172940800000000000000
+      internalID: 5271213208869388428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_40
+      rect:
+        serializedVersion: 2
+        x: 5161
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a124819bcc790c10800000000000000
+      internalID: 2020283121613939105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_41
+      rect:
+        serializedVersion: 2
+        x: 5290
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1959cbdf0b1ad4a0800000000000000
+      internalID: -6567907351640581860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_42
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfed982422498240800000000000000
+      internalID: 4794436001380298719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_43
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d18ba7c5ab055b0800000000000000
+      internalID: -5381596648349098707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_44
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c422b01d675bae0800000000000000
+      internalID: -1534189457842746296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_45
+      rect:
+        serializedVersion: 2
+        x: 5806
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1217f62b12d216d80800000000000000
+      internalID: -8259270618869960415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_46
+      rect:
+        serializedVersion: 2
+        x: 5935
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de733c8e7df58c410800000000000000
+      internalID: 1497552257028405229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_47
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94c8e057f46c3a20800000000000000
+      internalID: 3043418461572744351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_48
+      rect:
+        serializedVersion: 2
+        x: 6193
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0737ce0bf30671d0800000000000000
+      internalID: -3353488495711144179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_49
+      rect:
+        serializedVersion: 2
+        x: 6322
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a1de4a8b7e4e410800000000000000
+      internalID: 1505582955675589210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_50
+      rect:
+        serializedVersion: 2
+        x: 6451
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc26e2de9f34b9ef0800000000000000
+      internalID: -100411825980546355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_51
+      rect:
+        serializedVersion: 2
+        x: 6580
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3581f40d1a3be9100800000000000000
+      internalID: 116728147924162643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_52
+      rect:
+        serializedVersion: 2
+        x: 6709
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6650e565aed1e0800000000000000
+      internalID: -2171116113371960208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_53
+      rect:
+        serializedVersion: 2
+        x: 6838
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034671988b7e4d610800000000000000
+      internalID: 1645194543657083952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_54
+      rect:
+        serializedVersion: 2
+        x: 6967
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a654d8a746ccaa20800000000000000
+      internalID: 3075050656664671912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_55
+      rect:
+        serializedVersion: 2
+        x: 7096
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9f27a9b30865da0800000000000000
+      internalID: -5956432463668250179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_56
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c2f0a1e59aede30800000000000000
+      internalID: 4530244496810519664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_57
+      rect:
+        serializedVersion: 2
+        x: 7354
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f797289bc5eec7e0800000000000000
+      internalID: -1743203343151949831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_58
+      rect:
+        serializedVersion: 2
+        x: 7483
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a92743fa72c80530800000000000000
+      internalID: 3821518117147191718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_59
+      rect:
+        serializedVersion: 2
+        x: 7612
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c107ec10c9a6540800000000000000
+      internalID: 5001981867720711207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_60
+      rect:
+        serializedVersion: 2
+        x: 7741
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837281e5a16719230800000000000000
+      internalID: 3643823429139310392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_61
+      rect:
+        serializedVersion: 2
+        x: 7870
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626f4be7bd31c6b10800000000000000
+      internalID: 1975976169953359398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_62
+      rect:
+        serializedVersion: 2
+        x: 7999
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6082f2af7b1696ff0800000000000000
+      internalID: -42395278679005178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_63
+      rect:
+        serializedVersion: 2
+        x: 8128
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf795afbe6d7aad0800000000000000
+      internalID: -2690945943324754005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_64
+      rect:
+        serializedVersion: 2
+        x: 8257
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eacb3b54637d81e0800000000000000
+      internalID: -2193970568594994459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_65
+      rect:
+        serializedVersion: 2
+        x: 8386
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d8a0da2d4a13250800000000000000
+      internalID: 5922696209722150151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_66
+      rect:
+        serializedVersion: 2
+        x: 8515
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b64262f0e79e3140800000000000000
+      internalID: 4701362053416371894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_67
+      rect:
+        serializedVersion: 2
+        x: 8644
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf1f14f64e68330800000000000000
+      internalID: 3712906109312433655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_68
+      rect:
+        serializedVersion: 2
+        x: 8773
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bbf59fbc3b6a40800000000000000
+      internalID: 5362446574867429478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_69
+      rect:
+        serializedVersion: 2
+        x: 8902
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b6e4293eafba300800000000000000
+      internalID: 264580858450439007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_70
+      rect:
+        serializedVersion: 2
+        x: 9031
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e6b258e816cff00800000000000000
+      internalID: 1151902869447470691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_71
+      rect:
+        serializedVersion: 2
+        x: 9160
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293ca310d8359d400800000000000000
+      internalID: 349402311174046610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_72
+      rect:
+        serializedVersion: 2
+        x: 9289
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45555e0c73e06810800000000000000
+      internalID: 1756653976630416719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_73
+      rect:
+        serializedVersion: 2
+        x: 9418
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c18df77cab4800f0800000000000000
+      internalID: -1150586500673601088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_74
+      rect:
+        serializedVersion: 2
+        x: 9547
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6dc6d9301f3e2b0800000000000000
+      internalID: -5556332517416708388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_75
+      rect:
+        serializedVersion: 2
+        x: 9676
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81252d3a2b7676460800000000000000
+      internalID: 7234865343344300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_76
+      rect:
+        serializedVersion: 2
+        x: 9805
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3ac545638346b30800000000000000
+      internalID: 4279607351903560671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_77
+      rect:
+        serializedVersion: 2
+        x: 9934
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4981e8912c3355b50800000000000000
+      internalID: 6581223339217262740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_78
+      rect:
+        serializedVersion: 2
+        x: 10063
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d8e923f0ae6660800000000000000
+      internalID: 7381013805547443251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_79
+      rect:
+        serializedVersion: 2
+        x: 10192
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184ac6a7b0dd00700800000000000000
+      internalID: 504646199633814657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_80
+      rect:
+        serializedVersion: 2
+        x: 10321
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161eabd4deb1a2ac0800000000000000
+      internalID: -3879257423000968863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_81
+      rect:
+        serializedVersion: 2
+        x: 10450
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4479ab6079f3b1500800000000000000
+      internalID: 367957712446330692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_82
+      rect:
+        serializedVersion: 2
+        x: 10579
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadca85e9c3a0a800800000000000000
+      internalID: 621676836111961516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_83
+      rect:
+        serializedVersion: 2
+        x: 10708
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea96a2f8b5801cf50800000000000000
+      internalID: 6899805293445278126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_84
+      rect:
+        serializedVersion: 2
+        x: 10837
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e248e03b96923f1f0800000000000000
+      internalID: -1012419957275851730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_85
+      rect:
+        serializedVersion: 2
+        x: 10966
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaca3060dc6fb740800000000000000
+      internalID: 5169970539468081892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_86
+      rect:
+        serializedVersion: 2
+        x: 11095
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf659f67ed2978790800000000000000
+      internalID: -7527886767950047492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_87
+      rect:
+        serializedVersion: 2
+        x: 11224
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e7d8e0f64989fb0800000000000000
+      internalID: -4640796211298861471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_88
+      rect:
+        serializedVersion: 2
+        x: 11353
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc59e1f2e80e3a40800000000000000
+      internalID: 5349723178176961719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_89
+      rect:
+        serializedVersion: 2
+        x: 11482
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3db4b179a781f690800000000000000
+      internalID: -7570120336806200002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_90
+      rect:
+        serializedVersion: 2
+        x: 11611
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c771a92505a779d70800000000000000
+      internalID: 9049836461626103676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_91
+      rect:
+        serializedVersion: 2
+        x: 11740
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f031cee7ec54390800000000000000
+      internalID: -7834628932219236548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_92
+      rect:
+        serializedVersion: 2
+        x: 11869
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e93dae9665321a30800000000000000
+      internalID: 4184465718645701091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_93
+      rect:
+        serializedVersion: 2
+        x: 11998
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f31599f099bbb40800000000000000
+      internalID: 5457123665765285773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_94
+      rect:
+        serializedVersion: 2
+        x: 12127
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8702d6874e0eac0800000000000000
+      internalID: -3827808477386868535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_95
+      rect:
+        serializedVersion: 2
+        x: 12256
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf1fcf55b7954fd0800000000000000
+      internalID: -2358312024606302280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_96
+      rect:
+        serializedVersion: 2
+        x: 12385
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99815cd8a89eac6f0800000000000000
+      internalID: -663461213790463847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_97
+      rect:
+        serializedVersion: 2
+        x: 12514
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7212fc7fd2956680800000000000000
+      internalID: -8762436011407830403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_98
+      rect:
+        serializedVersion: 2
+        x: 12643
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2386f14cc48cef940800000000000000
+      internalID: 5331919240886708274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_99
+      rect:
+        serializedVersion: 2
+        x: 12772
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d23c1620b935f0800000000000000
+      internalID: -776395783016360034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_100
+      rect:
+        serializedVersion: 2
+        x: 12901
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabe7630d1a59ac90800000000000000
+      internalID: -7158091052070999124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_101
+      rect:
+        serializedVersion: 2
+        x: 13030
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e228db666baea7ef0800000000000000
+      internalID: -109517171788512722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_102
+      rect:
+        serializedVersion: 2
+        x: 13159
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f5522e36ca393d0800000000000000
+      internalID: -3201025365134450850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_103
+      rect:
+        serializedVersion: 2
+        x: 13288
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099ca78e64389c130800000000000000
+      internalID: 3587542918748621200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_104
+      rect:
+        serializedVersion: 2
+        x: 13417
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b128890e6a9dbb70800000000000000
+      internalID: 8916452634660446644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_105
+      rect:
+        serializedVersion: 2
+        x: 13546
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a4b568025951b0800000000000000
+      internalID: -5667408460049504319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_106
+      rect:
+        serializedVersion: 2
+        x: 13675
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8b655143da2e000800000000000000
+      internalID: 63803783944517877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_107
+      rect:
+        serializedVersion: 2
+        x: 13804
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a0d1cc4a614670800000000000000
+      internalID: 8521208847863422986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_108
+      rect:
+        serializedVersion: 2
+        x: 13933
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063bd41ebd2a18cd0800000000000000
+      internalID: -2557584048108227744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_109
+      rect:
+        serializedVersion: 2
+        x: 14062
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac4fb0a652ab52d0800000000000000
+      internalID: -3288856609916236635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_110
+      rect:
+        serializedVersion: 2
+        x: 14191
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c60b942b8126100800000000000000
+      internalID: 99669295775116301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_111
+      rect:
+        serializedVersion: 2
+        x: 14320
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08265da8d8a3a6ec0800000000000000
+      internalID: -3572978974771027328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_112
+      rect:
+        serializedVersion: 2
+        x: 14449
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a108162a3fb5590800000000000000
+      internalID: -7684280460431582697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_113
+      rect:
+        serializedVersion: 2
+        x: 14578
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2414d8e17b554e390800000000000000
+      internalID: -7790007210464165566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_114
+      rect:
+        serializedVersion: 2
+        x: 14707
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197b0cdf9916694d0800000000000000
+      internalID: -3128205577147074671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_115
+      rect:
+        serializedVersion: 2
+        x: 14836
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044909911cadffc90800000000000000
+      internalID: -7133742761839127488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_116
+      rect:
+        serializedVersion: 2
+        x: 14965
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9712bfd482fe6d0800000000000000
+      internalID: -2959102114768258647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_117
+      rect:
+        serializedVersion: 2
+        x: 15094
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b104a1c2650ed00a0800000000000000
+      internalID: -6913623192232116197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_118
+      rect:
+        serializedVersion: 2
+        x: 15223
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd9b688231f6ca40800000000000000
+      internalID: 5388259203534790139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_119
+      rect:
+        serializedVersion: 2
+        x: 15352
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54278a8f0caed3ef0800000000000000
+      internalID: -126687099970096571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_120
+      rect:
+        serializedVersion: 2
+        x: 15481
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c0d3918490ba690800000000000000
+      internalID: -7589962541737112462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_121
+      rect:
+        serializedVersion: 2
+        x: 15610
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fee5ee6f18b55200800000000000000
+      internalID: 168243006240321266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_122
+      rect:
+        serializedVersion: 2
+        x: 15739
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ce5330ff74a5f40800000000000000
+      internalID: 5717961837496364123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_123
+      rect:
+        serializedVersion: 2
+        x: 15868
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a0f13579298d890800000000000000
+      internalID: -7433030006342743495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_124
+      rect:
+        serializedVersion: 2
+        x: 15997
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64076f326da39e20800000000000000
+      internalID: 3356216784803267690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_125
+      rect:
+        serializedVersion: 2
+        x: 16126
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c84f0087baed430800000000000000
+      internalID: 3809670866702470297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoonSpriteSheelt_126
+      rect:
+        serializedVersion: 2
+        x: 16255
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55e5cfb5e6f662e0800000000000000
+      internalID: -2132745906887989925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MoonSpriteSheelt_0: 6545537141371878439
+      MoonSpriteSheelt_1: -6722286981092860372
+      MoonSpriteSheelt_10: -3865469342204386758
+      MoonSpriteSheelt_100: -7158091052070999124
+      MoonSpriteSheelt_101: -109517171788512722
+      MoonSpriteSheelt_102: -3201025365134450850
+      MoonSpriteSheelt_103: 3587542918748621200
+      MoonSpriteSheelt_104: 8916452634660446644
+      MoonSpriteSheelt_105: -5667408460049504319
+      MoonSpriteSheelt_106: 63803783944517877
+      MoonSpriteSheelt_107: 8521208847863422986
+      MoonSpriteSheelt_108: -2557584048108227744
+      MoonSpriteSheelt_109: -3288856609916236635
+      MoonSpriteSheelt_11: 1322896865706523500
+      MoonSpriteSheelt_110: 99669295775116301
+      MoonSpriteSheelt_111: -3572978974771027328
+      MoonSpriteSheelt_112: -7684280460431582697
+      MoonSpriteSheelt_113: -7790007210464165566
+      MoonSpriteSheelt_114: -3128205577147074671
+      MoonSpriteSheelt_115: -7133742761839127488
+      MoonSpriteSheelt_116: -2959102114768258647
+      MoonSpriteSheelt_117: -6913623192232116197
+      MoonSpriteSheelt_118: 5388259203534790139
+      MoonSpriteSheelt_119: -126687099970096571
+      MoonSpriteSheelt_12: -3845190170768568310
+      MoonSpriteSheelt_120: -7589962541737112462
+      MoonSpriteSheelt_121: 168243006240321266
+      MoonSpriteSheelt_122: 5717961837496364123
+      MoonSpriteSheelt_123: -7433030006342743495
+      MoonSpriteSheelt_124: 3356216784803267690
+      MoonSpriteSheelt_125: 3809670866702470297
+      MoonSpriteSheelt_126: -2132745906887989925
+      MoonSpriteSheelt_13: 5431184013791873571
+      MoonSpriteSheelt_14: -8415690319007450659
+      MoonSpriteSheelt_15: -150474873018240247
+      MoonSpriteSheelt_16: -6133518677207741252
+      MoonSpriteSheelt_17: -6981778985700003526
+      MoonSpriteSheelt_18: -8246565734817706999
+      MoonSpriteSheelt_19: -4638192439977946490
+      MoonSpriteSheelt_2: 1412674098081290364
+      MoonSpriteSheelt_20: -6518816551244867237
+      MoonSpriteSheelt_21: 5633738975779967346
+      MoonSpriteSheelt_22: 4910398712400760782
+      MoonSpriteSheelt_23: -7554486388315220343
+      MoonSpriteSheelt_24: -7640443646505348926
+      MoonSpriteSheelt_25: 6449393823466307796
+      MoonSpriteSheelt_26: -3967644647717325432
+      MoonSpriteSheelt_27: 6762496809939802053
+      MoonSpriteSheelt_28: 7528181724100729986
+      MoonSpriteSheelt_29: 6584222037547632542
+      MoonSpriteSheelt_3: 3312796797932615375
+      MoonSpriteSheelt_30: -7810966254031419205
+      MoonSpriteSheelt_31: -5418959638610278196
+      MoonSpriteSheelt_32: 961813136360293904
+      MoonSpriteSheelt_33: 8844312353653640141
+      MoonSpriteSheelt_34: 5092166139796536882
+      MoonSpriteSheelt_35: 4598273932936505244
+      MoonSpriteSheelt_36: -4952391394086879583
+      MoonSpriteSheelt_37: 2542915797896768411
+      MoonSpriteSheelt_38: 1473857520173092221
+      MoonSpriteSheelt_39: 5271213208869388428
+      MoonSpriteSheelt_4: 5993765928766954041
+      MoonSpriteSheelt_40: 2020283121613939105
+      MoonSpriteSheelt_41: -6567907351640581860
+      MoonSpriteSheelt_42: 4794436001380298719
+      MoonSpriteSheelt_43: -5381596648349098707
+      MoonSpriteSheelt_44: -1534189457842746296
+      MoonSpriteSheelt_45: -8259270618869960415
+      MoonSpriteSheelt_46: 1497552257028405229
+      MoonSpriteSheelt_47: 3043418461572744351
+      MoonSpriteSheelt_48: -3353488495711144179
+      MoonSpriteSheelt_49: 1505582955675589210
+      MoonSpriteSheelt_5: -8699063512629809767
+      MoonSpriteSheelt_50: -100411825980546355
+      MoonSpriteSheelt_51: 116728147924162643
+      MoonSpriteSheelt_52: -2171116113371960208
+      MoonSpriteSheelt_53: 1645194543657083952
+      MoonSpriteSheelt_54: 3075050656664671912
+      MoonSpriteSheelt_55: -5956432463668250179
+      MoonSpriteSheelt_56: 4530244496810519664
+      MoonSpriteSheelt_57: -1743203343151949831
+      MoonSpriteSheelt_58: 3821518117147191718
+      MoonSpriteSheelt_59: 5001981867720711207
+      MoonSpriteSheelt_6: -2620999194623777233
+      MoonSpriteSheelt_60: 3643823429139310392
+      MoonSpriteSheelt_61: 1975976169953359398
+      MoonSpriteSheelt_62: -42395278679005178
+      MoonSpriteSheelt_63: -2690945943324754005
+      MoonSpriteSheelt_64: -2193970568594994459
+      MoonSpriteSheelt_65: 5922696209722150151
+      MoonSpriteSheelt_66: 4701362053416371894
+      MoonSpriteSheelt_67: 3712906109312433655
+      MoonSpriteSheelt_68: 5362446574867429478
+      MoonSpriteSheelt_69: 264580858450439007
+      MoonSpriteSheelt_7: -2439703377143044729
+      MoonSpriteSheelt_70: 1151902869447470691
+      MoonSpriteSheelt_71: 349402311174046610
+      MoonSpriteSheelt_72: 1756653976630416719
+      MoonSpriteSheelt_73: -1150586500673601088
+      MoonSpriteSheelt_74: -5556332517416708388
+      MoonSpriteSheelt_75: 7234865343344300568
+      MoonSpriteSheelt_76: 4279607351903560671
+      MoonSpriteSheelt_77: 6581223339217262740
+      MoonSpriteSheelt_78: 7381013805547443251
+      MoonSpriteSheelt_79: 504646199633814657
+      MoonSpriteSheelt_8: 6725343444283835305
+      MoonSpriteSheelt_80: -3879257423000968863
+      MoonSpriteSheelt_81: 367957712446330692
+      MoonSpriteSheelt_82: 621676836111961516
+      MoonSpriteSheelt_83: 6899805293445278126
+      MoonSpriteSheelt_84: -1012419957275851730
+      MoonSpriteSheelt_85: 5169970539468081892
+      MoonSpriteSheelt_86: -7527886767950047492
+      MoonSpriteSheelt_87: -4640796211298861471
+      MoonSpriteSheelt_88: 5349723178176961719
+      MoonSpriteSheelt_89: -7570120336806200002
+      MoonSpriteSheelt_9: -8110276919696727096
+      MoonSpriteSheelt_90: 9049836461626103676
+      MoonSpriteSheelt_91: -7834628932219236548
+      MoonSpriteSheelt_92: 4184465718645701091
+      MoonSpriteSheelt_93: 5457123665765285773
+      MoonSpriteSheelt_94: -3827808477386868535
+      MoonSpriteSheelt_95: -2358312024606302280
+      MoonSpriteSheelt_96: -663461213790463847
+      MoonSpriteSheelt_97: -8762436011407830403
+      MoonSpriteSheelt_98: 5331919240886708274
+      MoonSpriteSheelt_99: -776395783016360034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

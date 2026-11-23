@@ -1,0 +1,6747 @@
+fileFormatVersion: 2
+guid: 1023a5829c1bcb5458268b9370adc1fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6702728416767067866
+    second: GalaxySpriteSheelt_0
+  - first:
+      213: 3836212567034652749
+    second: GalaxySpriteSheelt_1
+  - first:
+      213: -7120157180066935903
+    second: GalaxySpriteSheelt_2
+  - first:
+      213: -3109207975744206443
+    second: GalaxySpriteSheelt_3
+  - first:
+      213: -8338618087517686043
+    second: GalaxySpriteSheelt_4
+  - first:
+      213: 6163525679072978999
+    second: GalaxySpriteSheelt_5
+  - first:
+      213: -4055126534426545404
+    second: GalaxySpriteSheelt_6
+  - first:
+      213: -2524584751601022589
+    second: GalaxySpriteSheelt_7
+  - first:
+      213: -8031649680926512319
+    second: GalaxySpriteSheelt_8
+  - first:
+      213: -5422561461974423221
+    second: GalaxySpriteSheelt_9
+  - first:
+      213: 3741054460263812979
+    second: GalaxySpriteSheelt_10
+  - first:
+      213: -4906519053955202203
+    second: GalaxySpriteSheelt_11
+  - first:
+      213: -5397703471770893079
+    second: GalaxySpriteSheelt_12
+  - first:
+      213: -3916759045951711944
+    second: GalaxySpriteSheelt_13
+  - first:
+      213: 7699764165751743363
+    second: GalaxySpriteSheelt_14
+  - first:
+      213: 6513582761880095054
+    second: GalaxySpriteSheelt_15
+  - first:
+      213: 6125328080523522664
+    second: GalaxySpriteSheelt_16
+  - first:
+      213: 5372527452325153591
+    second: GalaxySpriteSheelt_17
+  - first:
+      213: -8558100145789217678
+    second: GalaxySpriteSheelt_18
+  - first:
+      213: -4794087443377060436
+    second: GalaxySpriteSheelt_19
+  - first:
+      213: 1701682009425551314
+    second: GalaxySpriteSheelt_20
+  - first:
+      213: 6449394773568658799
+    second: GalaxySpriteSheelt_21
+  - first:
+      213: 9171051937954886545
+    second: GalaxySpriteSheelt_22
+  - first:
+      213: 2507327082776577760
+    second: GalaxySpriteSheelt_23
+  - first:
+      213: -6895338026876351685
+    second: GalaxySpriteSheelt_24
+  - first:
+      213: 1179748876121293814
+    second: GalaxySpriteSheelt_25
+  - first:
+      213: 9157791875389422939
+    second: GalaxySpriteSheelt_26
+  - first:
+      213: -9126116012435837473
+    second: GalaxySpriteSheelt_27
+  - first:
+      213: 292940886118495569
+    second: GalaxySpriteSheelt_28
+  - first:
+      213: -1488816411676857260
+    second: GalaxySpriteSheelt_29
+  - first:
+      213: -1533182638901822189
+    second: GalaxySpriteSheelt_30
+  - first:
+      213: -9208096154517178980
+    second: GalaxySpriteSheelt_31
+  - first:
+      213: -1131719966783384211
+    second: GalaxySpriteSheelt_32
+  - first:
+      213: -3000786617928259177
+    second: GalaxySpriteSheelt_33
+  - first:
+      213: -3873513618457267776
+    second: GalaxySpriteSheelt_34
+  - first:
+      213: -5424965600543747725
+    second: GalaxySpriteSheelt_35
+  - first:
+      213: 3514927232971341322
+    second: GalaxySpriteSheelt_36
+  - first:
+      213: 2523294673253427071
+    second: GalaxySpriteSheelt_37
+  - first:
+      213: -1563022890224321303
+    second: GalaxySpriteSheelt_38
+  - first:
+      213: 2608860039037024980
+    second: GalaxySpriteSheelt_39
+  - first:
+      213: 8505312796762897809
+    second: GalaxySpriteSheelt_40
+  - first:
+      213: 6846636505844293630
+    second: GalaxySpriteSheelt_41
+  - first:
+      213: 6511067281073849172
+    second: GalaxySpriteSheelt_42
+  - first:
+      213: -4222117519911344475
+    second: GalaxySpriteSheelt_43
+  - first:
+      213: 974220501484244517
+    second: GalaxySpriteSheelt_44
+  - first:
+      213: -2416860975436263152
+    second: GalaxySpriteSheelt_45
+  - first:
+      213: -1642479922581233854
+    second: GalaxySpriteSheelt_46
+  - first:
+      213: 9028466072036858469
+    second: GalaxySpriteSheelt_47
+  - first:
+      213: -5199976289849787914
+    second: GalaxySpriteSheelt_48
+  - first:
+      213: 5072661632981575309
+    second: GalaxySpriteSheelt_49
+  - first:
+      213: -7801051313684574127
+    second: GalaxySpriteSheelt_50
+  - first:
+      213: 6229764693130580475
+    second: GalaxySpriteSheelt_51
+  - first:
+      213: 4737928184228509491
+    second: GalaxySpriteSheelt_52
+  - first:
+      213: -4609756731959052574
+    second: GalaxySpriteSheelt_53
+  - first:
+      213: 5501920250173036335
+    second: GalaxySpriteSheelt_54
+  - first:
+      213: -7858491691779168295
+    second: GalaxySpriteSheelt_55
+  - first:
+      213: -4440106225581904425
+    second: GalaxySpriteSheelt_56
+  - first:
+      213: 4661794569517641032
+    second: GalaxySpriteSheelt_57
+  - first:
+      213: -2242039892330600226
+    second: GalaxySpriteSheelt_58
+  - first:
+      213: -8422785827909937667
+    second: GalaxySpriteSheelt_59
+  - first:
+      213: -3743365412901610607
+    second: GalaxySpriteSheelt_60
+  - first:
+      213: -3026453973821506446
+    second: GalaxySpriteSheelt_61
+  - first:
+      213: 8642657386635156846
+    second: GalaxySpriteSheelt_62
+  - first:
+      213: -1662636846865717314
+    second: GalaxySpriteSheelt_63
+  - first:
+      213: 4262501917612257465
+    second: GalaxySpriteSheelt_64
+  - first:
+      213: 4675715895384763062
+    second: GalaxySpriteSheelt_65
+  - first:
+      213: -6031777288308561366
+    second: GalaxySpriteSheelt_66
+  - first:
+      213: 7660798707178829035
+    second: GalaxySpriteSheelt_67
+  - first:
+      213: 2041998703659283806
+    second: GalaxySpriteSheelt_68
+  - first:
+      213: 3181034669832353232
+    second: GalaxySpriteSheelt_69
+  - first:
+      213: 3924646565240251097
+    second: GalaxySpriteSheelt_70
+  - first:
+      213: 9086180358004585340
+    second: GalaxySpriteSheelt_71
+  - first:
+      213: 1505285099890055515
+    second: GalaxySpriteSheelt_72
+  - first:
+      213: 7742247145412093936
+    second: GalaxySpriteSheelt_73
+  - first:
+      213: -564883810334759220
+    second: GalaxySpriteSheelt_74
+  - first:
+      213: -6472951570153385499
+    second: GalaxySpriteSheelt_75
+  - first:
+      213: -2286335845933017450
+    second: GalaxySpriteSheelt_76
+  - first:
+      213: -6216569090503843054
+    second: GalaxySpriteSheelt_77
+  - first:
+      213: 4309904990487996157
+    second: GalaxySpriteSheelt_78
+  - first:
+      213: 4605716071753945724
+    second: GalaxySpriteSheelt_79
+  - first:
+      213: -5211935039850163252
+    second: GalaxySpriteSheelt_80
+  - first:
+      213: -3186368175831384556
+    second: GalaxySpriteSheelt_81
+  - first:
+      213: -7168401286105188348
+    second: GalaxySpriteSheelt_82
+  - first:
+      213: -4628278790223578299
+    second: GalaxySpriteSheelt_83
+  - first:
+      213: 1783060790610491802
+    second: GalaxySpriteSheelt_84
+  - first:
+      213: 7788902682106286484
+    second: GalaxySpriteSheelt_85
+  - first:
+      213: 8119603328979608566
+    second: GalaxySpriteSheelt_86
+  - first:
+      213: 5514285942936473055
+    second: GalaxySpriteSheelt_87
+  - first:
+      213: 9068847763927214091
+    second: GalaxySpriteSheelt_88
+  - first:
+      213: -8052320506916810783
+    second: GalaxySpriteSheelt_89
+  - first:
+      213: -4285903701995030775
+    second: GalaxySpriteSheelt_90
+  - first:
+      213: 3229804881544958609
+    second: GalaxySpriteSheelt_91
+  - first:
+      213: 1637764366328610901
+    second: GalaxySpriteSheelt_92
+  - first:
+      213: 7121073292149761086
+    second: GalaxySpriteSheelt_93
+  - first:
+      213: -3996679245164322356
+    second: GalaxySpriteSheelt_94
+  - first:
+      213: -4651082408007880762
+    second: GalaxySpriteSheelt_95
+  - first:
+      213: -643711811957526058
+    second: GalaxySpriteSheelt_96
+  - first:
+      213: -27532820966860904
+    second: GalaxySpriteSheelt_97
+  - first:
+      213: -7820034074797947147
+    second: GalaxySpriteSheelt_98
+  - first:
+      213: -3341366756298299118
+    second: GalaxySpriteSheelt_99
+  - first:
+      213: 4632289673591957933
+    second: GalaxySpriteSheelt_100
+  - first:
+      213: 3241925155836315646
+    second: GalaxySpriteSheelt_101
+  - first:
+      213: 5903178294798297808
+    second: GalaxySpriteSheelt_102
+  - first:
+      213: -1499055099359636727
+    second: GalaxySpriteSheelt_103
+  - first:
+      213: -8701034521250064458
+    second: GalaxySpriteSheelt_104
+  - first:
+      213: -2162777669844969097
+    second: GalaxySpriteSheelt_105
+  - first:
+      213: -7618663340806312101
+    second: GalaxySpriteSheelt_106
+  - first:
+      213: -2131585836606554814
+    second: GalaxySpriteSheelt_107
+  - first:
+      213: 3310907749023846976
+    second: GalaxySpriteSheelt_108
+  - first:
+      213: -2821292850230622326
+    second: GalaxySpriteSheelt_109
+  - first:
+      213: -552513576917788045
+    second: GalaxySpriteSheelt_110
+  - first:
+      213: -2424565461072797079
+    second: GalaxySpriteSheelt_111
+  - first:
+      213: 2904377262977241774
+    second: GalaxySpriteSheelt_112
+  - first:
+      213: 562235586232519046
+    second: GalaxySpriteSheelt_113
+  - first:
+      213: 5284956179820724870
+    second: GalaxySpriteSheelt_114
+  - first:
+      213: -2617226765977637612
+    second: GalaxySpriteSheelt_115
+  - first:
+      213: 7958703642541588231
+    second: GalaxySpriteSheelt_116
+  - first:
+      213: -8807543726566158850
+    second: GalaxySpriteSheelt_117
+  - first:
+      213: 1064093991557837197
+    second: GalaxySpriteSheelt_118
+  - first:
+      213: 2930001603872554022
+    second: GalaxySpriteSheelt_119
+  - first:
+      213: -2209302581266858858
+    second: GalaxySpriteSheelt_120
+  - first:
+      213: 4446823810073910636
+    second: GalaxySpriteSheelt_121
+  - first:
+      213: -8679822014050165495
+    second: GalaxySpriteSheelt_122
+  - first:
+      213: 5346653750653969379
+    second: GalaxySpriteSheelt_123
+  - first:
+      213: -2668635516849527711
+    second: GalaxySpriteSheelt_124
+  - first:
+      213: 7674868260445847584
+    second: GalaxySpriteSheelt_125
+  - first:
+      213: -508379078146596995
+    second: GalaxySpriteSheelt_126
+  - first:
+      213: -1728733048635892323
+    second: GalaxySpriteSheelt_127
+  - first:
+      213: -4511255242085782340
+    second: GalaxySpriteSheelt_128
+  - first:
+      213: -6095938209158921040
+    second: GalaxySpriteSheelt_129
+  - first:
+      213: 8725485410837613788
+    second: GalaxySpriteSheelt_130
+  - first:
+      213: -2338352357117792704
+    second: GalaxySpriteSheelt_131
+  - first:
+      213: 4247958379101546959
+    second: GalaxySpriteSheelt_132
+  - first:
+      213: 3250111688664120328
+    second: GalaxySpriteSheelt_133
+  - first:
+      213: 143756699295778493
+    second: GalaxySpriteSheelt_134
+  - first:
+      213: -8174930411261289128
+    second: GalaxySpriteSheelt_135
+  - first:
+      213: 7210419265419077367
+    second: GalaxySpriteSheelt_136
+  - first:
+      213: 3942035715324884828
+    second: GalaxySpriteSheelt_137
+  - first:
+      213: -4159332166500581908
+    second: GalaxySpriteSheelt_138
+  - first:
+      213: 4105060161617697253
+    second: GalaxySpriteSheelt_139
+  - first:
+      213: 1983649319649865508
+    second: GalaxySpriteSheelt_140
+  - first:
+      213: -4645009184117305762
+    second: GalaxySpriteSheelt_141
+  - first:
+      213: 1034131218777316502
+    second: GalaxySpriteSheelt_142
+  - first:
+      213: -6618966183825835925
+    second: GalaxySpriteSheelt_143
+  - first:
+      213: -5133476159601231101
+    second: GalaxySpriteSheelt_144
+  - first:
+      213: -1421042190663317226
+    second: GalaxySpriteSheelt_145
+  - first:
+      213: -8769046869517204020
+    second: GalaxySpriteSheelt_146
+  - first:
+      213: -3502848071455987715
+    second: GalaxySpriteSheelt_147
+  - first:
+      213: 2132812588250864934
+    second: GalaxySpriteSheelt_148
+  - first:
+      213: -6022769143895294248
+    second: GalaxySpriteSheelt_149
+  - first:
+      213: -7452208936271344678
+    second: GalaxySpriteSheelt_150
+  - first:
+      213: -44000735591073336
+    second: GalaxySpriteSheelt_151
+  - first:
+      213: -1946500116918397649
+    second: GalaxySpriteSheelt_152
+  - first:
+      213: 3042036064786449617
+    second: GalaxySpriteSheelt_153
+  - first:
+      213: 663616805963409604
+    second: GalaxySpriteSheelt_154
+  - first:
+      213: 3389109336555950348
+    second: GalaxySpriteSheelt_155
+  - first:
+      213: -8589111823717665803
+    second: GalaxySpriteSheelt_156
+  - first:
+      213: 529627647430145001
+    second: GalaxySpriteSheelt_157
+  - first:
+      213: 8947091717673986983
+    second: GalaxySpriteSheelt_158
+  - first:
+      213: 4121300340026169936
+    second: GalaxySpriteSheelt_159
+  - first:
+      213: -4962513934326077700
+    second: GalaxySpriteSheelt_160
+  - first:
+      213: -681450511561858772
+    second: GalaxySpriteSheelt_161
+  - first:
+      213: -5647942483861106698
+    second: GalaxySpriteSheelt_162
+  - first:
+      213: 5017612457339238977
+    second: GalaxySpriteSheelt_163
+  - first:
+      213: -4857192228422451903
+    second: GalaxySpriteSheelt_164
+  - first:
+      213: -3795372024528232381
+    second: GalaxySpriteSheelt_165
+  - first:
+      213: -2181285929310104356
+    second: GalaxySpriteSheelt_166
+  - first:
+      213: 7076332155362234655
+    second: GalaxySpriteSheelt_167
+  - first:
+      213: 6486613210264234615
+    second: GalaxySpriteSheelt_168
+  - first:
+      213: -7583944275253345534
+    second: GalaxySpriteSheelt_169
+  - first:
+      213: -1618283904956981535
+    second: GalaxySpriteSheelt_170
+  - first:
+      213: 7209328303887461872
+    second: GalaxySpriteSheelt_171
+  - first:
+      213: -8704736336883246644
+    second: GalaxySpriteSheelt_172
+  - first:
+      213: -255062055815238716
+    second: GalaxySpriteSheelt_173
+  - first:
+      213: 357112098497937006
+    second: GalaxySpriteSheelt_174
+  - first:
+      213: -5517685249262215265
+    second: GalaxySpriteSheelt_175
+  - first:
+      213: 6515188498640402759
+    second: GalaxySpriteSheelt_176
+  - first:
+      213: 2745744605046536909
+    second: GalaxySpriteSheelt_177
+  - first:
+      213: 4016373885319508977
+    second: GalaxySpriteSheelt_178
+  - first:
+      213: -7198183888380383288
+    second: GalaxySpriteSheelt_179
+  - first:
+      213: -6046919679139968632
+    second: GalaxySpriteSheelt_180
+  - first:
+      213: -7844863926320954111
+    second: GalaxySpriteSheelt_181
+  - first:
+      213: 8389086762788800498
+    second: GalaxySpriteSheelt_182
+  - first:
+      213: 6703984060868224385
+    second: GalaxySpriteSheelt_183
+  - first:
+      213: -4541845145151424084
+    second: GalaxySpriteSheelt_184
+  - first:
+      213: 317403130737621850
+    second: GalaxySpriteSheelt_185
+  - first:
+      213: 5578331890595585064
+    second: GalaxySpriteSheelt_186
+  - first:
+      213: -3829265074243182673
+    second: GalaxySpriteSheelt_187
+  - first:
+      213: 8170753051474113301
+    second: GalaxySpriteSheelt_188
+  - first:
+      213: -4225477535929222652
+    second: GalaxySpriteSheelt_189
+  - first:
+      213: -1388178232009579274
+    second: GalaxySpriteSheelt_190
+  - first:
+      213: 1302714870286745221
+    second: GalaxySpriteSheelt_191
+  - first:
+      213: -6508639320267523742
+    second: GalaxySpriteSheelt_192
+  - first:
+      213: -6862898667911518255
+    second: GalaxySpriteSheelt_193
+  - first:
+      213: 5596741789308339490
+    second: GalaxySpriteSheelt_194
+  - first:
+      213: 7757258503244588851
+    second: GalaxySpriteSheelt_195
+  - first:
+      213: 4358744273072362818
+    second: GalaxySpriteSheelt_196
+  - first:
+      213: -5473768113445216281
+    second: GalaxySpriteSheelt_197
+  - first:
+      213: -7476719593566261391
+    second: GalaxySpriteSheelt_198
+  - first:
+      213: -7964933253217355047
+    second: GalaxySpriteSheelt_199
+  - first:
+      213: 3749148710438074867
+    second: GalaxySpriteSheelt_200
+  - first:
+      213: 4930746876034803493
+    second: GalaxySpriteSheelt_201
+  - first:
+      213: 233079918148574246
+    second: GalaxySpriteSheelt_202
+  - first:
+      213: 8754114202416497617
+    second: GalaxySpriteSheelt_203
+  - first:
+      213: 3984849161934441018
+    second: GalaxySpriteSheelt_204
+  - first:
+      213: 3294732955876054623
+    second: GalaxySpriteSheelt_205
+  - first:
+      213: -7301902617779871089
+    second: GalaxySpriteSheelt_206
+  - first:
+      213: 1880907368668478191
+    second: GalaxySpriteSheelt_207
+  - first:
+      213: 1947337997097112872
+    second: GalaxySpriteSheelt_208
+  - first:
+      213: 7370792102115600241
+    second: GalaxySpriteSheelt_209
+  - first:
+      213: 448799902193721793
+    second: GalaxySpriteSheelt_210
+  - first:
+      213: 5684463162684846382
+    second: GalaxySpriteSheelt_211
+  - first:
+      213: 6527591280618502479
+    second: GalaxySpriteSheelt_212
+  - first:
+      213: 4814840026389884972
+    second: GalaxySpriteSheelt_213
+  - first:
+      213: 6061351199493872397
+    second: GalaxySpriteSheelt_214
+  - first:
+      213: -6993344443155677969
+    second: GalaxySpriteSheelt_215
+  - first:
+      213: -3818590165655640276
+    second: GalaxySpriteSheelt_216
+  - first:
+      213: 4429615454478772631
+    second: GalaxySpriteSheelt_217
+  - first:
+      213: 8068824461627905939
+    second: GalaxySpriteSheelt_218
+  - first:
+      213: 6879046625011207854
+    second: GalaxySpriteSheelt_219
+  - first:
+      213: 585536292185984951
+    second: GalaxySpriteSheelt_220
+  - first:
+      213: 287964033471323638
+    second: GalaxySpriteSheelt_221
+  - first:
+      213: -2021761791380493602
+    second: GalaxySpriteSheelt_222
+  - first:
+      213: -7128429451958234515
+    second: GalaxySpriteSheelt_223
+  - first:
+      213: -8377363841768492224
+    second: GalaxySpriteSheelt_224
+  - first:
+      213: 3395447594696396386
+    second: GalaxySpriteSheelt_225
+  - first:
+      213: -857057925369010585
+    second: GalaxySpriteSheelt_226
+  - first:
+      213: 97868517394414156
+    second: GalaxySpriteSheelt_227
+  - first:
+      213: 8098239038202563856
+    second: GalaxySpriteSheelt_228
+  - first:
+      213: -1164327455298777232
+    second: GalaxySpriteSheelt_229
+  - first:
+      213: 817524001223237914
+    second: GalaxySpriteSheelt_230
+  - first:
+      213: -7791545597489303622
+    second: GalaxySpriteSheelt_231
+  - first:
+      213: 8932830036793946540
+    second: GalaxySpriteSheelt_232
+  - first:
+      213: -804663797025516112
+    second: GalaxySpriteSheelt_233
+  - first:
+      213: -6535892854494812513
+    second: GalaxySpriteSheelt_234
+  - first:
+      213: -8681519173506489602
+    second: GalaxySpriteSheelt_235
+  - first:
+      213: -8036800961491125341
+    second: GalaxySpriteSheelt_236
+  - first:
+      213: -6514834377249901435
+    second: GalaxySpriteSheelt_237
+  - first:
+      213: 4033088164512387127
+    second: GalaxySpriteSheelt_238
+  - first:
+      213: -2529665192946311153
+    second: GalaxySpriteSheelt_239
+  - first:
+      213: 3537474138973634337
+    second: GalaxySpriteSheelt_240
+  - first:
+      213: 4922363081851488611
+    second: GalaxySpriteSheelt_241
+  - first:
+      213: 288222370032823139
+    second: GalaxySpriteSheelt_242
+  - first:
+      213: -7603047959293213672
+    second: GalaxySpriteSheelt_243
+  - first:
+      213: -3294456388505118684
+    second: GalaxySpriteSheelt_244
+  - first:
+      213: 8971688487629944492
+    second: GalaxySpriteSheelt_245
+  - first:
+      213: -8454949853380989651
+    second: GalaxySpriteSheelt_246
+  - first:
+      213: 2896740069348137111
+    second: GalaxySpriteSheelt_247
+  - first:
+      213: 2935911890882536308
+    second: GalaxySpriteSheelt_248
+  - first:
+      213: 840457788841577668
+    second: GalaxySpriteSheelt_249
+  - first:
+      213: 2895468089381948280
+    second: GalaxySpriteSheelt_250
+  - first:
+      213: 6188585088777448870
+    second: GalaxySpriteSheelt_251
+  - first:
+      213: -9062308533704764746
+    second: GalaxySpriteSheelt_252
+  - first:
+      213: 9107095096980977845
+    second: GalaxySpriteSheelt_253
+  - first:
+      213: 5003584319099534944
+    second: GalaxySpriteSheelt_254
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 92
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629beac74002bf2a0800000000000000
+      internalID: -6702728416767067866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 93
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d486dfc2107fc3530800000000000000
+      internalID: 3836212567034652749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 94
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abc929d4ce103d90800000000000000
+      internalID: -7120157180066935903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 95
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59984f0c1dfd9d4d0800000000000000
+      internalID: -3109207975744206443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_4
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 97
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e67cdf7707474c80800000000000000
+      internalID: -8338618087517686043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 84
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738a42903fd398550800000000000000
+      internalID: 6163525679072978999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_6
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 82
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403be34e6eb49b7c0800000000000000
+      internalID: -4055126534426545404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 26
+        width: 88
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38904735b8fd6fcd0800000000000000
+      internalID: -2524584751601022589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_8
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 26
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14beeff2b29d98090800000000000000
+      internalID: -8031649680926512319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_9
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 27
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49aa4e84113fb4b0800000000000000
+      internalID: -5422561461974423221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_10
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 27
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f4a6de535eae330800000000000000
+      internalID: 3741054460263812979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_11
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 28
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56380519aea88ebb0800000000000000
+      internalID: -4906519053955202203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_12
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 29
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4043a6a418715b0800000000000000
+      internalID: -5397703471770893079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_13
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 30
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835104b4660e4a9c0800000000000000
+      internalID: -3916759045951711944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_14
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 30
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3832ae1b6be0bda60800000000000000
+      internalID: 7699764165751743363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_15
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 30
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4988f0f205e46a50800000000000000
+      internalID: 6513582761880095054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_16
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 30
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86274549f69810550800000000000000
+      internalID: 6125328080523522664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_17
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 31
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b00e5c04d0f8a40800000000000000
+      internalID: 5372527452325153591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_18
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 31
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274d30a92458b3980800000000000000
+      internalID: -8558100145789217678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_19
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 30
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca58953dedaf77db0800000000000000
+      internalID: -4794087443377060436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_20
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 30
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df9b7c85c69d9710800000000000000
+      internalID: 1701682009425551314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_21
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 30
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d12de406ad08950800000000000000
+      internalID: 6449394773568658799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_22
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 31
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1937572b52f164f70800000000000000
+      internalID: 9171051937954886545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_23
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 31
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e64d9882b0dbc220800000000000000
+      internalID: 2507327082776577760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_24
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 31
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bcacdf896de40a0800000000000000
+      internalID: -6895338026876351685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_25
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 31
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3406d2a5f4f5010800000000000000
+      internalID: 1179748876121293814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_26
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 32
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d7b8bc033071f70800000000000000
+      internalID: 9157791875389422939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_27
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 32
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdde1c3c6d5895180800000000000000
+      internalID: -9126116012435837473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_28
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 32
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f7411f2cb01400800000000000000
+      internalID: 292940886118495569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_29
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 31
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45caa369c59a65be0800000000000000
+      internalID: -1488816411676857260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_30
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 31
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31df578538a09bae0800000000000000
+      internalID: -1533182638901822189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_31
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 31
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95fc548555463080800000000000000
+      internalID: -9208096154517178980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_32
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 30
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65d8a2bfa25b40f0800000000000000
+      internalID: -1131719966783384211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_33
+      rect:
+        serializedVersion: 2
+        x: 4532
+        y: 30
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799e3a748701b56d0800000000000000
+      internalID: -3000786617928259177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_34
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 33
+        width: 94
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1773303e38e3ac0800000000000000
+      internalID: -3873513618457267776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_35
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 29
+        width: 94
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37150ec6786a6b4b0800000000000000
+      internalID: -5424965600543747725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_36
+      rect:
+        serializedVersion: 2
+        x: 4918
+        y: 33
+        width: 93
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e7a9c02b787c030800000000000000
+      internalID: 3514927232971341322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_37
+      rect:
+        serializedVersion: 2
+        x: 5047
+        y: 32
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77e7e6e22b840320800000000000000
+      internalID: 2523294673253427071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_38
+      rect:
+        serializedVersion: 2
+        x: 5175
+        y: 32
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecff5c66f60f4ae0800000000000000
+      internalID: -1563022890224321303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_39
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 31
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da73871268843420800000000000000
+      internalID: 2608860039037024980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_40
+      rect:
+        serializedVersion: 2
+        x: 5434
+        y: 31
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19df2a2fce0f80670800000000000000
+      internalID: 8505312796762897809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_41
+      rect:
+        serializedVersion: 2
+        x: 5563
+        y: 30
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff121580a3240f50800000000000000
+      internalID: 6846636505844293630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_42
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 30
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453431de135fb5a50800000000000000
+      internalID: 6511067281073849172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_43
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 30
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a62bb14c760865c0800000000000000
+      internalID: -4222117519911344475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_44
+      rect:
+        serializedVersion: 2
+        x: 5951
+        y: 30
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e0fdb6260258d00800000000000000
+      internalID: 974220501484244517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_45
+      rect:
+        serializedVersion: 2
+        x: 6081
+        y: 29
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0111e977fb5957ed0800000000000000
+      internalID: -2416860975436263152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_46
+      rect:
+        serializedVersion: 2
+        x: 6211
+        y: 29
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f95df663db439e0800000000000000
+      internalID: -1642479922581233854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_47
+      rect:
+        serializedVersion: 2
+        x: 6341
+        y: 29
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5c62ce0e8b4d70800000000000000
+      internalID: 9028466072036858469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_48
+      rect:
+        serializedVersion: 2
+        x: 6470
+        y: 29
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9bc037d19f5d7b0800000000000000
+      internalID: -5199976289849787914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_49
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 29
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86ae9b01e6b56640800000000000000
+      internalID: 5072661632981575309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_50
+      rect:
+        serializedVersion: 2
+        x: 6728
+        y: 29
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1509c3579291db390800000000000000
+      internalID: -7801051313684574127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_51
+      rect:
+        serializedVersion: 2
+        x: 6858
+        y: 29
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf191505bf1947650800000000000000
+      internalID: 6229764693130580475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_52
+      rect:
+        serializedVersion: 2
+        x: 6993
+        y: 95
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3377048b49080c140800000000000000
+      internalID: 4737928184228509491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_53
+      rect:
+        serializedVersion: 2
+        x: 7116
+        y: 29
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e67d920daad600c0800000000000000
+      internalID: -4609756731959052574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_54
+      rect:
+        serializedVersion: 2
+        x: 7249
+        y: 95
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27971e215fba5c40800000000000000
+      internalID: 5501920250173036335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_55
+      rect:
+        serializedVersion: 2
+        x: 7378
+        y: 95
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7e421417701f290800000000000000
+      internalID: -7858491691779168295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_56
+      rect:
+        serializedVersion: 2
+        x: 7506
+        y: 95
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dda03b99e29162c0800000000000000
+      internalID: -4440106225581904425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_57
+      rect:
+        serializedVersion: 2
+        x: 7634
+        y: 31
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84da1f3367502b040800000000000000
+      internalID: 4661794569517641032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_58
+      rect:
+        serializedVersion: 2
+        x: 7635
+        y: 96
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed82165c89ca2e0e0800000000000000
+      internalID: -2242039892330600226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_59
+      rect:
+        serializedVersion: 2
+        x: 7763
+        y: 95
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5db345ae04c1b80800000000000000
+      internalID: -8422785827909937667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_60
+      rect:
+        serializedVersion: 2
+        x: 7765
+        y: 31
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b148b7df4ec0cc0800000000000000
+      internalID: -3743365412901610607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_61
+      rect:
+        serializedVersion: 2
+        x: 7892
+        y: 97
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cbc494520eff5d0800000000000000
+      internalID: -3026453973821506446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_62
+      rect:
+        serializedVersion: 2
+        x: 7893
+        y: 31
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d5bc53a13e0f770800000000000000
+      internalID: 8642657386635156846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_63
+      rect:
+        serializedVersion: 2
+        x: 8021
+        y: 98
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7e718c8902de8e0800000000000000
+      internalID: -1662636846865717314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_64
+      rect:
+        serializedVersion: 2
+        x: 8022
+        y: 31
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b033bd09e2772b30800000000000000
+      internalID: 4262501917612257465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_65
+      rect:
+        serializedVersion: 2
+        x: 8149
+        y: 34
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba6e0775da73e040800000000000000
+      internalID: 4675715895384763062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_66
+      rect:
+        serializedVersion: 2
+        x: 8150
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a69169382da4ca0800000000000000
+      internalID: -6031777288308561366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_67
+      rect:
+        serializedVersion: 2
+        x: 8278
+        y: 31
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be47a25e5df905a60800000000000000
+      internalID: 7660798707178829035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_68
+      rect:
+        serializedVersion: 2
+        x: 8407
+        y: 31
+        width: 90
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e557b638003a65c10800000000000000
+      internalID: 2041998703659283806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_69
+      rect:
+        serializedVersion: 2
+        x: 8536
+        y: 31
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d53f89ad2e452c20800000000000000
+      internalID: 3181034669832353232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_70
+      rect:
+        serializedVersion: 2
+        x: 8665
+        y: 32
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d22a16e145277630800000000000000
+      internalID: 3924646565240251097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_71
+      rect:
+        serializedVersion: 2
+        x: 8794
+        y: 31
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73befb15e8981e70800000000000000
+      internalID: 9086180358004585340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_72
+      rect:
+        serializedVersion: 2
+        x: 8922
+        y: 31
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5992a0b2d8d3e410800000000000000
+      internalID: 1505285099890055515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_73
+      rect:
+        serializedVersion: 2
+        x: 9051
+        y: 31
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7e19132ccf17b60800000000000000
+      internalID: 7742247145412093936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_74
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 30
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6a0a9da212928f0800000000000000
+      internalID: -564883810334759220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_75
+      rect:
+        serializedVersion: 2
+        x: 9308
+        y: 30
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e153b497d47b26a0800000000000000
+      internalID: -6472951570153385499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_76
+      rect:
+        serializedVersion: 2
+        x: 9437
+        y: 30
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6969be169ad4540e0800000000000000
+      internalID: -2286335845933017450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_77
+      rect:
+        serializedVersion: 2
+        x: 9566
+        y: 30
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21368d6595f4ab9a0800000000000000
+      internalID: -6216569090503843054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_78
+      rect:
+        serializedVersion: 2
+        x: 9694
+        y: 30
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df668b501cbdfcb30800000000000000
+      internalID: 4309904990487996157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_79
+      rect:
+        serializedVersion: 2
+        x: 9823
+        y: 30
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7293397d5acaef30800000000000000
+      internalID: 4605716071753945724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_80
+      rect:
+        serializedVersion: 2
+        x: 9951
+        y: 30
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3d15df1bc7ba7b0800000000000000
+      internalID: -5211935039850163252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_81
+      rect:
+        serializedVersion: 2
+        x: 10080
+        y: 29
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ef5f3b60fb7c3d0800000000000000
+      internalID: -3186368175831384556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_82
+      rect:
+        serializedVersion: 2
+        x: 11111
+        y: 27
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4083f369209b48c90800000000000000
+      internalID: -7168401286105188348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_83
+      rect:
+        serializedVersion: 2
+        x: 11240
+        y: 26
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bbf3346fc05cfb0800000000000000
+      internalID: -4628278790223578299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_84
+      rect:
+        serializedVersion: 2
+        x: 11370
+        y: 26
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99f34d8754beb810800000000000000
+      internalID: 1783060790610491802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_85
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 26
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4915805d8bdb71c60800000000000000
+      internalID: 7788902682106286484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_86
+      rect:
+        serializedVersion: 2
+        x: 11628
+        y: 26
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a8ec4530aea070800000000000000
+      internalID: 8119603328979608566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_87
+      rect:
+        serializedVersion: 2
+        x: 11758
+        y: 26
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd88a269dda68c40800000000000000
+      internalID: 5514285942936473055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_88
+      rect:
+        serializedVersion: 2
+        x: 11889
+        y: 26
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b082af21ef40bdd70800000000000000
+      internalID: 9068847763927214091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_89
+      rect:
+        serializedVersion: 2
+        x: 12018
+        y: 26
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef41a77929604090800000000000000
+      internalID: -8052320506916810783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_90
+      rect:
+        serializedVersion: 2
+        x: 12147
+        y: 26
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907fd0d6a496584c0800000000000000
+      internalID: -4285903701995030775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_91
+      rect:
+        serializedVersion: 2
+        x: 12276
+        y: 27
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1925f427d6292dc20800000000000000
+      internalID: 3229804881544958609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_92
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 97
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5504fc093028ab610800000000000000
+      internalID: 1637764366328610901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_93
+      rect:
+        serializedVersion: 2
+        x: 12406
+        y: 27
+        width: 91
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34ab1e1e6223d260800000000000000
+      internalID: 7121073292149761086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_94
+      rect:
+        serializedVersion: 2
+        x: 12415
+        y: 97
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1edced661f888c0800000000000000
+      internalID: -3996679245164322356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_95
+      rect:
+        serializedVersion: 2
+        x: 12535
+        y: 28
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf2f914139047fb0800000000000000
+      internalID: -4651082408007880762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_96
+      rect:
+        serializedVersion: 2
+        x: 12543
+        y: 97
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d17c8e74831117f0800000000000000
+      internalID: -643711811957526058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_97
+      rect:
+        serializedVersion: 2
+        x: 12664
+        y: 29
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8971b929b0f2e9ff0800000000000000
+      internalID: -27532820966860904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_98
+      rect:
+        serializedVersion: 2
+        x: 12671
+        y: 97
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6c738f078a97390800000000000000
+      internalID: -7820034074797947147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_99
+      rect:
+        serializedVersion: 2
+        x: 12792
+        y: 29
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2196a8273a411a1d0800000000000000
+      internalID: -3341366756298299118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_100
+      rect:
+        serializedVersion: 2
+        x: 12799
+        y: 96
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9a82b4ae2394040800000000000000
+      internalID: 4632289673591957933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_101
+      rect:
+        serializedVersion: 2
+        x: 12922
+        y: 29
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7c606b0c1adfc20800000000000000
+      internalID: 3241925155836315646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_102
+      rect:
+        serializedVersion: 2
+        x: 12927
+        y: 96
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daaf3bf16d4ce150800000000000000
+      internalID: 5903178294798297808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_103
+      rect:
+        serializedVersion: 2
+        x: 13055
+        y: 96
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9035ee75459423be0800000000000000
+      internalID: -1499055099359636727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_104
+      rect:
+        serializedVersion: 2
+        x: 13180
+        y: 30
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b79a76f337bf3780800000000000000
+      internalID: -8701034521250064458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_105
+      rect:
+        serializedVersion: 2
+        x: 13184
+        y: 96
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7795ebc0b254cf1e0800000000000000
+      internalID: -2162777669844969097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_106
+      rect:
+        serializedVersion: 2
+        x: 13309
+        y: 30
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe2f39e02154690800000000000000
+      internalID: -7618663340806312101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_107
+      rect:
+        serializedVersion: 2
+        x: 13312
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dffc8a9f51b62e0800000000000000
+      internalID: -2131585836606554814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_108
+      rect:
+        serializedVersion: 2
+        x: 13438
+        y: 30
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04297a84e05b2fd20800000000000000
+      internalID: 3310907749023846976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_109
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8787aeb911c8d8d0800000000000000
+      internalID: -2821292850230622326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_110
+      rect:
+        serializedVersion: 2
+        x: 13567
+        y: 30
+        width: 94
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a1c3244d31558f0800000000000000
+      internalID: -552513576917788045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_111
+      rect:
+        serializedVersion: 2
+        x: 13569
+        y: 96
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962231e1f863a5ed0800000000000000
+      internalID: -2424565461072797079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_112
+      rect:
+        serializedVersion: 2
+        x: 13696
+        y: 31
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2da7d8bbb6e4820800000000000000
+      internalID: 2904377262977241774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_113
+      rect:
+        serializedVersion: 2
+        x: 13697
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689097d69467dc700800000000000000
+      internalID: 562235586232519046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_114
+      rect:
+        serializedVersion: 2
+        x: 13825
+        y: 95
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68248b705afe75940800000000000000
+      internalID: 5284956179820724870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_115
+      rect:
+        serializedVersion: 2
+        x: 13825
+        y: 31
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d224d7f1ebdabd0800000000000000
+      internalID: -2617226765977637612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_116
+      rect:
+        serializedVersion: 2
+        x: 13954
+        y: 32
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f7c4ebbcef27e60800000000000000
+      internalID: 7958703642541588231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_117
+      rect:
+        serializedVersion: 2
+        x: 14082
+        y: 32
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdcd4225a155c580800000000000000
+      internalID: -8807543726566158850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_118
+      rect:
+        serializedVersion: 2
+        x: 14211
+        y: 89
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81be66f8db64ce00800000000000000
+      internalID: 1064093991557837197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_119
+      rect:
+        serializedVersion: 2
+        x: 14214
+        y: 33
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf5265fe479a820800000000000000
+      internalID: 2930001603872554022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_120
+      rect:
+        serializedVersion: 2
+        x: 14339
+        y: 88
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c3c3af10bf651e0800000000000000
+      internalID: -2209302581266858858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_121
+      rect:
+        serializedVersion: 2
+        x: 14343
+        y: 33
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d543ae1ba46bd30800000000000000
+      internalID: 4446823810073910636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_122
+      rect:
+        serializedVersion: 2
+        x: 14468
+        y: 87
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d9ceaadd31b8780800000000000000
+      internalID: -8679822014050165495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_123
+      rect:
+        serializedVersion: 2
+        x: 14472
+        y: 32
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36db82241233a40800000000000000
+      internalID: 5346653750653969379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_124
+      rect:
+        serializedVersion: 2
+        x: 14596
+        y: 85
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164613fe22a17fad0800000000000000
+      internalID: -2668635516849527711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_125
+      rect:
+        serializedVersion: 2
+        x: 14602
+        y: 32
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0208bc9050c928a60800000000000000
+      internalID: 7674868260445847584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_126
+      rect:
+        serializedVersion: 2
+        x: 14725
+        y: 84
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fd4d30cefd1f8f0800000000000000
+      internalID: -508379078146596995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_127
+      rect:
+        serializedVersion: 2
+        x: 14731
+        y: 32
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d5494937e4208e0800000000000000
+      internalID: -1728733048635892323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_128
+      rect:
+        serializedVersion: 2
+        x: 14860
+        y: 31
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcab5c424dc461c0800000000000000
+      internalID: -4511255242085782340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_129
+      rect:
+        serializedVersion: 2
+        x: 14988
+        y: 31
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b40a561f70e66ba0800000000000000
+      internalID: -6095938209158921040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_130
+      rect:
+        serializedVersion: 2
+        x: 15117
+        y: 31
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc44d560c6271970800000000000000
+      internalID: 8725485410837613788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_131
+      rect:
+        serializedVersion: 2
+        x: 15245
+        y: 31
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04eeb4a9be08c8fd0800000000000000
+      internalID: -2338352357117792704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_132
+      rect:
+        serializedVersion: 2
+        x: 15370
+        y: 30
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9edfe93a7c3fa30800000000000000
+      internalID: 4247958379101546959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_133
+      rect:
+        serializedVersion: 2
+        x: 16294
+        y: 89
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c7b2b6c57ba1d20800000000000000
+      internalID: 3250111688664120328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_134
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db68b93d4f9bef100800000000000000
+      internalID: 143756699295778493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 28
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d9b358a10dc8e80800000000000000
+      internalID: -8174930411261289128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_136
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 88
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6efe49e1e801460800000000000000
+      internalID: 7210419265419077367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_137
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 62
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57b7d7e89ce4b630800000000000000
+      internalID: 3942035715324884828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_138
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 27
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced70e08e651746c0800000000000000
+      internalID: -4159332166500581908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_139
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 60
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e994daa77a18f830800000000000000
+      internalID: 4105060161617697253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_140
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 27
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42feca0eb86578b10800000000000000
+      internalID: 1983649319649865508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_141
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 73
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ec242e1cc998fb0800000000000000
+      internalID: -4645009184117305762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_142
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 27
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c1d5a4dd8f95e00800000000000000
+      internalID: 1034131218777316502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_143
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 27
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68fcb81355b424a0800000000000000
+      internalID: -6618966183825835925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_144
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 26
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b380491aa32c8b0800000000000000
+      internalID: -5133476159601231101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_145
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 26
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6198ba618a1774ce0800000000000000
+      internalID: -1421042190663317226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_146
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 82
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc50da325561e4680800000000000000
+      internalID: -8769046869517204020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_147
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 81
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df724b6ec32636fc0800000000000000
+      internalID: -3502848071455987715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_148
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 79
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d9c27bfb5499d10800000000000000
+      internalID: 2132812588250864934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_149
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 79
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deffe5af53da6ca0800000000000000
+      internalID: -6022769143895294248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_150
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 77
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb0e89b47f649890800000000000000
+      internalID: -7452208936271344678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_151
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 76
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9fc39609da36ff0800000000000000
+      internalID: -44000735591073336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_152
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 28
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2592d7e474acf4e0800000000000000
+      internalID: -1946500116918397649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_153
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 74
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4068bfeab773a20800000000000000
+      internalID: 3042036064786449617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_154
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 29
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8ad6218f3a53900800000000000000
+      internalID: 663616805963409604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_155
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 74
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01906e3cf8880f20800000000000000
+      internalID: 3389109336555950348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_156
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 72
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3733bad485dc880800000000000000
+      internalID: -8589111823717665803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_157
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 71
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3bc4c0a8d995700800000000000000
+      internalID: 529627647430145001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_158
+      rect:
+        serializedVersion: 2
+        x: 6987
+        y: 29
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab2cc473847a2c70800000000000000
+      internalID: 8947091717673986983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_159
+      rect:
+        serializedVersion: 2
+        x: 7246
+        y: 30
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ad4fbd2dcc13930800000000000000
+      internalID: 4121300340026169936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_160
+      rect:
+        serializedVersion: 2
+        x: 7375
+        y: 30
+        width: 89
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf661978edb912bb0800000000000000
+      internalID: -4962513934326077700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_161
+      rect:
+        serializedVersion: 2
+        x: 7505
+        y: 31
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21e856ce500b86f0800000000000000
+      internalID: -681450511561858772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_162
+      rect:
+        serializedVersion: 2
+        x: 10208
+        y: 29
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff0f992c3a7e91b0800000000000000
+      internalID: -5647942483861106698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_163
+      rect:
+        serializedVersion: 2
+        x: 10337
+        y: 29
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab74c02f322a540800000000000000
+      internalID: 5017612457339238977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_164
+      rect:
+        serializedVersion: 2
+        x: 10466
+        y: 28
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d771b1769c79cb0800000000000000
+      internalID: -4857192228422451903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_165
+      rect:
+        serializedVersion: 2
+        x: 10594
+        y: 28
+        width: 98
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3402a8f9041245bc0800000000000000
+      internalID: -3795372024528232381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_166
+      rect:
+        serializedVersion: 2
+        x: 10723
+        y: 28
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4d9e511048ab1e0800000000000000
+      internalID: -2181285929310104356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_167
+      rect:
+        serializedVersion: 2
+        x: 10852
+        y: 27
+        width: 99
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f115a017a9e243260800000000000000
+      internalID: 7076332155362234655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_168
+      rect:
+        serializedVersion: 2
+        x: 10982
+        y: 27
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae721e854150a50800000000000000
+      internalID: 6486613210264234615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_169
+      rect:
+        serializedVersion: 2
+        x: 13051
+        y: 29
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203ca25fcda60c690800000000000000
+      internalID: -7583944275253345534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_170
+      rect:
+        serializedVersion: 2
+        x: 14854
+        y: 83
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9e4bcc53ba89e0800000000000000
+      internalID: -1618283904956981535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_171
+      rect:
+        serializedVersion: 2
+        x: 14982
+        y: 81
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fda16e45edac0460800000000000000
+      internalID: 7209328303887461872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_172
+      rect:
+        serializedVersion: 2
+        x: 15111
+        y: 80
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc993a8db60923780800000000000000
+      internalID: -8704736336883246644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_173
+      rect:
+        serializedVersion: 2
+        x: 15241
+        y: 79
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cba37f5966d57cf0800000000000000
+      internalID: -255062055815238716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_174
+      rect:
+        serializedVersion: 2
+        x: 15499
+        y: 30
+        width: 90
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eb6ffbf87b4f400800000000000000
+      internalID: 357112098497937006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_175
+      rect:
+        serializedVersion: 2
+        x: 15628
+        y: 30
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f105fef7e3d63b0800000000000000
+      internalID: -5517685249262215265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_176
+      rect:
+        serializedVersion: 2
+        x: 15758
+        y: 30
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749fb2aab699a6a50800000000000000
+      internalID: 6515188498640402759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_177
+      rect:
+        serializedVersion: 2
+        x: 15887
+        y: 29
+        width: 91
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca7eb3bb28da1620800000000000000
+      internalID: 2745744605046536909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_178
+      rect:
+        serializedVersion: 2
+        x: 16016
+        y: 29
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3ff9fd4c60db730800000000000000
+      internalID: 4016373885319508977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_179
+      rect:
+        serializedVersion: 2
+        x: 16025
+        y: 90
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfa52124e9ea1c90800000000000000
+      internalID: -7198183888380383288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_180
+      rect:
+        serializedVersion: 2
+        x: 16039
+        y: 85
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8890b8bf696051ca0800000000000000
+      internalID: -6046919679139968632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_181
+      rect:
+        serializedVersion: 2
+        x: 16145
+        y: 29
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1050d58a2d1712390800000000000000
+      internalID: -7844863926320954111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_182
+      rect:
+        serializedVersion: 2
+        x: 16154
+        y: 90
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f745f5a6f50c6470800000000000000
+      internalID: 8389086762788800498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_183
+      rect:
+        serializedVersion: 2
+        x: 16167
+        y: 87
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1856eefebf5590d50800000000000000
+      internalID: 6703984060868224385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_184
+      rect:
+        serializedVersion: 2
+        x: 16274
+        y: 28
+        width: 92
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9ba6a77ef18f0c0800000000000000
+      internalID: -4541845145151424084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_185
+      rect:
+        serializedVersion: 2
+        x: 16282
+        y: 89
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b763a3774a76400800000000000000
+      internalID: 317403130737621850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_186
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 69
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cde2a9c473a6d40800000000000000
+      internalID: 5578331890595585064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_187
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 67
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafdcea04b7bbdac0800000000000000
+      internalID: -3829265074243182673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_188
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 65
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513bd8c1c98546170800000000000000
+      internalID: 8170753051474113301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_189
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 69
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40abb8091961c55c0800000000000000
+      internalID: -4225477535929222652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_190
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 66
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4a32cb0433cbce0800000000000000
+      internalID: -1388178232009579274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_191
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 65
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e7f0fb54c241210800000000000000
+      internalID: 1302714870286745221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_192
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2697050c50baca5a0800000000000000
+      internalID: -6508639320267523742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_193
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 62
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7e1a1d50612c0a0800000000000000
+      internalID: -6862898667911518255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_194
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 61
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225ce4b210f9bad40800000000000000
+      internalID: 5596741789308339490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_195
+      rect:
+        serializedVersion: 2
+        x: 12861
+        y: 43
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337a5cc428157ab60800000000000000
+      internalID: 7757258503244588851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_196
+      rect:
+        serializedVersion: 2
+        x: 12987
+        y: 45
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2451f3f92de5d7c30800000000000000
+      internalID: 4358744273072362818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_197
+      rect:
+        serializedVersion: 2
+        x: 13115
+        y: 45
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efdc3fe6e44904b0800000000000000
+      internalID: -5473768113445216281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_198
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 36
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fa74c942b5d3890800000000000000
+      internalID: -7476719593566261391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_199
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 38
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da784ef76fd67190800000000000000
+      internalID: -7964933253217355047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_200
+      rect:
+        serializedVersion: 2
+        x: 4364
+        y: 39
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f976c763e6a70430800000000000000
+      internalID: 3749148710438074867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_201
+      rect:
+        serializedVersion: 2
+        x: 4491
+        y: 41
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527eb67d8288d6440800000000000000
+      internalID: 4930746876034803493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_202
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cd58d53f01c3300800000000000000
+      internalID: 233079918148574246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_203
+      rect:
+        serializedVersion: 2
+        x: 4747
+        y: 44
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3cc3e5c7cdc7970800000000000000
+      internalID: 8754114202416497617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_204
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a8d9c33370d4730800000000000000
+      internalID: 3984849161934441018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_205
+      rect:
+        serializedVersion: 2
+        x: 5003
+        y: 48
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d3c8ca2e39bd20800000000000000
+      internalID: 3294732955876054623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_206
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f826cba914e6aaa90800000000000000
+      internalID: -7301902617779871089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_207
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea36ec49435a1a10800000000000000
+      internalID: 1880907368668478191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_208
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 34
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82518964795560b10800000000000000
+      internalID: 1947337997097112872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_209
+      rect:
+        serializedVersion: 2
+        x: 6813
+        y: 36
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177eadf5d505a4660800000000000000
+      internalID: 7370792102115600241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_210
+      rect:
+        serializedVersion: 2
+        x: 6940
+        y: 37
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1ac7912257a3600800000000000000
+      internalID: 448799902193721793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_211
+      rect:
+        serializedVersion: 2
+        x: 7071
+        y: 38
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21bf9ef02543ee40800000000000000
+      internalID: 5684463162684846382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_212
+      rect:
+        serializedVersion: 2
+        x: 7197
+        y: 39
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f3306fa9a69a50800000000000000
+      internalID: 6527591280618502479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_213
+      rect:
+        serializedVersion: 2
+        x: 7327
+        y: 40
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203d4f6e7fb1d240800000000000000
+      internalID: 4814840026389884972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_214
+      rect:
+        serializedVersion: 2
+        x: 7455
+        y: 42
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b58b03dce3e1450800000000000000
+      internalID: 6061351199493872397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_215
+      rect:
+        serializedVersion: 2
+        x: 7581
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecf0c10846a2fe90800000000000000
+      internalID: -6993344443155677969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_216
+      rect:
+        serializedVersion: 2
+        x: 7716
+        y: 45
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27ab41e974a10bc0800000000000000
+      internalID: -3818590165655640276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_217
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 46
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799a9c769c7297d30800000000000000
+      internalID: 4429615454478772631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_218
+      rect:
+        serializedVersion: 2
+        x: 7966
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397505ee8193aff60800000000000000
+      internalID: 8068824461627905939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_219
+      rect:
+        serializedVersion: 2
+        x: 9516
+        y: 32
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae842d6578477f50800000000000000
+      internalID: 6879046625011207854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_220
+      rect:
+        serializedVersion: 2
+        x: 9645
+        y: 33
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf48dac72e302800800000000000000
+      internalID: 585536292185984951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_221
+      rect:
+        serializedVersion: 2
+        x: 9773
+        y: 34
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd952343cd0ff300800000000000000
+      internalID: 287964033471323638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_222
+      rect:
+        serializedVersion: 2
+        x: 11327
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaee4ccc5241f3e0800000000000000
+      internalID: -2021761791380493602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_223
+      rect:
+        serializedVersion: 2
+        x: 11455
+        y: 32
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d8957e2bb21d90800000000000000
+      internalID: -7128429451958234515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_224
+      rect:
+        serializedVersion: 2
+        x: 11583
+        y: 31
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ff2998ff9dbb80800000000000000
+      internalID: -8377363841768492224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_225
+      rect:
+        serializedVersion: 2
+        x: 11711
+        y: 32
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e4557f89d0f1f20800000000000000
+      internalID: 3395447594696396386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_226
+      rect:
+        serializedVersion: 2
+        x: 11839
+        y: 33
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76662769b5e1b14f0800000000000000
+      internalID: -857057925369010585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_227
+      rect:
+        serializedVersion: 2
+        x: 11968
+        y: 33
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4afcf5e5e2bb5100800000000000000
+      internalID: 97868517394414156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_228
+      rect:
+        serializedVersion: 2
+        x: 12095
+        y: 34
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dc34abf79b26070800000000000000
+      internalID: 8098239038202563856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_229
+      rect:
+        serializedVersion: 2
+        x: 12222
+        y: 35
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f8ea8295a77dfe0800000000000000
+      internalID: -1164327455298777232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_230
+      rect:
+        serializedVersion: 2
+        x: 12350
+        y: 37
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1164486fbd685b00800000000000000
+      internalID: 817524001223237914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_231
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 38
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf246a7f8eded390800000000000000
+      internalID: -7791545597489303622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_232
+      rect:
+        serializedVersion: 2
+        x: 12606
+        y: 40
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1fa0e1799c7fb70800000000000000
+      internalID: 8932830036793946540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_233
+      rect:
+        serializedVersion: 2
+        x: 12734
+        y: 41
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b55da63a8245d4f0800000000000000
+      internalID: -804663797025516112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_234
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 35
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96a2d5d318db45a0800000000000000
+      internalID: -6535892854494812513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_235
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 36
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef22760fe4c058780800000000000000
+      internalID: -8681519173506489602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_236
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 35
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abbdc73b1c877090800000000000000
+      internalID: -8036800961491125341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_237
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 37
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843485a6a8a695a0800000000000000
+      internalID: -6514834377249901435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_238
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 30
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730d791415868f730800000000000000
+      internalID: 4033088164512387127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_239
+      rect:
+        serializedVersion: 2
+        x: 5003
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00e3c5e8e2d4ecd0800000000000000
+      internalID: -2529665192946311153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_240
+      rect:
+        serializedVersion: 2
+        x: 5133
+        y: 29
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f77afacf1a71130800000000000000
+      internalID: 3537474138973634337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_241
+      rect:
+        serializedVersion: 2
+        x: 5263
+        y: 29
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3694145a42fbf4440800000000000000
+      internalID: 4922363081851488611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_242
+      rect:
+        serializedVersion: 2
+        x: 5394
+        y: 29
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ba02ee7b8fff300800000000000000
+      internalID: 288222370032823139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_243
+      rect:
+        serializedVersion: 2
+        x: 5524
+        y: 29
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c118e92c8c7690800000000000000
+      internalID: -7603047959293213672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_244
+      rect:
+        serializedVersion: 2
+        x: 5783
+        y: 30
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428d2239e5db742d0800000000000000
+      internalID: -3294456388505118684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_245
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 30
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6f4ac3527d18c70800000000000000
+      internalID: 8971688487629944492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_246
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 31
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d2c7397ebf9aa80800000000000000
+      internalID: -8454949853380989651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_247
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 31
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798d228deb9433820800000000000000
+      internalID: 2896740069348137111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_248
+      rect:
+        serializedVersion: 2
+        x: 6298
+        y: 32
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47326e34f447eb820800000000000000
+      internalID: 2935911890882536308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_249
+      rect:
+        serializedVersion: 2
+        x: 6427
+        y: 33
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cccc90f7e7e9ab00800000000000000
+      internalID: 840457788841577668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_250
+      rect:
+        serializedVersion: 2
+        x: 6556
+        y: 34
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b071ee2e4ce2820800000000000000
+      internalID: 2895468089381948280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_251
+      rect:
+        serializedVersion: 2
+        x: 8219
+        y: 31
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adebd6895542e550800000000000000
+      internalID: 6188585088777448870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_252
+      rect:
+        serializedVersion: 2
+        x: 8740
+        y: 31
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2598b17663c3280800000000000000
+      internalID: -9062308533704764746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_253
+      rect:
+        serializedVersion: 2
+        x: 11204
+        y: 32
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8b04f3db6e26e70800000000000000
+      internalID: 9107095096980977845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxySpriteSheelt_254
+      rect:
+        serializedVersion: 2
+        x: 11332
+        y: 30
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e74a79d6d407540800000000000000
+      internalID: 5003584319099534944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GalaxySpriteSheelt_0: -6702728416767067866
+      GalaxySpriteSheelt_1: 3836212567034652749
+      GalaxySpriteSheelt_10: 3741054460263812979
+      GalaxySpriteSheelt_100: 4632289673591957933
+      GalaxySpriteSheelt_101: 3241925155836315646
+      GalaxySpriteSheelt_102: 5903178294798297808
+      GalaxySpriteSheelt_103: -1499055099359636727
+      GalaxySpriteSheelt_104: -8701034521250064458
+      GalaxySpriteSheelt_105: -2162777669844969097
+      GalaxySpriteSheelt_106: -7618663340806312101
+      GalaxySpriteSheelt_107: -2131585836606554814
+      GalaxySpriteSheelt_108: 3310907749023846976
+      GalaxySpriteSheelt_109: -2821292850230622326
+      GalaxySpriteSheelt_11: -4906519053955202203
+      GalaxySpriteSheelt_110: -552513576917788045
+      GalaxySpriteSheelt_111: -2424565461072797079
+      GalaxySpriteSheelt_112: 2904377262977241774
+      GalaxySpriteSheelt_113: 562235586232519046
+      GalaxySpriteSheelt_114: 5284956179820724870
+      GalaxySpriteSheelt_115: -2617226765977637612
+      GalaxySpriteSheelt_116: 7958703642541588231
+      GalaxySpriteSheelt_117: -8807543726566158850
+      GalaxySpriteSheelt_118: 1064093991557837197
+      GalaxySpriteSheelt_119: 2930001603872554022
+      GalaxySpriteSheelt_12: -5397703471770893079
+      GalaxySpriteSheelt_120: -2209302581266858858
+      GalaxySpriteSheelt_121: 4446823810073910636
+      GalaxySpriteSheelt_122: -8679822014050165495
+      GalaxySpriteSheelt_123: 5346653750653969379
+      GalaxySpriteSheelt_124: -2668635516849527711
+      GalaxySpriteSheelt_125: 7674868260445847584
+      GalaxySpriteSheelt_126: -508379078146596995
+      GalaxySpriteSheelt_127: -1728733048635892323
+      GalaxySpriteSheelt_128: -4511255242085782340
+      GalaxySpriteSheelt_129: -6095938209158921040
+      GalaxySpriteSheelt_13: -3916759045951711944
+      GalaxySpriteSheelt_130: 8725485410837613788
+      GalaxySpriteSheelt_131: -2338352357117792704
+      GalaxySpriteSheelt_132: 4247958379101546959
+      GalaxySpriteSheelt_133: 3250111688664120328
+      GalaxySpriteSheelt_134: 143756699295778493
+      GalaxySpriteSheelt_135: -8174930411261289128
+      GalaxySpriteSheelt_136: 7210419265419077367
+      GalaxySpriteSheelt_137: 3942035715324884828
+      GalaxySpriteSheelt_138: -4159332166500581908
+      GalaxySpriteSheelt_139: 4105060161617697253
+      GalaxySpriteSheelt_14: 7699764165751743363
+      GalaxySpriteSheelt_140: 1983649319649865508
+      GalaxySpriteSheelt_141: -4645009184117305762
+      GalaxySpriteSheelt_142: 1034131218777316502
+      GalaxySpriteSheelt_143: -6618966183825835925
+      GalaxySpriteSheelt_144: -5133476159601231101
+      GalaxySpriteSheelt_145: -1421042190663317226
+      GalaxySpriteSheelt_146: -8769046869517204020
+      GalaxySpriteSheelt_147: -3502848071455987715
+      GalaxySpriteSheelt_148: 2132812588250864934
+      GalaxySpriteSheelt_149: -6022769143895294248
+      GalaxySpriteSheelt_15: 6513582761880095054
+      GalaxySpriteSheelt_150: -7452208936271344678
+      GalaxySpriteSheelt_151: -44000735591073336
+      GalaxySpriteSheelt_152: -1946500116918397649
+      GalaxySpriteSheelt_153: 3042036064786449617
+      GalaxySpriteSheelt_154: 663616805963409604
+      GalaxySpriteSheelt_155: 3389109336555950348
+      GalaxySpriteSheelt_156: -8589111823717665803
+      GalaxySpriteSheelt_157: 529627647430145001
+      GalaxySpriteSheelt_158: 8947091717673986983
+      GalaxySpriteSheelt_159: 4121300340026169936
+      GalaxySpriteSheelt_16: 6125328080523522664
+      GalaxySpriteSheelt_160: -4962513934326077700
+      GalaxySpriteSheelt_161: -681450511561858772
+      GalaxySpriteSheelt_162: -5647942483861106698
+      GalaxySpriteSheelt_163: 5017612457339238977
+      GalaxySpriteSheelt_164: -4857192228422451903
+      GalaxySpriteSheelt_165: -3795372024528232381
+      GalaxySpriteSheelt_166: -2181285929310104356
+      GalaxySpriteSheelt_167: 7076332155362234655
+      GalaxySpriteSheelt_168: 6486613210264234615
+      GalaxySpriteSheelt_169: -7583944275253345534
+      GalaxySpriteSheelt_17: 5372527452325153591
+      GalaxySpriteSheelt_170: -1618283904956981535
+      GalaxySpriteSheelt_171: 7209328303887461872
+      GalaxySpriteSheelt_172: -8704736336883246644
+      GalaxySpriteSheelt_173: -255062055815238716
+      GalaxySpriteSheelt_174: 357112098497937006
+      GalaxySpriteSheelt_175: -5517685249262215265
+      GalaxySpriteSheelt_176: 6515188498640402759
+      GalaxySpriteSheelt_177: 2745744605046536909
+      GalaxySpriteSheelt_178: 4016373885319508977
+      GalaxySpriteSheelt_179: -7198183888380383288
+      GalaxySpriteSheelt_18: -8558100145789217678
+      GalaxySpriteSheelt_180: -6046919679139968632
+      GalaxySpriteSheelt_181: -7844863926320954111
+      GalaxySpriteSheelt_182: 8389086762788800498
+      GalaxySpriteSheelt_183: 6703984060868224385
+      GalaxySpriteSheelt_184: -4541845145151424084
+      GalaxySpriteSheelt_185: 317403130737621850
+      GalaxySpriteSheelt_186: 5578331890595585064
+      GalaxySpriteSheelt_187: -3829265074243182673
+      GalaxySpriteSheelt_188: 8170753051474113301
+      GalaxySpriteSheelt_189: -4225477535929222652
+      GalaxySpriteSheelt_19: -4794087443377060436
+      GalaxySpriteSheelt_190: -1388178232009579274
+      GalaxySpriteSheelt_191: 1302714870286745221
+      GalaxySpriteSheelt_192: -6508639320267523742
+      GalaxySpriteSheelt_193: -6862898667911518255
+      GalaxySpriteSheelt_194: 5596741789308339490
+      GalaxySpriteSheelt_195: 7757258503244588851
+      GalaxySpriteSheelt_196: 4358744273072362818
+      GalaxySpriteSheelt_197: -5473768113445216281
+      GalaxySpriteSheelt_198: -7476719593566261391
+      GalaxySpriteSheelt_199: -7964933253217355047
+      GalaxySpriteSheelt_2: -7120157180066935903
+      GalaxySpriteSheelt_20: 1701682009425551314
+      GalaxySpriteSheelt_200: 3749148710438074867
+      GalaxySpriteSheelt_201: 4930746876034803493
+      GalaxySpriteSheelt_202: 233079918148574246
+      GalaxySpriteSheelt_203: 8754114202416497617
+      GalaxySpriteSheelt_204: 3984849161934441018
+      GalaxySpriteSheelt_205: 3294732955876054623
+      GalaxySpriteSheelt_206: -7301902617779871089
+      GalaxySpriteSheelt_207: 1880907368668478191
+      GalaxySpriteSheelt_208: 1947337997097112872
+      GalaxySpriteSheelt_209: 7370792102115600241
+      GalaxySpriteSheelt_21: 6449394773568658799
+      GalaxySpriteSheelt_210: 448799902193721793
+      GalaxySpriteSheelt_211: 5684463162684846382
+      GalaxySpriteSheelt_212: 6527591280618502479
+      GalaxySpriteSheelt_213: 4814840026389884972
+      GalaxySpriteSheelt_214: 6061351199493872397
+      GalaxySpriteSheelt_215: -6993344443155677969
+      GalaxySpriteSheelt_216: -3818590165655640276
+      GalaxySpriteSheelt_217: 4429615454478772631
+      GalaxySpriteSheelt_218: 8068824461627905939
+      GalaxySpriteSheelt_219: 6879046625011207854
+      GalaxySpriteSheelt_22: 9171051937954886545
+      GalaxySpriteSheelt_220: 585536292185984951
+      GalaxySpriteSheelt_221: 287964033471323638
+      GalaxySpriteSheelt_222: -2021761791380493602
+      GalaxySpriteSheelt_223: -7128429451958234515
+      GalaxySpriteSheelt_224: -8377363841768492224
+      GalaxySpriteSheelt_225: 3395447594696396386
+      GalaxySpriteSheelt_226: -857057925369010585
+      GalaxySpriteSheelt_227: 97868517394414156
+      GalaxySpriteSheelt_228: 8098239038202563856
+      GalaxySpriteSheelt_229: -1164327455298777232
+      GalaxySpriteSheelt_23: 2507327082776577760
+      GalaxySpriteSheelt_230: 817524001223237914
+      GalaxySpriteSheelt_231: -7791545597489303622
+      GalaxySpriteSheelt_232: 8932830036793946540
+      GalaxySpriteSheelt_233: -804663797025516112
+      GalaxySpriteSheelt_234: -6535892854494812513
+      GalaxySpriteSheelt_235: -8681519173506489602
+      GalaxySpriteSheelt_236: -8036800961491125341
+      GalaxySpriteSheelt_237: -6514834377249901435
+      GalaxySpriteSheelt_238: 4033088164512387127
+      GalaxySpriteSheelt_239: -2529665192946311153
+      GalaxySpriteSheelt_24: -6895338026876351685
+      GalaxySpriteSheelt_240: 3537474138973634337
+      GalaxySpriteSheelt_241: 4922363081851488611
+      GalaxySpriteSheelt_242: 288222370032823139
+      GalaxySpriteSheelt_243: -7603047959293213672
+      GalaxySpriteSheelt_244: -3294456388505118684
+      GalaxySpriteSheelt_245: 8971688487629944492
+      GalaxySpriteSheelt_246: -8454949853380989651
+      GalaxySpriteSheelt_247: 2896740069348137111
+      GalaxySpriteSheelt_248: 2935911890882536308
+      GalaxySpriteSheelt_249: 840457788841577668
+      GalaxySpriteSheelt_25: 1179748876121293814
+      GalaxySpriteSheelt_250: 2895468089381948280
+      GalaxySpriteSheelt_251: 6188585088777448870
+      GalaxySpriteSheelt_252: -9062308533704764746
+      GalaxySpriteSheelt_253: 9107095096980977845
+      GalaxySpriteSheelt_254: 5003584319099534944
+      GalaxySpriteSheelt_26: 9157791875389422939
+      GalaxySpriteSheelt_27: -9126116012435837473
+      GalaxySpriteSheelt_28: 292940886118495569
+      GalaxySpriteSheelt_29: -1488816411676857260
+      GalaxySpriteSheelt_3: -3109207975744206443
+      GalaxySpriteSheelt_30: -1533182638901822189
+      GalaxySpriteSheelt_31: -9208096154517178980
+      GalaxySpriteSheelt_32: -1131719966783384211
+      GalaxySpriteSheelt_33: -3000786617928259177
+      GalaxySpriteSheelt_34: -3873513618457267776
+      GalaxySpriteSheelt_35: -5424965600543747725
+      GalaxySpriteSheelt_36: 3514927232971341322
+      GalaxySpriteSheelt_37: 2523294673253427071
+      GalaxySpriteSheelt_38: -1563022890224321303
+      GalaxySpriteSheelt_39: 2608860039037024980
+      GalaxySpriteSheelt_4: -8338618087517686043
+      GalaxySpriteSheelt_40: 8505312796762897809
+      GalaxySpriteSheelt_41: 6846636505844293630
+      GalaxySpriteSheelt_42: 6511067281073849172
+      GalaxySpriteSheelt_43: -4222117519911344475
+      GalaxySpriteSheelt_44: 974220501484244517
+      GalaxySpriteSheelt_45: -2416860975436263152
+      GalaxySpriteSheelt_46: -1642479922581233854
+      GalaxySpriteSheelt_47: 9028466072036858469
+      GalaxySpriteSheelt_48: -5199976289849787914
+      GalaxySpriteSheelt_49: 5072661632981575309
+      GalaxySpriteSheelt_5: 6163525679072978999
+      GalaxySpriteSheelt_50: -7801051313684574127
+      GalaxySpriteSheelt_51: 6229764693130580475
+      GalaxySpriteSheelt_52: 4737928184228509491
+      GalaxySpriteSheelt_53: -4609756731959052574
+      GalaxySpriteSheelt_54: 5501920250173036335
+      GalaxySpriteSheelt_55: -7858491691779168295
+      GalaxySpriteSheelt_56: -4440106225581904425
+      GalaxySpriteSheelt_57: 4661794569517641032
+      GalaxySpriteSheelt_58: -2242039892330600226
+      GalaxySpriteSheelt_59: -8422785827909937667
+      GalaxySpriteSheelt_6: -4055126534426545404
+      GalaxySpriteSheelt_60: -3743365412901610607
+      GalaxySpriteSheelt_61: -3026453973821506446
+      GalaxySpriteSheelt_62: 8642657386635156846
+      GalaxySpriteSheelt_63: -1662636846865717314
+      GalaxySpriteSheelt_64: 4262501917612257465
+      GalaxySpriteSheelt_65: 4675715895384763062
+      GalaxySpriteSheelt_66: -6031777288308561366
+      GalaxySpriteSheelt_67: 7660798707178829035
+      GalaxySpriteSheelt_68: 2041998703659283806
+      GalaxySpriteSheelt_69: 3181034669832353232
+      GalaxySpriteSheelt_7: -2524584751601022589
+      GalaxySpriteSheelt_70: 3924646565240251097
+      GalaxySpriteSheelt_71: 9086180358004585340
+      GalaxySpriteSheelt_72: 1505285099890055515
+      GalaxySpriteSheelt_73: 7742247145412093936
+      GalaxySpriteSheelt_74: -564883810334759220
+      GalaxySpriteSheelt_75: -6472951570153385499
+      GalaxySpriteSheelt_76: -2286335845933017450
+      GalaxySpriteSheelt_77: -6216569090503843054
+      GalaxySpriteSheelt_78: 4309904990487996157
+      GalaxySpriteSheelt_79: 4605716071753945724
+      GalaxySpriteSheelt_8: -8031649680926512319
+      GalaxySpriteSheelt_80: -5211935039850163252
+      GalaxySpriteSheelt_81: -3186368175831384556
+      GalaxySpriteSheelt_82: -7168401286105188348
+      GalaxySpriteSheelt_83: -4628278790223578299
+      GalaxySpriteSheelt_84: 1783060790610491802
+      GalaxySpriteSheelt_85: 7788902682106286484
+      GalaxySpriteSheelt_86: 8119603328979608566
+      GalaxySpriteSheelt_87: 5514285942936473055
+      GalaxySpriteSheelt_88: 9068847763927214091
+      GalaxySpriteSheelt_89: -8052320506916810783
+      GalaxySpriteSheelt_9: -5422561461974423221
+      GalaxySpriteSheelt_90: -4285903701995030775
+      GalaxySpriteSheelt_91: 3229804881544958609
+      GalaxySpriteSheelt_92: 1637764366328610901
+      GalaxySpriteSheelt_93: 7121073292149761086
+      GalaxySpriteSheelt_94: -3996679245164322356
+      GalaxySpriteSheelt_95: -4651082408007880762
+      GalaxySpriteSheelt_96: -643711811957526058
+      GalaxySpriteSheelt_97: -27532820966860904
+      GalaxySpriteSheelt_98: -7820034074797947147
+      GalaxySpriteSheelt_99: -3341366756298299118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
