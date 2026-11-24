@@ -1,0 +1,2561 @@
+fileFormatVersion: 2
+guid: 6f963909f8b2717449790521feef31c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8684221900082472613
+    second: omex_tileB_Planets_3x_0
+  - first:
+      213: 9033798802344014231
+    second: omex_tileB_Planets_3x_1
+  - first:
+      213: 250544366272053726
+    second: omex_tileB_Planets_3x_2
+  - first:
+      213: 2698736867626459393
+    second: omex_tileB_Planets_3x_3
+  - first:
+      213: -771646456896082931
+    second: omex_tileB_Planets_3x_4
+  - first:
+      213: -3023809026154482041
+    second: omex_tileB_Planets_3x_5
+  - first:
+      213: -2040784339200686432
+    second: omex_tileB_Planets_3x_6
+  - first:
+      213: 4955623082181945587
+    second: omex_tileB_Planets_3x_7
+  - first:
+      213: -6840687805169528415
+    second: omex_tileB_Planets_3x_8
+  - first:
+      213: -5735037613949280492
+    second: omex_tileB_Planets_3x_9
+  - first:
+      213: -7547020831546394888
+    second: omex_tileB_Planets_3x_10
+  - first:
+      213: 2952782369630039360
+    second: omex_tileB_Planets_3x_11
+  - first:
+      213: -723288463149955750
+    second: omex_tileB_Planets_3x_12
+  - first:
+      213: -4639810754916145760
+    second: omex_tileB_Planets_3x_13
+  - first:
+      213: -4484520549034697761
+    second: omex_tileB_Planets_3x_14
+  - first:
+      213: 3794053265632064824
+    second: omex_tileB_Planets_3x_15
+  - first:
+      213: 3057501164142501229
+    second: omex_tileB_Planets_3x_16
+  - first:
+      213: -2785198404401313317
+    second: omex_tileB_Planets_3x_17
+  - first:
+      213: -917187953619033034
+    second: omex_tileB_Planets_3x_18
+  - first:
+      213: 6776324648434806324
+    second: omex_tileB_Planets_3x_19
+  - first:
+      213: -4353339871461958653
+    second: omex_tileB_Planets_3x_20
+  - first:
+      213: 8650433341537943797
+    second: omex_tileB_Planets_3x_21
+  - first:
+      213: 7092539945394509610
+    second: omex_tileB_Planets_3x_22
+  - first:
+      213: -6076843641313586103
+    second: omex_tileB_Planets_3x_23
+  - first:
+      213: -1112643805281370397
+    second: omex_tileB_Planets_3x_24
+  - first:
+      213: -8220786923113879302
+    second: omex_tileB_Planets_3x_25
+  - first:
+      213: -2444701090004836727
+    second: omex_tileB_Planets_3x_26
+  - first:
+      213: 7497388326817815274
+    second: omex_tileB_Planets_3x_27
+  - first:
+      213: 5908882967814401602
+    second: omex_tileB_Planets_3x_28
+  - first:
+      213: -7468931097774298452
+    second: omex_tileB_Planets_3x_29
+  - first:
+      213: -6132265989551056190
+    second: omex_tileB_Planets_3x_30
+  - first:
+      213: 7202842209120933124
+    second: omex_tileB_Planets_3x_31
+  - first:
+      213: 2759660067910372784
+    second: omex_tileB_Planets_3x_32
+  - first:
+      213: 1716682808946439784
+    second: omex_tileB_Planets_3x_33
+  - first:
+      213: -5841157586878896213
+    second: omex_tileB_Planets_3x_34
+  - first:
+      213: -5318752758862807870
+    second: omex_tileB_Planets_3x_35
+  - first:
+      213: 8397145292136356695
+    second: omex_tileB_Planets_3x_36
+  - first:
+      213: 9078733543512313712
+    second: omex_tileB_Planets_3x_37
+  - first:
+      213: 8789238282536722547
+    second: omex_tileB_Planets_3x_38
+  - first:
+      213: 1846655512717762966
+    second: omex_tileB_Planets_3x_39
+  - first:
+      213: 859502467233698611
+    second: omex_tileB_Planets_3x_40
+  - first:
+      213: 6437309960727957398
+    second: omex_tileB_Planets_3x_41
+  - first:
+      213: 7008003690993304128
+    second: omex_tileB_Planets_3x_42
+  - first:
+      213: 2137957669049483784
+    second: omex_tileB_Planets_3x_43
+  - first:
+      213: -444649487330435458
+    second: omex_tileB_Planets_3x_44
+  - first:
+      213: 3374337378789244678
+    second: omex_tileB_Planets_3x_45
+  - first:
+      213: -2026423546570539816
+    second: omex_tileB_Planets_3x_46
+  - first:
+      213: 7334419290355724959
+    second: omex_tileB_Planets_3x_47
+  - first:
+      213: 5566413315902212095
+    second: omex_tileB_Planets_3x_48
+  - first:
+      213: -1416407294887152654
+    second: omex_tileB_Planets_3x_49
+  - first:
+      213: -6743529505347748827
+    second: omex_tileB_Planets_3x_50
+  - first:
+      213: -8052047027434254448
+    second: omex_tileB_Planets_3x_51
+  - first:
+      213: 8146135448001569884
+    second: omex_tileB_Planets_3x_52
+  - first:
+      213: 3535060434768322268
+    second: omex_tileB_Planets_3x_53
+  - first:
+      213: 465287707066210778
+    second: omex_tileB_Planets_3x_54
+  - first:
+      213: -4900985514158588602
+    second: omex_tileB_Planets_3x_55
+  - first:
+      213: -7515074632014151055
+    second: omex_tileB_Planets_3x_56
+  - first:
+      213: 2012453885620409519
+    second: omex_tileB_Planets_3x_57
+  - first:
+      213: 4058346864745046143
+    second: omex_tileB_Planets_3x_58
+  - first:
+      213: 4596946038469124015
+    second: omex_tileB_Planets_3x_59
+  - first:
+      213: -2941005441162647574
+    second: omex_tileB_Planets_3x_60
+  - first:
+      213: -5168063244158520340
+    second: omex_tileB_Planets_3x_61
+  - first:
+      213: -1099532230617117458
+    second: omex_tileB_Planets_3x_62
+  - first:
+      213: 4223036435261392905
+    second: omex_tileB_Planets_3x_63
+  - first:
+      213: 1221214514574266120
+    second: omex_tileB_Planets_3x_64
+  - first:
+      213: 2893653311263912062
+    second: omex_tileB_Planets_3x_65
+  - first:
+      213: -4646303186028810631
+    second: omex_tileB_Planets_3x_66
+  - first:
+      213: 6665324342033442391
+    second: omex_tileB_Planets_3x_67
+  - first:
+      213: 9099397435414037700
+    second: omex_tileB_Planets_3x_68
+  - first:
+      213: 3681299054376616733
+    second: omex_tileB_Planets_3x_69
+  - first:
+      213: 8207463509940305599
+    second: omex_tileB_Planets_3x_70
+  - first:
+      213: 1217521359765708334
+    second: omex_tileB_Planets_3x_71
+  - first:
+      213: -4913538739939856353
+    second: omex_tileB_Planets_3x_72
+  - first:
+      213: -3676501453525234306
+    second: omex_tileB_Planets_3x_73
+  - first:
+      213: -6813047455777201896
+    second: omex_tileB_Planets_3x_74
+  - first:
+      213: -6979160268823561356
+    second: omex_tileB_Planets_3x_75
+  - first:
+      213: -887528377407824843
+    second: omex_tileB_Planets_3x_76
+  - first:
+      213: 6138788800790794894
+    second: omex_tileB_Planets_3x_77
+  - first:
+      213: 4061529801750483839
+    second: omex_tileB_Planets_3x_78
+  - first:
+      213: 4145633732754401551
+    second: omex_tileB_Planets_3x_79
+  - first:
+      213: -4465439627950435957
+    second: omex_tileB_Planets_3x_80
+  - first:
+      213: 882537813738040540
+    second: omex_tileB_Planets_3x_81
+  - first:
+      213: -940924354792473904
+    second: omex_tileB_Planets_3x_82
+  - first:
+      213: 8241411732660337907
+    second: omex_tileB_Planets_3x_83
+  - first:
+      213: 6990320645391813565
+    second: omex_tileB_Planets_3x_84
+  - first:
+      213: 1653115994972359845
+    second: omex_tileB_Planets_3x_85
+  - first:
+      213: -7317029442103907877
+    second: omex_tileB_Planets_3x_86
+  - first:
+      213: -4313413221080845769
+    second: omex_tileB_Planets_3x_87
+  - first:
+      213: -9035140169702473710
+    second: omex_tileB_Planets_3x_88
+  - first:
+      213: -5389033237510288685
+    second: omex_tileB_Planets_3x_89
+  - first:
+      213: 5148793518084980940
+    second: omex_tileB_Planets_3x_90
+  - first:
+      213: 8004251166708610812
+    second: omex_tileB_Planets_3x_91
+  - first:
+      213: 8300396747894481020
+    second: omex_tileB_Planets_3x_92
+  - first:
+      213: -5101476125971131763
+    second: omex_tileB_Planets_3x_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 722
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b599aee51327b7780800000000000000
+      internalID: -8684221900082472613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 722
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791701ac5208e5d70800000000000000
+      internalID: 9033798802344014231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 722
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed10f1016cc1a7300800000000000000
+      internalID: 250544366272053726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 722
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1012021f1e6d37520800000000000000
+      internalID: 2698736867626459393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 722
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c2584c2af8a45f0800000000000000
+      internalID: -771646456896082931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 722
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786317726b54906d0800000000000000
+      internalID: -3023809026154482041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 722
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a643ceb47dada3e0800000000000000
+      internalID: -2040784339200686432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 686
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f86e2eefe8e5c440800000000000000
+      internalID: 4955623082181945587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 335
+        width: 241
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a116894faef011a0800000000000000
+      internalID: -6840687805169528415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 689
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f9c07fcad0960b0800000000000000
+      internalID: -5735037613949280492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 686
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6343f1a88934790800000000000000
+      internalID: -7547020831546394888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_11
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 674
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da5d0bbe36af820800000000000000
+      internalID: 2952782369630039360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 680
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a550fc399fc56f5f0800000000000000
+      internalID: -723288463149955750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 638
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5af2083b41c9fb0800000000000000
+      internalID: -4639810754916145760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_14
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 689
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbd8d61258c3c1c0800000000000000
+      internalID: -4484520549034697761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 686
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835f8e4e75f27a430800000000000000
+      internalID: 3794053265632064824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 674
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d9e050c1d6e6a20800000000000000
+      internalID: 3057501164142501229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_17
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 680
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ccacceccf859d0800000000000000
+      internalID: -2785198404401313317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 638
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63425486a6e7543f0800000000000000
+      internalID: -917187953619033034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_19
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 359
+        width: 140
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2ea08d575a0e50800000000000000
+      internalID: 6776324648434806324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 677
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c17fea374d593c0800000000000000
+      internalID: -4353339871461958653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 677
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0809bca438c0870800000000000000
+      internalID: 8650433341537943797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 677
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a271280a083cd6260800000000000000
+      internalID: 7092539945394509610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 644
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94499eb97e6baaba0800000000000000
+      internalID: -6076843641313586103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 644
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee3aa8aa581f80f0800000000000000
+      internalID: -1112643805281370397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 644
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ee9959d5e9ed80800000000000000
+      internalID: -8220786923113879302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 629
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e504caf4da21ed0800000000000000
+      internalID: -2444701090004836727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 644
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aead22bd5f21c0860800000000000000
+      internalID: 7497388326817815274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_28
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 644
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eeeeba0c1900250800000000000000
+      internalID: 5908882967814401602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 644
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa6b491db6095890800000000000000
+      internalID: -7468931097774298452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 629
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca99989290d5eaa0800000000000000
+      internalID: -6132265989551056190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_31
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 608
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405d7dfa3d2a5f360800000000000000
+      internalID: 7202842209120933124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 578
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdc0a0e5384c4620800000000000000
+      internalID: 2759660067910372784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 578
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866b54b5be1e2d710800000000000000
+      internalID: 1716682808946439784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 575
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7610d5f1a00fea0800000000000000
+      internalID: -5841157586878896213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 590
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc7ad7bb8eff26b0800000000000000
+      internalID: -5318752758862807870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_36
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 593
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b91293727a88470800000000000000
+      internalID: 8397145292136356695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 599
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f897f7e042efd70800000000000000
+      internalID: 9078733543512313712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 593
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370addc86a5a9f970800000000000000
+      internalID: 8789238282536722547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_39
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 485
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6912f02a763a0a910800000000000000
+      internalID: 1846655512717762966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 581
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333590ba0f09deb00800000000000000
+      internalID: 859502467233698611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_41
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 578
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f064e8d4be55950800000000000000
+      internalID: 6437309960727957398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 575
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042484a1a3e614160800000000000000
+      internalID: 7008003690993304128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 545
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80244803c2d8bad10800000000000000
+      internalID: 2137957669049483784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 530
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e1c1aa5a944d9f0800000000000000
+      internalID: -444649487330435458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 530
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f3e0fc7fd04de20800000000000000
+      internalID: 3374337378789244678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 491
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcfc265582b0e3e0800000000000000
+      internalID: -2026423546570539816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_47
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 482
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92fc633c7719c560800000000000000
+      internalID: 7334419290355724959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_48
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 509
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70b5f2b6fdf3d40800000000000000
+      internalID: 5566413315902212095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_49
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 494
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3bafad119e75ce0800000000000000
+      internalID: -1416407294887152654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 488
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb165c4ab2a62a0800000000000000
+      internalID: -6743529505347748827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 500
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f8a0fd3e1614090800000000000000
+      internalID: -8052047027434254448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_52
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 488
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e956a703ec0170800000000000000
+      internalID: 8146135448001569884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde57e16cbe0f0130800000000000000
+      internalID: 3535060434768322268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 344
+        width: 68
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9990254b8057600800000000000000
+      internalID: 465287707066210778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_55
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 392
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dfd3334a33cfbb0800000000000000
+      internalID: -4900985514158588602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 389
+        width: 35
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1724f32507715b790800000000000000
+      internalID: -7515074632014151055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 440
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa45243852cadeb10800000000000000
+      internalID: 2012453885620409519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_58
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 392
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70e270b8f4225830800000000000000
+      internalID: 4058346864745046143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 341
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf579af012abcf30800000000000000
+      internalID: 4596946038469124015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_60
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 350
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7620522237f27d0800000000000000
+      internalID: -2941005441162647574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3bd2b6cd95748b0800000000000000
+      internalID: -5168063244158520340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 308
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec49f6034dadb0f0800000000000000
+      internalID: -1099532230617117458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_63
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 305
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9088945634d3b9a30800000000000000
+      internalID: 4223036435261392905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_64
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f00c77120a2f010800000000000000
+      internalID: 1221214514574266120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 302
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70b409fa52582820800000000000000
+      internalID: 2893653311263912062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 302
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eacf59ed3058fb0800000000000000
+      internalID: -4646303186028810631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 296
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756eaa7bc2dff7c50800000000000000
+      internalID: 6665324342033442391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 296
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c444ffb1cd874e70800000000000000
+      internalID: 9099397435414037700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_69
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 293
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1389105cf9961330800000000000000
+      internalID: 3681299054376616733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_70
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 302
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef8f8c394c6e170800000000000000
+      internalID: 8207463509940305599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 293
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e194bd93185e010800000000000000
+      internalID: 1217521359765708334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_72
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 293
+        width: 178
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10b3cf8c8a9fcbb0800000000000000
+      internalID: -4913538739939856353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 296
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7dcb6e28617afcc0800000000000000
+      internalID: -3676501453525234306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 305
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116580af613371a0800000000000000
+      internalID: -6813047455777201896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_75
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 293
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b704276ba052f90800000000000000
+      internalID: -6979160268823561356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 305
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c1780a4addea3f0800000000000000
+      internalID: -887528377407824843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_77
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 80
+        width: 110
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82184eb3eb513550800000000000000
+      internalID: 6138788800790794894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_78
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 293
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f731006f5d37d5830800000000000000
+      internalID: 4061529801750483839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_79
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 290
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09e3b95aef388930800000000000000
+      internalID: 4145633732754401551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_80
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 248
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81df0a31529702c0800000000000000
+      internalID: -4465439627950435957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_81
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 242
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdca4b837776f3c00800000000000000
+      internalID: 882537813738040540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 248
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dab418d84a21f2f0800000000000000
+      internalID: -940924354792473904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_83
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 239
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcb4f45e406f5270800000000000000
+      internalID: 8241411732660337907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 254
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb88a6379b920160800000000000000
+      internalID: 6990320645391813565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_85
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 194
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac08d42d3c01f610800000000000000
+      internalID: 1653115994972359845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 194
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9625c5d70b47a90800000000000000
+      internalID: -7317029442103907877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_87
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 47
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732b004678da324c0800000000000000
+      internalID: -4313413221080845769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 48
+        width: 183
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108509c2ebbc9280800000000000000
+      internalID: -9035140169702473710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_89
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 11
+        width: 140
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da0d63a2de4635b0800000000000000
+      internalID: -5389033237510288685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_90
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 101
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc00a4bdc60347740800000000000000
+      internalID: 5148793518084980940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 76
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf63cac1700d41f60800000000000000
+      internalID: 8004251166708610812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70ee056ddee03370800000000000000
+      internalID: 8300396747894481020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 5
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82da510e7ae339b0800000000000000
+      internalID: -5101476125971131763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c17809f90cdfb1949b7a95cff4a9c255
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      omex_tileB_Planets_3x_0: -8684221900082472613
+      omex_tileB_Planets_3x_1: 9033798802344014231
+      omex_tileB_Planets_3x_10: -7547020831546394888
+      omex_tileB_Planets_3x_11: 2952782369630039360
+      omex_tileB_Planets_3x_12: -723288463149955750
+      omex_tileB_Planets_3x_13: -4639810754916145760
+      omex_tileB_Planets_3x_14: -4484520549034697761
+      omex_tileB_Planets_3x_15: 3794053265632064824
+      omex_tileB_Planets_3x_16: 3057501164142501229
+      omex_tileB_Planets_3x_17: -2785198404401313317
+      omex_tileB_Planets_3x_18: -917187953619033034
+      omex_tileB_Planets_3x_19: 6776324648434806324
+      omex_tileB_Planets_3x_2: 250544366272053726
+      omex_tileB_Planets_3x_20: -4353339871461958653
+      omex_tileB_Planets_3x_21: 8650433341537943797
+      omex_tileB_Planets_3x_22: 7092539945394509610
+      omex_tileB_Planets_3x_23: -6076843641313586103
+      omex_tileB_Planets_3x_24: -1112643805281370397
+      omex_tileB_Planets_3x_25: -8220786923113879302
+      omex_tileB_Planets_3x_26: -2444701090004836727
+      omex_tileB_Planets_3x_27: 7497388326817815274
+      omex_tileB_Planets_3x_28: 5908882967814401602
+      omex_tileB_Planets_3x_29: -7468931097774298452
+      omex_tileB_Planets_3x_3: 2698736867626459393
+      omex_tileB_Planets_3x_30: -6132265989551056190
+      omex_tileB_Planets_3x_31: 7202842209120933124
+      omex_tileB_Planets_3x_32: 2759660067910372784
+      omex_tileB_Planets_3x_33: 1716682808946439784
+      omex_tileB_Planets_3x_34: -5841157586878896213
+      omex_tileB_Planets_3x_35: -5318752758862807870
+      omex_tileB_Planets_3x_36: 8397145292136356695
+      omex_tileB_Planets_3x_37: 9078733543512313712
+      omex_tileB_Planets_3x_38: 8789238282536722547
+      omex_tileB_Planets_3x_39: 1846655512717762966
+      omex_tileB_Planets_3x_4: -771646456896082931
+      omex_tileB_Planets_3x_40: 859502467233698611
+      omex_tileB_Planets_3x_41: 6437309960727957398
+      omex_tileB_Planets_3x_42: 7008003690993304128
+      omex_tileB_Planets_3x_43: 2137957669049483784
+      omex_tileB_Planets_3x_44: -444649487330435458
+      omex_tileB_Planets_3x_45: 3374337378789244678
+      omex_tileB_Planets_3x_46: -2026423546570539816
+      omex_tileB_Planets_3x_47: 7334419290355724959
+      omex_tileB_Planets_3x_48: 5566413315902212095
+      omex_tileB_Planets_3x_49: -1416407294887152654
+      omex_tileB_Planets_3x_5: -3023809026154482041
+      omex_tileB_Planets_3x_50: -6743529505347748827
+      omex_tileB_Planets_3x_51: -8052047027434254448
+      omex_tileB_Planets_3x_52: 8146135448001569884
+      omex_tileB_Planets_3x_53: 3535060434768322268
+      omex_tileB_Planets_3x_54: 465287707066210778
+      omex_tileB_Planets_3x_55: -4900985514158588602
+      omex_tileB_Planets_3x_56: -7515074632014151055
+      omex_tileB_Planets_3x_57: 2012453885620409519
+      omex_tileB_Planets_3x_58: 4058346864745046143
+      omex_tileB_Planets_3x_59: 4596946038469124015
+      omex_tileB_Planets_3x_6: -2040784339200686432
+      omex_tileB_Planets_3x_60: -2941005441162647574
+      omex_tileB_Planets_3x_61: -5168063244158520340
+      omex_tileB_Planets_3x_62: -1099532230617117458
+      omex_tileB_Planets_3x_63: 4223036435261392905
+      omex_tileB_Planets_3x_64: 1221214514574266120
+      omex_tileB_Planets_3x_65: 2893653311263912062
+      omex_tileB_Planets_3x_66: -4646303186028810631
+      omex_tileB_Planets_3x_67: 6665324342033442391
+      omex_tileB_Planets_3x_68: 9099397435414037700
+      omex_tileB_Planets_3x_69: 3681299054376616733
+      omex_tileB_Planets_3x_7: 4955623082181945587
+      omex_tileB_Planets_3x_70: 8207463509940305599
+      omex_tileB_Planets_3x_71: 1217521359765708334
+      omex_tileB_Planets_3x_72: -4913538739939856353
+      omex_tileB_Planets_3x_73: -3676501453525234306
+      omex_tileB_Planets_3x_74: -6813047455777201896
+      omex_tileB_Planets_3x_75: -6979160268823561356
+      omex_tileB_Planets_3x_76: -887528377407824843
+      omex_tileB_Planets_3x_77: 6138788800790794894
+      omex_tileB_Planets_3x_78: 4061529801750483839
+      omex_tileB_Planets_3x_79: 4145633732754401551
+      omex_tileB_Planets_3x_8: -6840687805169528415
+      omex_tileB_Planets_3x_80: -4465439627950435957
+      omex_tileB_Planets_3x_81: 882537813738040540
+      omex_tileB_Planets_3x_82: -940924354792473904
+      omex_tileB_Planets_3x_83: 8241411732660337907
+      omex_tileB_Planets_3x_84: 6990320645391813565
+      omex_tileB_Planets_3x_85: 1653115994972359845
+      omex_tileB_Planets_3x_86: -7317029442103907877
+      omex_tileB_Planets_3x_87: -4313413221080845769
+      omex_tileB_Planets_3x_88: -9035140169702473710
+      omex_tileB_Planets_3x_89: -5389033237510288685
+      omex_tileB_Planets_3x_9: -5735037613949280492
+      omex_tileB_Planets_3x_90: 5148793518084980940
+      omex_tileB_Planets_3x_91: 8004251166708610812
+      omex_tileB_Planets_3x_92: 8300396747894481020
+      omex_tileB_Planets_3x_93: -5101476125971131763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
