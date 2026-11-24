@@ -16,12 +16,11 @@ public class PlayerController : MonoBehaviour
     public float baseDamage;
     public float damage;
 
-    [Header("Disparo")]               
+    /*[Header("Disparo")]               
     public GameObject bulletPrefab;
     public Transform firePoint;   
     public float fireRate = 0.3f;  
-    private float fireTime;
-
+    private float fireTime;*/
 
     /*[Header("Stats")]
     [SerializeField] 
@@ -73,7 +72,15 @@ public class PlayerController : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
-        animator.SetBool("Run", movement != Vector2.zero);        
+        bool lados = movement.x != 0;
+        bool arriba = movement.x == 0 && movement.y > 0;
+        bool abajo = movement.x == 0 && movement.y < 0;
+
+        animator.SetBool("Run", lados);     
+        animator.SetBool("RunUp", arriba);  
+        animator.SetBool("RunDown", abajo);
+        
+        // Flip para los lados
         
         if (movement.x < 0)
         {
@@ -89,6 +96,11 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (knockback == true)
+        {
+            return;  
+        }
+
         rb.linearVelocity = movement.normalized * speed;
     }
 

@@ -32,10 +32,10 @@ public class WeaponController : MonoBehaviour
                 //enemy.KnockBack(knockBackForce, (enemy.transform.position - transform.position).normalized);
             }
         }
-        else if (collision.CompareTag("Wood"))
+        /*else if (collision.CompareTag("Wood"))
         {
             Destroy(collision.gameObject);
-            //levelManager.AddItem("Wood", 1);
-        }
+            levelManager.AddItem("Wood", 1);
+        }*/
     }
 }
