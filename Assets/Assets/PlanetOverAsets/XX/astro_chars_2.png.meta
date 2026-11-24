@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: 30025d54dd5e4424491b5c0bc8848591
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1535356032245838950
+    second: astro_chars_2_0
+  - first:
+      213: 4589680316426653240
+    second: astro_chars_2_1
+  - first:
+      213: -7652832999446289154
+    second: astro_chars_2_2
+  - first:
+      213: 8584006421511625986
+    second: astro_chars_2_3
+  - first:
+      213: -5244108576524223015
+    second: astro_chars_2_4
+  - first:
+      213: 815535554503855282
+    second: astro_chars_2_5
+  - first:
+      213: 3515995380589671826
+    second: astro_chars_2_6
+  - first:
+      213: 6235347233660029053
+    second: astro_chars_2_7
+  - first:
+      213: 2986145789032455187
+    second: astro_chars_2_8
+  - first:
+      213: 4001472272032882096
+    second: astro_chars_2_9
+  - first:
+      213: -916971634178165087
+    second: astro_chars_2_10
+  - first:
+      213: -3866061274838245483
+    second: astro_chars_2_11
+  - first:
+      213: -1508527869590163521
+    second: astro_chars_2_12
+  - first:
+      213: 3782476593113833457
+    second: astro_chars_2_13
+  - first:
+      213: -7493434185170105711
+    second: astro_chars_2_14
+  - first:
+      213: -5446380796456202978
+    second: astro_chars_2_15
+  - first:
+      213: 5034915098280746464
+    second: astro_chars_2_16
+  - first:
+      213: 3309757207456554190
+    second: astro_chars_2_17
+  - first:
+      213: 7116956897109131576
+    second: astro_chars_2_18
+  - first:
+      213: -8055735293932815104
+    second: astro_chars_2_19
+  - first:
+      213: -2892323056567000535
+    second: astro_chars_2_20
+  - first:
+      213: 5656667612456485894
+    second: astro_chars_2_21
+  - first:
+      213: 5755300992246776091
+    second: astro_chars_2_22
+  - first:
+      213: -7573790243259450537
+    second: astro_chars_2_23
+  - first:
+      213: 7084917858701392437
+    second: astro_chars_2_24
+  - first:
+      213: 1458293825336281574
+    second: astro_chars_2_25
+  - first:
+      213: -8572782631029208955
+    second: astro_chars_2_26
+  - first:
+      213: -3321834447844019337
+    second: astro_chars_2_27
+  - first:
+      213: 9037419584091599246
+    second: astro_chars_2_28
+  - first:
+      213: -2061242005335313419
+    second: astro_chars_2_29
+  - first:
+      213: 1218511887461598870
+    second: astro_chars_2_30
+  - first:
+      213: -4880134050667787074
+    second: astro_chars_2_31
+  - first:
+      213: -4368619575928252978
+    second: astro_chars_2_32
+  - first:
+      213: -5219162656194583089
+    second: astro_chars_2_33
+  - first:
+      213: -923821125565598719
+    second: astro_chars_2_34
+  - first:
+      213: 2298522696042067052
+    second: astro_chars_2_35
+  - first:
+      213: 8453592242558847775
+    second: astro_chars_2_36
+  - first:
+      213: 5990236678971859025
+    second: astro_chars_2_37
+  - first:
+      213: -4964128856049771190
+    second: astro_chars_2_38
+  - first:
+      213: -8512899885480833039
+    second: astro_chars_2_39
+  - first:
+      213: -7191119285566299830
+    second: astro_chars_2_40
+  - first:
+      213: -4944477550024547430
+    second: astro_chars_2_41
+  - first:
+      213: -7248548337748030537
+    second: astro_chars_2_42
+  - first:
+      213: -1589570053558042455
+    second: astro_chars_2_43
+  - first:
+      213: 1294766771252997088
+    second: astro_chars_2_44
+  - first:
+      213: 3132946396045678808
+    second: astro_chars_2_45
+  - first:
+      213: -3263420665925778840
+    second: astro_chars_2_46
+  - first:
+      213: 3006748377776010604
+    second: astro_chars_2_47
+  - first:
+      213: -3817519994261153454
+    second: astro_chars_2_48
+  - first:
+      213: 128162412094536845
+    second: astro_chars_2_49
+  - first:
+      213: -4387025639812972709
+    second: astro_chars_2_50
+  - first:
+      213: -4543022536943098820
+    second: astro_chars_2_51
+  - first:
+      213: 8226518869350430315
+    second: astro_chars_2_52
+  - first:
+      213: 3283583928977276990
+    second: astro_chars_2_53
+  - first:
+      213: -84752703106958970
+    second: astro_chars_2_54
+  - first:
+      213: 2576969010855788600
+    second: astro_chars_2_55
+  - first:
+      213: -6473914522467050852
+    second: astro_chars_2_56
+  - first:
+      213: 1379032404688146316
+    second: astro_chars_2_57
+  - first:
+      213: -3894200305624479338
+    second: astro_chars_2_58
+  - first:
+      213: 8018196741858043432
+    second: astro_chars_2_59
+  - first:
+      213: 5529163872787071061
+    second: astro_chars_2_60
+  - first:
+      213: 3195664410910877316
+    second: astro_chars_2_61
+  - first:
+      213: -6295182694790686344
+    second: astro_chars_2_62
+  - first:
+      213: 7727399445991643620
+    second: astro_chars_2_63
+  - first:
+      213: -6514586276815077382
+    second: astro_chars_2_64
+  - first:
+      213: -3621882963391665766
+    second: astro_chars_2_65
+  - first:
+      213: -2342744626848771416
+    second: astro_chars_2_66
+  - first:
+      213: 9076769963145139425
+    second: astro_chars_2_67
+  - first:
+      213: -4138268875498724092
+    second: astro_chars_2_68
+  - first:
+      213: 8639362265638012636
+    second: astro_chars_2_69
+  - first:
+      213: -7816003990967678681
+    second: astro_chars_2_70
+  - first:
+      213: 5828120825523018739
+    second: astro_chars_2_71
+  - first:
+      213: 5743545162867531895
+    second: astro_chars_2_72
+  - first:
+      213: -8780201362761036240
+    second: astro_chars_2_73
+  - first:
+      213: -6797916005380984173
+    second: astro_chars_2_74
+  - first:
+      213: -5681412139548451678
+    second: astro_chars_2_75
+  - first:
+      213: 2416171419479011221
+    second: astro_chars_2_76
+  - first:
+      213: -6956054996180318023
+    second: astro_chars_2_77
+  - first:
+      213: 4970077692656874854
+    second: astro_chars_2_78
+  - first:
+      213: -4754141055390241004
+    second: astro_chars_2_79
+  - first:
+      213: 7641179775165956258
+    second: astro_chars_2_80
+  - first:
+      213: -1270027029129541395
+    second: astro_chars_2_81
+  - first:
+      213: -4137279797094402446
+    second: astro_chars_2_82
+  - first:
+      213: -3846335157624805598
+    second: astro_chars_2_83
+  - first:
+      213: -6153628154777503058
+    second: astro_chars_2_84
+  - first:
+      213: 4012154559563656744
+    second: astro_chars_2_85
+  - first:
+      213: 7571666867312972765
+    second: astro_chars_2_86
+  - first:
+      213: 1971791848796983333
+    second: astro_chars_2_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: astro_chars_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 449
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66434c93d2eae4510800000000000000
+      internalID: 1535356032245838950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 449
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e863d3ee1d1bf30800000000000000
+      internalID: 4589680316426653240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 449
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4ed96feecabc590800000000000000
+      internalID: -7652832999446289154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 449
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d5fdf3c54802770800000000000000
+      internalID: 8584006421511625986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 449
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddb1bcb80f2937b0800000000000000
+      internalID: -5244108576524223015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 449
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc47e3144d515b00800000000000000
+      internalID: 815535554503855282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 449
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29536fb8b235bc030800000000000000
+      internalID: 3515995380589671826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 449
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d784581d547688650800000000000000
+      internalID: 6235347233660029053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 449
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cdeca16cbe07920800000000000000
+      internalID: 2986145789032455187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 449
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd5819a4d5188730800000000000000
+      internalID: 4001472272032882096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 385
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a673b338234643f0800000000000000
+      internalID: -916971634178165087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 385
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f5f59f0cdf85ac0800000000000000
+      internalID: -3866061274838245483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 385
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf2d4725e1a01be0800000000000000
+      internalID: -1508527869590163521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 385
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff97c7cb6e0e7430800000000000000
+      internalID: 3782476593113833457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 385
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aca2d7f49f10890800000000000000
+      internalID: -7493434185170105711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 385
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d08b395819a64b0800000000000000
+      internalID: -5446380796456202978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed56431b9c9fd540800000000000000
+      internalID: 5034915098280746464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 385
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9c33f4ae9eed20800000000000000
+      internalID: 3309757207456554190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 385
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831c4f5379284c260800000000000000
+      internalID: 7116956897109131576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 385
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dbe886e67443090800000000000000
+      internalID: -8055735293932815104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 385
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922e6a511876cd7d0800000000000000
+      internalID: -2892323056567000535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 385
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6040de42935808e40800000000000000
+      internalID: 5656667612456485894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11825272cfeedf40800000000000000
+      internalID: 5755300992246776091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b7333c6ed74e690800000000000000
+      internalID: -7573790243259450537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ab7b6414fa25260800000000000000
+      internalID: 7084917858701392437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 321
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9805df186ec3410800000000000000
+      internalID: 1458293825336281574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_26
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 321
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5888ddc1e9b570980800000000000000
+      internalID: -8572782631029208955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 321
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773f9956b2976e1d0800000000000000
+      internalID: -3321834447844019337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8130fbba3d5b6d70800000000000000
+      internalID: 9037419584091599246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 321
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3ffdb215ff463e0800000000000000
+      internalID: -2061242005335313419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964dbe0b1609e010800000000000000
+      internalID: 1218511887461598870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 321
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc88addfe7464cb0800000000000000
+      internalID: -4880134050667787074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec59af144ab8f53c0800000000000000
+      internalID: -4368619575928252978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 321
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5a98c673fc197b0800000000000000
+      internalID: -5219162656194583089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10439a6b49ded23f0800000000000000
+      internalID: -923821125565598719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64b2c5c63ef5ef10800000000000000
+      internalID: 2298522696042067052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc7b50b51315570800000000000000
+      internalID: 8453592242558847775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 257
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15022aa9588912350800000000000000
+      internalID: 5990236678971859025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d13e34b1fdb1bb0800000000000000
+      internalID: -4964128856049771190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_39
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 257
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff837d48aa1cd980800000000000000
+      internalID: -8512899885480833039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_40
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412c562c13043c90800000000000000
+      internalID: -7191119285566299830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 257
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93a4ee7ddfa16bb0800000000000000
+      internalID: -4944477550024547430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbc747f0bbf76b90800000000000000
+      internalID: -7248548337748030537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 257
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0031c4576b0f9e0800000000000000
+      internalID: -1589570053558042455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eba38bb48fe7f110800000000000000
+      internalID: 1294766771252997088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 193
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d894ace5267a7b20800000000000000
+      internalID: 3132946396045678808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86243d6d13006b2d0800000000000000
+      internalID: -3263420665925778840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65325a18bd1ab920800000000000000
+      internalID: 3006748377776010604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 193
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259dc139ac1750bc0800000000000000
+      internalID: -3817519994261153454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb376e80357c100800000000000000
+      internalID: 128162412094536845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fba6e8c672e13c0800000000000000
+      internalID: -4387025639812972709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34a9e69211f3f0c0800000000000000
+      internalID: -4543022536943098820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b663ea163577a2270800000000000000
+      internalID: 8226518869350430315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 193
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304fdcaf22a19d20800000000000000
+      internalID: 3283583928977276990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 129
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893e859dd5e2def0800000000000000
+      internalID: -84752703106958970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830cf3979ab33c320800000000000000
+      internalID: 2576969010855788600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9adb16ca090826a0800000000000000
+      internalID: -6473914522467050852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_57
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 129
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f80376aae432310800000000000000
+      internalID: 1379032404688146316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_58
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 129
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6990903547505f9c0800000000000000
+      internalID: -3894200305624479338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_59
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 129
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826a4a9547b564f60800000000000000
+      internalID: 8018196741858043432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550856e5f398bbc40800000000000000
+      internalID: 5529163872787071061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48663b1b9d7495c20800000000000000
+      internalID: 3195664410910877316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87990d041b403a8a0800000000000000
+      internalID: -6295182694790686344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_63
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 129
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9d1e7cadc3d3b60800000000000000
+      internalID: 7727399445991643620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_64
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 129
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff7dc70c4a8795a0800000000000000
+      internalID: -6514586276815077382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_65
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 129
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99200562ac7cbdc0800000000000000
+      internalID: -3621882963391665766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2593d9c26ec7fd0800000000000000
+      internalID: -2342744626848771416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e49331d03a27fd70800000000000000
+      internalID: 9076769963145139425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405e7da126ae196c0800000000000000
+      internalID: -4138268875498724092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd68441153e25e770800000000000000
+      internalID: 8639362265638012636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 65
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729065bf7c9f78390800000000000000
+      internalID: -7816003990967678681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 65
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb1b591305a1e050800000000000000
+      internalID: 5828120825523018739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770e12025eb25bf40800000000000000
+      internalID: 5743545162867531895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e4a3c4165762680800000000000000
+      internalID: -8780201362761036240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_74
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f256f863f8a1a0800000000000000
+      internalID: -6797916005380984173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac5f9fa2c19721b0800000000000000
+      internalID: -5681412139548451678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f6f76ca17f78120800000000000000
+      internalID: 2416171419479011221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_77
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b84792f5d0277f90800000000000000
+      internalID: -6956054996180318023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665f7e0345349f440800000000000000
+      internalID: 4970077692656874854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f2d5d06e5e50eb0800000000000000
+      internalID: -4754141055390241004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a08aa3558cea0a60800000000000000
+      internalID: 7641179775165956258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8c6995525ff5ee0800000000000000
+      internalID: -1270027029129541395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_82
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276b9cdd1fd6596c0800000000000000
+      internalID: -4137279797094402446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_83
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2276daa8d821f9ac0800000000000000
+      internalID: -3846335157624805598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_84
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaf4aaebcbe99aa0800000000000000
+      internalID: -6153628154777503058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e61ca80590ea730800000000000000
+      internalID: 4012154559563656744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_86
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d8cf36e6f31960800000000000000
+      internalID: 7571666867312972765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astro_chars_2_87
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201e8e4d363d5b10800000000000000
+      internalID: 1971791848796983333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      astro_chars_2_0: 1535356032245838950
+      astro_chars_2_1: 4589680316426653240
+      astro_chars_2_10: -916971634178165087
+      astro_chars_2_11: -3866061274838245483
+      astro_chars_2_12: -1508527869590163521
+      astro_chars_2_13: 3782476593113833457
+      astro_chars_2_14: -7493434185170105711
+      astro_chars_2_15: -5446380796456202978
+      astro_chars_2_16: 5034915098280746464
+      astro_chars_2_17: 3309757207456554190
+      astro_chars_2_18: 7116956897109131576
+      astro_chars_2_19: -8055735293932815104
+      astro_chars_2_2: -7652832999446289154
+      astro_chars_2_20: -2892323056567000535
+      astro_chars_2_21: 5656667612456485894
+      astro_chars_2_22: 5755300992246776091
+      astro_chars_2_23: -7573790243259450537
+      astro_chars_2_24: 7084917858701392437
+      astro_chars_2_25: 1458293825336281574
+      astro_chars_2_26: -8572782631029208955
+      astro_chars_2_27: -3321834447844019337
+      astro_chars_2_28: 9037419584091599246
+      astro_chars_2_29: -2061242005335313419
+      astro_chars_2_3: 8584006421511625986
+      astro_chars_2_30: 1218511887461598870
+      astro_chars_2_31: -4880134050667787074
+      astro_chars_2_32: -4368619575928252978
+      astro_chars_2_33: -5219162656194583089
+      astro_chars_2_34: -923821125565598719
+      astro_chars_2_35: 2298522696042067052
+      astro_chars_2_36: 8453592242558847775
+      astro_chars_2_37: 5990236678971859025
+      astro_chars_2_38: -4964128856049771190
+      astro_chars_2_39: -8512899885480833039
+      astro_chars_2_4: -5244108576524223015
+      astro_chars_2_40: -7191119285566299830
+      astro_chars_2_41: -4944477550024547430
+      astro_chars_2_42: -7248548337748030537
+      astro_chars_2_43: -1589570053558042455
+      astro_chars_2_44: 1294766771252997088
+      astro_chars_2_45: 3132946396045678808
+      astro_chars_2_46: -3263420665925778840
+      astro_chars_2_47: 3006748377776010604
+      astro_chars_2_48: -3817519994261153454
+      astro_chars_2_49: 128162412094536845
+      astro_chars_2_5: 815535554503855282
+      astro_chars_2_50: -4387025639812972709
+      astro_chars_2_51: -4543022536943098820
+      astro_chars_2_52: 8226518869350430315
+      astro_chars_2_53: 3283583928977276990
+      astro_chars_2_54: -84752703106958970
+      astro_chars_2_55: 2576969010855788600
+      astro_chars_2_56: -6473914522467050852
+      astro_chars_2_57: 1379032404688146316
+      astro_chars_2_58: -3894200305624479338
+      astro_chars_2_59: 8018196741858043432
+      astro_chars_2_6: 3515995380589671826
+      astro_chars_2_60: 5529163872787071061
+      astro_chars_2_61: 3195664410910877316
+      astro_chars_2_62: -6295182694790686344
+      astro_chars_2_63: 7727399445991643620
+      astro_chars_2_64: -6514586276815077382
+      astro_chars_2_65: -3621882963391665766
+      astro_chars_2_66: -2342744626848771416
+      astro_chars_2_67: 9076769963145139425
+      astro_chars_2_68: -4138268875498724092
+      astro_chars_2_69: 8639362265638012636
+      astro_chars_2_7: 6235347233660029053
+      astro_chars_2_70: -7816003990967678681
+      astro_chars_2_71: 5828120825523018739
+      astro_chars_2_72: 5743545162867531895
+      astro_chars_2_73: -8780201362761036240
+      astro_chars_2_74: -6797916005380984173
+      astro_chars_2_75: -5681412139548451678
+      astro_chars_2_76: 2416171419479011221
+      astro_chars_2_77: -6956054996180318023
+      astro_chars_2_78: 4970077692656874854
+      astro_chars_2_79: -4754141055390241004
+      astro_chars_2_8: 2986145789032455187
+      astro_chars_2_80: 7641179775165956258
+      astro_chars_2_81: -1270027029129541395
+      astro_chars_2_82: -4137279797094402446
+      astro_chars_2_83: -3846335157624805598
+      astro_chars_2_84: -6153628154777503058
+      astro_chars_2_85: 4012154559563656744
+      astro_chars_2_86: 7571666867312972765
+      astro_chars_2_87: 1971791848796983333
+      astro_chars_2_9: 4001472272032882096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
