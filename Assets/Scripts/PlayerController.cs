@@ -45,7 +45,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private Vector2 movement;
-    private Vector2 lastDirection = Vector2.right; //Para guardar la última dirección en la que me moví
+    private WeaponController weapon;
     private LevelManager levelManager;
     public bool knockback;
 
@@ -56,6 +56,7 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponentInChildren<Animator>();
         levelManager = FindObjectOfType<LevelManager>();
+        weapon = GetComponentInChildren<WeaponController>();
 
         UpdateLife();
     }
@@ -71,11 +72,6 @@ public class PlayerController : MonoBehaviour
 
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
-
-        if (movement != Vector2.zero)           
-        {
-            lastDirection = movement.normalized;
-        }
 
         animator.SetBool("Run", movement != Vector2.zero);        
         
@@ -100,26 +96,16 @@ public class PlayerController : MonoBehaviour
 
     private void Attack()
     {
-        if (currentLife <=0)
+        if (currentLife <= 0)
         {
             return;
         }
-        
-        if (Input.GetMouseButtonDown(0) && Time.time >= fireTime + fireRate) 
-        {
-            Shoot();
-            animator.SetTrigger("Attack");
-            fireTime = Time.time;
-        }
-    }
 
-    private void Shoot()
-    {
-        //AudioManager.Instance.PlaySFX(shootSFX);
-        GameObject bulletObj = Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
-        BulletScript bullet = bulletObj.GetComponent<BulletScript>();
-        bullet.damage = damage;     
-        bullet.SetDirection(lastDirection);          
+        if (Input.GetMouseButtonDown(1))
+        {
+            //AudioManager.Instance.PlaySFX(attackSound);
+            weapon.Attack();      
+        }
     }
 
     public void KnockBack(float _knockbackForce, Vector2 _direct)
