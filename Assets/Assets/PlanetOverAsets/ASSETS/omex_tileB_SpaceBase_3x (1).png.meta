@@ -1,0 +1,1401 @@
+fileFormatVersion: 2
+guid: 4894c3df709eba24a93b0ced05716faf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6890915655167314761
+    second: omex_tileB_SpaceBase_3x (1)_0
+  - first:
+      213: 7368637615865159905
+    second: omex_tileB_SpaceBase_3x (1)_1
+  - first:
+      213: -1277964795183077631
+    second: omex_tileB_SpaceBase_3x (1)_2
+  - first:
+      213: -2175018467626723840
+    second: omex_tileB_SpaceBase_3x (1)_3
+  - first:
+      213: 4109514256824540418
+    second: omex_tileB_SpaceBase_3x (1)_4
+  - first:
+      213: 2493779448045337534
+    second: omex_tileB_SpaceBase_3x (1)_5
+  - first:
+      213: -3053862890443497377
+    second: omex_tileB_SpaceBase_3x (1)_6
+  - first:
+      213: 3870686583556319707
+    second: omex_tileB_SpaceBase_3x (1)_7
+  - first:
+      213: 1698515228471180265
+    second: omex_tileB_SpaceBase_3x (1)_8
+  - first:
+      213: 367388991199063277
+    second: omex_tileB_SpaceBase_3x (1)_9
+  - first:
+      213: -8301904505664806092
+    second: omex_tileB_SpaceBase_3x (1)_10
+  - first:
+      213: 6973287569319923605
+    second: omex_tileB_SpaceBase_3x (1)_11
+  - first:
+      213: 5302725461160320815
+    second: omex_tileB_SpaceBase_3x (1)_12
+  - first:
+      213: -840830051646278804
+    second: omex_tileB_SpaceBase_3x (1)_13
+  - first:
+      213: 5931708503298935729
+    second: omex_tileB_SpaceBase_3x (1)_14
+  - first:
+      213: 8095285178569193658
+    second: omex_tileB_SpaceBase_3x (1)_15
+  - first:
+      213: 6068537509277981920
+    second: omex_tileB_SpaceBase_3x (1)_16
+  - first:
+      213: -8393327883486603951
+    second: omex_tileB_SpaceBase_3x (1)_17
+  - first:
+      213: -4869282859359027091
+    second: omex_tileB_SpaceBase_3x (1)_18
+  - first:
+      213: -8107172446161174690
+    second: omex_tileB_SpaceBase_3x (1)_19
+  - first:
+      213: 9161301047584750129
+    second: omex_tileB_SpaceBase_3x (1)_20
+  - first:
+      213: 7120406535576373237
+    second: omex_tileB_SpaceBase_3x (1)_21
+  - first:
+      213: -2228608251613192808
+    second: omex_tileB_SpaceBase_3x (1)_22
+  - first:
+      213: -3042936724640352835
+    second: omex_tileB_SpaceBase_3x (1)_23
+  - first:
+      213: -696075572035089566
+    second: omex_tileB_SpaceBase_3x (1)_24
+  - first:
+      213: -2339929801069712195
+    second: omex_tileB_SpaceBase_3x (1)_25
+  - first:
+      213: 6472820272539046606
+    second: omex_tileB_SpaceBase_3x (1)_26
+  - first:
+      213: -7865318706219312265
+    second: omex_tileB_SpaceBase_3x (1)_27
+  - first:
+      213: -6237638681515477285
+    second: omex_tileB_SpaceBase_3x (1)_28
+  - first:
+      213: 210209147729916412
+    second: omex_tileB_SpaceBase_3x (1)_29
+  - first:
+      213: -2135337790791855206
+    second: omex_tileB_SpaceBase_3x (1)_30
+  - first:
+      213: 5168948204281572106
+    second: omex_tileB_SpaceBase_3x (1)_31
+  - first:
+      213: 614994729890091988
+    second: omex_tileB_SpaceBase_3x (1)_32
+  - first:
+      213: -7718117816705171167
+    second: omex_tileB_SpaceBase_3x (1)_33
+  - first:
+      213: 3683721929018960508
+    second: omex_tileB_SpaceBase_3x (1)_34
+  - first:
+      213: 1647759377065629038
+    second: omex_tileB_SpaceBase_3x (1)_35
+  - first:
+      213: 6567810321358634615
+    second: omex_tileB_SpaceBase_3x (1)_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 725
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4f294a8bc8e50a0800000000000000
+      internalID: -6890915655167314761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 722
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e06934fed8a24660800000000000000
+      internalID: 7368637615865159905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 722
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10768ab2ac1c34ee0800000000000000
+      internalID: -1277964795183077631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 671
+        width: 242
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006d1393a38c0d1e0800000000000000
+      internalID: -2175018467626723840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 722
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d1e65817de70930800000000000000
+      internalID: 4109514256824540418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 698
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb79e4023fab9220800000000000000
+      internalID: 2493779448045337534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_6
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 335
+        width: 145
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f502e5691ef7e95d0800000000000000
+      internalID: -3053862890443497377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 674
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9aeb1a0f077b530800000000000000
+      internalID: 3870686583556319707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 674
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebbd96e996529710800000000000000
+      internalID: 1698515228471180265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 674
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec2fca475a391500800000000000000
+      internalID: 367388991199063277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 359
+        width: 140
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43362a466d5b9cc80800000000000000
+      internalID: -8301904505664806092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 539
+        width: 212
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f06f5291816c060800000000000000
+      internalID: 6973287569319923605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 575
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f51ed36b0179940800000000000000
+      internalID: 5302725461160320815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_13
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 560
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63762fd585c454f0800000000000000
+      internalID: -840830051646278804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 575
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb0c4ac479a15250800000000000000
+      internalID: 5931708503298935729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 530
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f910bafa385070800000000000000
+      internalID: 8095285178569193658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecd5a256b6c73450800000000000000
+      internalID: 6068537509277981920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155566d72c8e48b80800000000000000
+      internalID: -8393327883486603951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 485
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60c109b905dc6cb0800000000000000
+      internalID: -4869282859359027091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f7ab52d998d7f80800000000000000
+      internalID: -8107172446161174690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 432
+        width: 158
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af3bd93ca732f70800000000000000
+      internalID: 9161301047584750129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 431
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f74661c404c0d260800000000000000
+      internalID: 7120406535576373237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 239
+        width: 182
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d57135a946211e0800000000000000
+      internalID: -2228608251613192808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 81
+        width: 108
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db532ddcb2155c5d0800000000000000
+      internalID: -3042936724640352835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_24
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 294
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b850884fa0756f0800000000000000
+      internalID: -696075572035089566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_25
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 294
+        width: 177
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbca3ef4e36e68fd0800000000000000
+      internalID: -2339929801069712195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 167
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec213af4eb314d950800000000000000
+      internalID: 6472820272539046606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_27
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 161
+        width: 152
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b10961f46c8d290800000000000000
+      internalID: -7865318706219312265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_28
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6b807eaa47f69a0800000000000000
+      internalID: -6237638681515477285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 54
+        width: 180
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1bafa2b10dae200800000000000000
+      internalID: 210209147729916412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 90
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a935260c791cd52e0800000000000000
+      internalID: -2135337790791855206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_31
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ba89a610bcbb740800000000000000
+      internalID: 5168948204281572106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d316ddc276e88800800000000000000
+      internalID: 614994729890091988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121cca0fcbcb3e490800000000000000
+      internalID: -7718117816705171167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7aed76c3953f1330800000000000000
+      internalID: 3683721929018960508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65d0595c640ed610800000000000000
+      internalID: 1647759377065629038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb9b480bc852b50800000000000000
+      internalID: 6567810321358634615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_37
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 363
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2d148bea3f324f9c4aea4ab6c4cb5
+      internalID: -893983401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_38
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 459
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca451af191dade44489e124b33932e40
+      internalID: -988805486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9111255a4cca2444697f32b85eaa0fc7
+      internalID: 171838010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_40
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed411f583511477409e95806533e1a53
+      internalID: -524726344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 627
+        width: 48
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83e72cc77bf6ab4d8add36663e99fba
+      internalID: 1335391481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 483
+        width: 48
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43fb02171d701e4ba42e99d94a7a3f8
+      internalID: 1096794107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_43
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 369
+        width: 42
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc91985dddc4c4d9293dabd7eafa37
+      internalID: 684222566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_44
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 42
+        width: 105
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a34a9cc3e792a04dad10dc4e09f2f9f
+      internalID: 879863865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_45
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301acc7ee97c6da4fb6e6fc6889b169c
+      internalID: 1836841882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 384
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2859eca3a155544b0d4490d739ec79
+      internalID: 176008757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 350
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d81e03ce79f614d92f81eb55d708c8
+      internalID: 1426022334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_48
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 336
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e1661f884a25b49a783ef28ea8c176
+      internalID: 1977113415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 144
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcece4a46514106438b09dfa7f629db9
+      internalID: 137963485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5ef6e7dca302f41b46e825c25e7f62
+      internalID: -961749120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb26d26095710cb48a92891b85acd17b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      omex_tileB_SpaceBase_3x (1)_0: -6890915655167314761
+      omex_tileB_SpaceBase_3x (1)_1: 7368637615865159905
+      omex_tileB_SpaceBase_3x (1)_10: -8301904505664806092
+      omex_tileB_SpaceBase_3x (1)_11: 6973287569319923605
+      omex_tileB_SpaceBase_3x (1)_12: 5302725461160320815
+      omex_tileB_SpaceBase_3x (1)_13: -840830051646278804
+      omex_tileB_SpaceBase_3x (1)_14: 5931708503298935729
+      omex_tileB_SpaceBase_3x (1)_15: 8095285178569193658
+      omex_tileB_SpaceBase_3x (1)_16: 6068537509277981920
+      omex_tileB_SpaceBase_3x (1)_17: -8393327883486603951
+      omex_tileB_SpaceBase_3x (1)_18: -4869282859359027091
+      omex_tileB_SpaceBase_3x (1)_19: -8107172446161174690
+      omex_tileB_SpaceBase_3x (1)_2: -1277964795183077631
+      omex_tileB_SpaceBase_3x (1)_20: 9161301047584750129
+      omex_tileB_SpaceBase_3x (1)_21: 7120406535576373237
+      omex_tileB_SpaceBase_3x (1)_22: -2228608251613192808
+      omex_tileB_SpaceBase_3x (1)_23: -3042936724640352835
+      omex_tileB_SpaceBase_3x (1)_24: -696075572035089566
+      omex_tileB_SpaceBase_3x (1)_25: -2339929801069712195
+      omex_tileB_SpaceBase_3x (1)_26: 6472820272539046606
+      omex_tileB_SpaceBase_3x (1)_27: -7865318706219312265
+      omex_tileB_SpaceBase_3x (1)_28: -6237638681515477285
+      omex_tileB_SpaceBase_3x (1)_29: 210209147729916412
+      omex_tileB_SpaceBase_3x (1)_3: -2175018467626723840
+      omex_tileB_SpaceBase_3x (1)_30: -2135337790791855206
+      omex_tileB_SpaceBase_3x (1)_31: 5168948204281572106
+      omex_tileB_SpaceBase_3x (1)_32: 614994729890091988
+      omex_tileB_SpaceBase_3x (1)_33: -7718117816705171167
+      omex_tileB_SpaceBase_3x (1)_34: 3683721929018960508
+      omex_tileB_SpaceBase_3x (1)_35: 1647759377065629038
+      omex_tileB_SpaceBase_3x (1)_36: 6567810321358634615
+      omex_tileB_SpaceBase_3x (1)_37: -893983401
+      omex_tileB_SpaceBase_3x (1)_38: -988805486
+      omex_tileB_SpaceBase_3x (1)_39: 171838010
+      omex_tileB_SpaceBase_3x (1)_4: 4109514256824540418
+      omex_tileB_SpaceBase_3x (1)_40: -524726344
+      omex_tileB_SpaceBase_3x (1)_41: 1335391481
+      omex_tileB_SpaceBase_3x (1)_42: 1096794107
+      omex_tileB_SpaceBase_3x (1)_43: 684222566
+      omex_tileB_SpaceBase_3x (1)_44: 879863865
+      omex_tileB_SpaceBase_3x (1)_45: 1836841882
+      omex_tileB_SpaceBase_3x (1)_46: 176008757
+      omex_tileB_SpaceBase_3x (1)_47: 1426022334
+      omex_tileB_SpaceBase_3x (1)_48: 1977113415
+      omex_tileB_SpaceBase_3x (1)_49: 137963485
+      omex_tileB_SpaceBase_3x (1)_5: 2493779448045337534
+      omex_tileB_SpaceBase_3x (1)_50: -961749120
+      omex_tileB_SpaceBase_3x (1)_6: -3053862890443497377
+      omex_tileB_SpaceBase_3x (1)_7: 3870686583556319707
+      omex_tileB_SpaceBase_3x (1)_8: 1698515228471180265
+      omex_tileB_SpaceBase_3x (1)_9: 367388991199063277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
