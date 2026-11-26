@@ -159,7 +159,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 65
+  spritePixelsToUnits: 50
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1181,7 +1181,7 @@ TextureImporter:
         serializedVersion: 2
         x: 258
         y: 42
-        width: 105
+        width: 9
         height: 48
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1203,7 +1203,7 @@ TextureImporter:
         serializedVersion: 2
         x: 258
         y: 0
-        width: 105
+        width: 9
         height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1351,6 +1351,94 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 42
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66245501fa0ec00408717c2c9ed0676c
+      internalID: -681015232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_53
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193504ea41ec2547a8d36b1003ecc25
+      internalID: 817830438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 51
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a21fcfa2ae796d4ebcc29f317046e7c
+      internalID: 206252811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_SpaceBase_3x (1)_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e47cc9028d842b42ac3f94c3c7e4a1f
+      internalID: 2096416335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -1413,6 +1501,10 @@ TextureImporter:
       omex_tileB_SpaceBase_3x (1)_5: 2493779448045337534
       omex_tileB_SpaceBase_3x (1)_50: -961749120
       omex_tileB_SpaceBase_3x (1)_51: 1570396608
+      omex_tileB_SpaceBase_3x (1)_52: -681015232
+      omex_tileB_SpaceBase_3x (1)_53: 817830438
+      omex_tileB_SpaceBase_3x (1)_54: 206252811
+      omex_tileB_SpaceBase_3x (1)_55: 2096416335
       omex_tileB_SpaceBase_3x (1)_6: -3053862890443497377
       omex_tileB_SpaceBase_3x (1)_7: 3870686583556319707
       omex_tileB_SpaceBase_3x (1)_8: 1698515228471180265

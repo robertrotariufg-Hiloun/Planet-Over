@@ -156,7 +156,7 @@ public class PlayerController : MonoBehaviour
 
     public void UpdateLife()
     {
-        lifeBar.fillAmount = currentLife / maxLife;
-        lifeText.text = "LIFE: " + currentLife + " / " + maxLife;
+        //lifeBar.fillAmount = currentLife / maxLife;
+        //lifeText.text = "LIFE: " + currentLife + " / " + maxLife;
     }
 }
