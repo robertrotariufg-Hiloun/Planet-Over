@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     [Header("Vida")]
     public float maxLife;
     public float currentLife;
+    public bool isDead = false; 
 
     [Header("Ataque")]
     public float baseDamage;
@@ -38,8 +39,6 @@ public class PlayerController : MonoBehaviour
     private Text lifeText;
     [SerializeField]
     private Image lifeBar;
-    [SerializeField]
-    private GameObject gameOverPanel; 
 
     private Rigidbody2D rb;
     private Animator animator;
@@ -47,6 +46,7 @@ public class PlayerController : MonoBehaviour
     private WeaponController weapon;
     private LevelManager levelManager;
     public bool knockback;
+
 
 
     private void Start()
@@ -62,6 +62,11 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        if (isDead == true)
+        {
+            return; 
+        }
+
         if (currentLife <=0)
         {
             return;
@@ -147,11 +152,11 @@ public class PlayerController : MonoBehaviour
 
     private void Die()
     {
-        animator.SetTrigger("Death");
+        isDead = true;
         rb.linearVelocity = Vector2.zero;
-        gameOverPanel.SetActive(true);
-        //AudioManager.Instance.PlaySFX(deathSound);
-        enabled = false;
+        //AudioManager.Instance.PlaySFX(deathSFX);
+        animator.SetTrigger("Death");
+        enabled = false; 
     }
 
     public void UpdateLife()
