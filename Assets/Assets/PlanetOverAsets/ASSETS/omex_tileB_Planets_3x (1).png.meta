@@ -1769,9 +1769,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 402
-        y: 81
+        y: 144
         width: 108
-        height: 231
+        height: 168
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2288,6 +2288,28 @@ TextureImporter:
       bones: []
       spriteID: c5f3b24a0b979a040bfc297584d553c5
       internalID: -4494186290451968246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omex_tileB_Planets_3x (1)_61
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 82
+        width: 108
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed87da264a572478c351a269132581
+      internalID: -6024830831306783566
       vertices: []
       indices: 
       edges: []
