@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Planetas.unity
+    guid: caa95136c56a9ac408a47cbdfce92037
+  - enabled: 1
+    path: Assets/Scenes/Nave.unity
+    guid: bb51b5938f3770b4ca5a1632eb5bcc10
+  - enabled: 1
+    path: Assets/Scenes/Vysar.unity
+    guid: cef31fb8b9c91498c9d2ab7e046988be
+  - enabled: 1
+    path: Assets/Scenes/Keshar.unity
+    guid: 56d0fb867827445e3af103789362539f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
