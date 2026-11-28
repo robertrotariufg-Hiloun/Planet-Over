@@ -165,7 +165,7 @@ public class EnemyBase : MonoBehaviour
         }
 
         life -= _damage;
-        //animator.SetTrigger("Hit");
+        animator.SetTrigger("Hit");
 
         if (life <= 0)
         {

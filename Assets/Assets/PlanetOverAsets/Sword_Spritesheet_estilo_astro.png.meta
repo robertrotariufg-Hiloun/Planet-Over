@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 1c3a911775b67374a9bd1e651eb66a2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3639538837216944842
+    second: Sword_Spritesheet_estilo_astro_0
+  - first:
+      213: 1585468417460777115
+    second: Sword_Spritesheet_estilo_astro_1
+  - first:
+      213: -8561604915107023887
+    second: Sword_Spritesheet_estilo_astro_2
+  - first:
+      213: -3039504901543384588
+    second: Sword_Spritesheet_estilo_astro_3
+  - first:
+      213: -5808226134697815042
+    second: Sword_Spritesheet_estilo_astro_4
+  - first:
+      213: 1216662671108791129
+    second: Sword_Spritesheet_estilo_astro_5
+  - first:
+      213: 778009304026577225
+    second: Sword_Spritesheet_estilo_astro_6
+  - first:
+      213: 8286393842656652420
+    second: Sword_Spritesheet_estilo_astro_7
+  - first:
+      213: 2677528177525683450
+    second: Sword_Spritesheet_estilo_astro_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword_Spritesheet_estilo_astro_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 17
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d127de5b2cd7dc0800000000000000
+      internalID: -3639538837216944842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Spritesheet_estilo_astro_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90b9512027b00610800000000000000
+      internalID: 1585468417460777115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Spritesheet_estilo_astro_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3bec7e0b11f2980800000000000000
+      internalID: -8561604915107023887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Spritesheet_estilo_astro_3
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 29
+        width: 89
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9a272656281d5d0800000000000000
+      internalID: -3039504901543384588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Spritesheet_estilo_astro_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef352329a19056fa0800000000000000
+      internalID: -5808226134697815042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c9db90a0042b2c641872c2c9c2c01603
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sword_Spritesheet_estilo_astro_0: -3639538837216944842
+      Sword_Spritesheet_estilo_astro_1: 1585468417460777115
+      Sword_Spritesheet_estilo_astro_2: -8561604915107023887
+      Sword_Spritesheet_estilo_astro_3: -3039504901543384588
+      Sword_Spritesheet_estilo_astro_4: -5808226134697815042
+      Sword_Spritesheet_estilo_astro_5: 1216662671108791129
+      Sword_Spritesheet_estilo_astro_6: 778009304026577225
+      Sword_Spritesheet_estilo_astro_7: 8286393842656652420
+      Sword_Spritesheet_estilo_astro_8: 2677528177525683450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

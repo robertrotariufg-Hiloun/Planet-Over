@@ -24,12 +24,12 @@ public class WeaponController : MonoBehaviour
     {
         if (collision.CompareTag("Enemy"))
         {
-            EnemyController enemy = collision.GetComponent<EnemyController>();
+            EnemyBase enemy = collision.GetComponent<EnemyBase>();
 
             if (enemy != null)
             {
-                //enemy.TakeDamage(player.damage);
-                //enemy.KnockBack(knockBackForce, (enemy.transform.position - transform.position).normalized);
+                enemy.TakeDamage(player.damage);
+                enemy.KnockBack(knockBackForce, (enemy.transform.position - transform.position).normalized);
             }
         }
         /*else if (collision.CompareTag("Wood"))

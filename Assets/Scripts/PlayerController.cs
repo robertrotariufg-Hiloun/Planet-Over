@@ -127,6 +127,11 @@ public class PlayerController : MonoBehaviour
 
     public void KnockBack(float _knockbackForce, Vector2 _direct)
     {
+        if (isDead == true)     
+        {
+            return;
+        }
+
         knockback = true;
         rb.AddForce(_direct * _knockbackForce);
         Invoke("KnockbackEnd", 0.5f);
@@ -139,22 +144,29 @@ public class PlayerController : MonoBehaviour
 
     public void TakeDamage(float damageTaken)
     {
+        if (isDead == true)    
+        {
+            return;
+        }
+
         currentLife -= damageTaken;
+        UpdateLife();
 
         if (currentLife <= 0)
         {
             Die();
         }
 
-        UpdateLife();
-        animator.SetTrigger("Hit");
+        animator.SetTrigger("Hit");        
     }
 
     private void Die()
     {
         isDead = true;
         rb.linearVelocity = Vector2.zero;
+
         //AudioManager.Instance.PlaySFX(deathSFX);
+
         animator.SetTrigger("Death");
         enabled = false; 
     }

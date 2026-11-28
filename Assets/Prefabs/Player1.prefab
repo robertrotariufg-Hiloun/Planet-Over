@@ -197,11 +197,11 @@ MonoBehaviour:
   speed: 5
   maxLife: 100
   currentLife: 100
+  isDead: 0
   baseDamage: 15
   damage: 15
   lifeText: {fileID: 0}
   lifeBar: {fileID: 0}
-  gameOverPanel: {fileID: 0}
   knockback: 0
 --- !u!1 &9127481731921465226
 GameObject:
